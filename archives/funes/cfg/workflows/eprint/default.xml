@@ -21,7 +21,8 @@
       <epc:phrase ref="Plugin/InputForm/Component/Upload:help"/>
     </component>
 
-    <component type="Upload">
+    <component type="Upload" />
+    <component type="Documents">
       <!--
       <upload-methods>
         <method>file</method>
