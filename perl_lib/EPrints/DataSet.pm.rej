@@ -1,0 +1,21 @@
+***************
+*** 240,251 ****
+  		index => 1,
+  		datestamp => "datestamp",
+  	},
+- 	sneep_comment => {
+- 		sqlname => "sneep_comment",
+- 		class => "EPrints::DataObj::SneepComment",
+- 		confid => "comment",
+- 		import => 1,
+- 	},
+  };
+  
+  
+--- 240,245 ----
+  		index => 1,
+  		datestamp => "datestamp",
+  	},
+  };
+  
+  

@@ -1,0 +1,80 @@
+***************
+*** 34,47 ****
+  	$p->appendChild( $eprint->render_citation() );
+  	$page->appendChild( $p );
+  
+- 	my $eprint_owner_allow=1; #this will be an option from.... elsewhere
+- 	my $comment;
+- 	my $tag;
+- 	if($eprint_owner_allow){
+- 		$comment = $session->plugin( "SneepComment" );
+- 		$tag = $session->plugin( "SneepTag", item=>$eprint );
+- 	}
+- 
+  	# Put in a message describing how this document has other versions
+  	# in the repository if appropriate
+  	if( $has_multiple_versions )
+--- 34,39 ----
+  	$p->appendChild( $eprint->render_citation() );
+  	$page->appendChild( $p );
+  
+  	# Put in a message describing how this document has other versions
+  	# in the repository if appropriate
+  	if( $has_multiple_versions )
+***************
+*** 390,431 ****
+  
+  	unless( $preview )
+  	{
+- 	  	# Add a link to the edit-page for this record. Handy for staff.
+-                 my $edit_para = $session->make_element( "p", align=>"right" );
+-                 $edit_para->appendChild( $session->html_phrase( 
+-                         "page:edit_link",
+-                         link => $session->render_link( $eprint->get_control_url ) ) );
+-                 $page->appendChild( $edit_para );
+- 
+- 		# A toolbar for links to sneep components
+- 		my $tool_div = $session->make_element( "div", class=>"sneep_toolbar", id=>"sneep_toolbar:eprint" );
+- 
+- 		# Here is the comment link
+- 		my $eprintid = $eprint->get_value( "eprintid" );
+- 		# It goes into the sneep_toolbar div
+- 		$tool_div->appendChild( $comment->render_comment_link( "EPrint", $eprintid ) );
+- 
+- 		# and here is the note link
+- 		$tool_div->appendChild( $session->make_text( " | " ) );
+- 		$tool_div->appendChild( $comment->render_note_link( "EPrint", $eprintid ) );
+- 		# a tag link
+- 		$tool_div->appendChild( $session->make_text( " | " ) );
+- 		$tool_div->appendChild( $tag->render_tag_link( "EPrint", $eprintid ) );
+- 
+- 		# sneep_toolbar div onto the page
+- 		$page->appendChild( $tool_div );
+- 
+- 		# Now we need to render some html to house the comments 
+- 		# (this will be hidden if properly initialised... see cfg.d/dynamic_remplate.pl, templates/default.xml and 80_sneep_comments.js)
+- 		$page->appendChild( $session->make_element( "br" ) );
+- 		# A general sneep div
+- 		my $sneep_div = $session->make_element( "div", id=>"sneep_main" );
+- 		# into which the components can go (if you want)
+- 		$page->appendChild( $sneep_div );
+- 		$sneep_div->appendChild( $comment->render_comments_box( "EPrint", $eprintid ) );
+- 		$sneep_div->appendChild( $comment->render_notes_box( "EPrint", $eprintid ) );
+- 		$sneep_div->appendChild( $tag->render_tag_box( "EPrint", $eprintid ) );
+- 
+  	}
+  
+  	my $title = $eprint->render_description();
+--- 382,393 ----
+  
+  	unless( $preview )
+  	{
++ 		# Add a link to the edit-page for this record. Handy for staff.
++ 		my $edit_para = $session->make_element( "p", align=>"right" );
++ 		$edit_para->appendChild( $session->html_phrase( 
++ 			"page:edit_link",
++ 			link => $session->render_link( $eprint->get_control_url ) ) );
++ 		$page->appendChild( $edit_para );
+  	}
+  
+  	my $title = $eprint->render_description();

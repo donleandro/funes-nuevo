@@ -1,0 +1,193 @@
+######################################################################
+#
+#  EPrints Register Account 
+#
+######################################################################
+#
+#  This file is part of GNU EPrints 3.
+#  
+#  Copyright (c) 2000-2007 University of Southampton, UK. SO17 1BJ.
+#  
+#  EPrints 3 is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+#  
+#  EPrints 3 is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#  
+#  You should have received a copy of the GNU General Public License
+#  along with EPrints 3; if not, write to the Free Software
+#  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+#
+######################################################################
+
+use EPrints;
+use strict;
+
+my $session = new EPrints::Session;
+exit( 0 ) unless( defined $session );
+
+my( $page, $title ) = make_page( $session );
+
+$session->build_page( $title, $page, "tag_view" );
+$session->send_page();
+
+$session->terminate();
+
+sub make_page
+{
+	my( $session ) = @_;
+
+	my $user = $session->current_user();
+
+	my $tag_obj = $session->plugin( "SneepTag::Display" );
+
+	my $action = $session->param("action") || "cloud";
+	my $filter = $session->param("filter") || undef;
+
+
+	my @tag_types;
+	if($session->param("tag_types")){
+		@tag_types = split(":", $session->param("tag_types"));
+	}else{
+		$tag_types[0] = "EPrint";
+	}
+	my $data = $tag_obj->get_tag_density(\@tag_types, $filter); #This returns a hashref
+	eval("\$tag_obj->render_tag_$action(\$data);");
+
+	my $page = $session->make_doc_fragment;
+	my $main_tag_div = $session->make_element( "div", id=>"sneep_t_main:".lc $tag_types[0], class=>"sneep_t_dialog" );
+	$page->appendChild($main_tag_div);
+
+	# Rounded corners - Thanks to David Kane of www.wit.ie
+	my $div_hd = $session->make_element("div", class=>"sneep_t_hd");
+	$main_tag_div->appendChild($div_hd);
+	my $div_c_empty = $session->make_element("div", class=>"sneep_t_c");
+	$div_hd->appendChild($div_c_empty);
+
+	my $div_bd = $session->make_element("div", class=>"sneep_t_bd");
+	$main_tag_div->appendChild($div_bd);
+	my $div_c = $session->make_element("div", class=>"sneep_t_c");
+	$div_bd->appendChild($div_c);
+	######################
+
+	$session->get_repository->{config}->{sneepTagLinkTitle} = $session->phrase("sneep/tag_view:title");
+
+	my $tag_tools_span = $session ->make_element("span", id=>"sneep_t_tools:".lc $tag_types[0], class=>"sneep_t_tools");
+
+	my $tag_view_list_label_js = $session->phrase("sneep/tag:view_toggle_list");
+	my $tag_view_cloud_label_js = $session->phrase("sneep/tag:view_toggle_cloud");
+	my $tag_view_toggle_link = $session->make_element("a", 
+							href=>"", 
+							title=>$session->phrase("sneep/tag_view:title"),
+							onclick=>"sneep_tag_view_toggle(this,'~list','~cloud','$tag_view_list_label_js','$tag_view_cloud_label_js', '".$tag_types[0]."', false); return false;", 
+							class=>"sneep_tool_link");
+	$tag_view_toggle_link->appendChild($session->html_phrase("sneep/tag:view_toggle_list"));
+	$tag_tools_span->appendChild($tag_view_toggle_link);
+
+	my $tag_view_my_label_js = $session->phrase("sneep/tag:view_all_tags");
+	my $tag_view_item_label_js = $session->phrase("sneep/tag:view_my_tags");
+	my $tag_view_mine_link = $session->make_element("a", 
+							href=>"", 
+							title=>$session->phrase("sneep/tag_view:title"),
+							onclick=>"sneep_tag_filter_toggle(this,'allTags','myTags','$tag_view_my_label_js','$tag_view_item_label_js', '".$tag_types[0]."', false); return false;", 
+							class=>"sneep_tool_link");
+	$tag_view_mine_link->appendChild($session->html_phrase("sneep/tag:view_my_tags"));
+	$tag_tools_span->appendChild( $session->make_text(" | ") );
+	$tag_tools_span->appendChild($tag_view_mine_link);
+
+	my $tag_msg = $session->make_element("ul", 
+						id=>"sneep_tag_msg:".lc $tag_types[0],
+						class=>"sneep_tag_message",
+						style=>"display: none;");
+
+	$tag_tools_span->appendChild( $tag_msg );
+
+	$div_c->appendChild($tag_tools_span);
+
+	# put down an invisible marker flagging component status (hidden or unhidden)
+	my $view_flag = $session->make_element("span", id=>"sneep_t_view_flag:".lc $tag_types[0], style=>"display: none;");
+	$view_flag->appendChild($session->make_text("~cloud"));
+	my $filter_flag = $session->make_element("span", id=>"sneep_t_filter_flag:".lc $tag_types[0], style=>"display: none;");
+	$filter_flag->appendChild($session->make_text("allTags"));
+	my $item_flag = $session->make_element("span", id=>"sneep_t_item_flag:".lc $tag_types[0], style=>"display: none;");
+	my $user = $session->current_user();
+	my $tag_user= $session->make_element("span", id=>"sneep_t_current_user", style=>"display: none;");
+	if($user){
+		$tag_user->appendChild($user->render_description());
+	}
+
+
+#	my $index_flag = $session->make_element("span", id=>"sneep_t_index_flag", style=>"display: none;");
+#	$index_flag->appendChild($session->html_phrase("sneep/tag:link_title", itemtype=>$itemtype, tag_text=>$tag_text));
+
+
+	$div_c->appendChild( $view_flag );
+	$div_c->appendChild( $filter_flag );
+	$div_c->appendChild( $item_flag ); #not used here but kept in so js doesn't break.
+	$div_c->appendChild( $tag_user ); #not used here but kept in so js doesn't break.
+
+	my $view_box = $tag_obj->render_tag_view_box($tag_types[0], undef, 1);
+	$view_box->appendChild($tag_obj->{tags_html});
+	$view_box->setAttribute("class","sneep_tag_cloud_global");
+	$div_c->appendChild($view_box);	
+
+	# add empty add tag div to stop background gapping..
+	my $tag_add_textarea_div = $session->make_element( "div", id=>"sneep_t_add_textarea:".$tag_types[0], class=>"sneep_t_add_div" );
+	$tag_add_textarea_div->appendChild($session->render_nbsp());
+	$div_c->appendChild($tag_add_textarea_div);
+
+	# Rounded corners - Thanks to David Kane
+	my $div_ft = $session->make_element("div", class=>"sneep_t_ft");
+	$main_tag_div->appendChild($div_ft);
+	my $div_ftl = $session->make_element("div", class=>"sneep_t_ft-l");
+	$div_ft->appendChild($div_ftl);
+	######################
+
+	my $title = $session->html_phrase( "sneep/tag_view:title");
+	return( $page, $title );
+}
+
+
+sub mk_err_page
+{
+	my( $session, $phrase, $fieldlist, $defaults, $opts ) = @_;
+
+	my $page = $session->make_doc_fragment;
+
+	$page->appendChild( $session->render_message( "error", 
+		$session->html_phrase( $phrase, %{$opts} ) ) );
+
+#	$page->appendChild( $session->html_phrase( "general:frontpage_link" ) );
+	if( defined $fieldlist )
+	{
+		#$page->appendChild( $session->render_ruler );
+		$page->appendChild( make_reg_form( $session, $fieldlist, $defaults ) );
+	}
+
+	return( 
+		$page,	
+		$session->html_phrase( "cgi/register:error" ) );
+}
+
+sub make_reg_form
+{
+	my( $session, $fieldlist, $defaults ) = @_;
+
+	$defaults->{newpassword} = undef;
+
+	return $session->render_input_form(
+			fields=>$fieldlist,
+			values=>$defaults,
+			show_help=>1,
+			show_names=>1,
+			comments=>{above_buttons=>$session->html_phrase( "cgi/register:register_agreement" )},
+			default_action=>"submit",
+			buttons=>{
+				submit=>$session->phrase( "cgi/register:action_submit" )
+			},
+			dest=>"register" );
+}

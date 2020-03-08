@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+    <epp:phrase id="deposit_agreement_text">
+<p><strong>Para trabajos depositados por el propio autor:</strong> 
+Al auto archivar esta colecci&oacute;n de ficheros y metadatos bibliogr&aacute;ficos asociados, otorgo a <epc:phrase ref="archive_name" /> el derecho para almacenarlos y ponerlos a disposici&oacute;n p&uacute;blica permanentemente de un modo gratuito y en l&iacute;nea. 
+Declaro que este material es de mi propiedad intelectual y entiendo que <epc:phrase ref="archive_name" /> no asume ninguna responsabilidad en caso de que se produzca una violaci&oacute;n de derechos de propiedad al distribuir estos ficheros o metadatos. (Se insta encarecidamente a todos los autores a destacar sus derechos de autor en la p&aacute;gina de t&iacute;tulo de su trabajo.)</p>
+
+<p><strong>Para trabajos depositados por otras personas distintas a su autor:</strong> Por la presente, declaro que la colecci&oacute;n de ficheros y metadatos bibliogr&aacute;ficos asociados que estoy archivando en <epc:phrase ref="archive_name" />) es de dominio p&uacute;blico. Si este no fuese el caso, acepto totalmente la responsabilidad por cualquier infracci&oacute;n de derechos de autor que conlleve la distribuci&oacute;n de estos ficheros o metadatos.</p>
+
+<p>Pulsar sobre el bot&oacute;n de dep&oacute;sito indica que est&aacute; de acuerdo con estos t&eacute;rminos.</p>
+    </epp:phrase>
+
+
+
+</epp:phrases>

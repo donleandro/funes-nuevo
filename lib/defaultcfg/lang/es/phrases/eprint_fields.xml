@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+<!-- locally defined fields -->
+
+    <epp:phrase id="eprint_fieldname_title">Título</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_title">El título del documento. El título no debe terminar con un punto, pero puede terminar con un signo de interrogación. No es posible poner texto en cursiva. Por favor, introdúzcalo normalmente. Si el documento tiene un subtítulo, deberá ir precedido de un signo de dos puntos [:]. Use mayúsculas sólo para la primera letra de la primera palabra del título, de los nombres de las disciplinas y de los nombres propios.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Los organizadores del currículo de matemáticas</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Formación inicial del profesorado de educación secundaria: reflexiones para un nuevo modelo</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Sobre el análisis de los problemas multiplicativos relacionados con la división de fracciones</span>
+</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_title.book">El título del libro. El título no debe terminar con un punto, pero puede terminar con un signo de interrogación. No es posible poner texto en cursiva. Por favor, introdúzcalo normalmente. Si el documento tiene un subtítulo, deberá ir precedido de un signo de dos puntos [:]. Use mayúsculas sólo para la primera letra de la primera palabra del título, de los nombres de las disciplinas y de los nombres propios.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Competencias matemáticas desde una perspectiva curricular</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Matemáticas 3º: proyecto 2000</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Matemáticas para ingenieros y científicos</span>
+</epp:phrase>
+
+
+    <epp:phrase id="eprint_fieldname_abstract">Resumen</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_abstract">El resumen del documento. Si el documento original no tiene un resumen, por favor describa brevemente su contenido. No es posible asignar formato (e.g., negritas, cursivas) al texto. Por favor, procure, en la medida de lo posible, que el resumen tenga máximo 100 palabras de extensión.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_keywords">Términos Clave no Controlados</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_keywords">Los términos clave que usted introduzca aquí no formarán parte de la estructura de términos clave del sistema. Procure caracterizar su documento con base en los términos clave del sistema que aparecen en la siguiente página.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_contributors">Colaboradores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_contributors"></epp:phrase>
+    <epp:phrase id="eprint_fieldname_contributors_type">Colaboración</epp:phrase>
+    <epp:phrase id="eprint_fieldname_contributors_id">Dirección de correo electrónico</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_creators">Autores</epp:phrase>
+    <epp:phrase id="eprint_fieldname_editors">Editores</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_corp_creators">Autores Institucionales</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_corp_creators">Utilice este campo cuando el autor del documento es una institución. Por ejemplo "Ministerio de Educación Nacional"</epp:phrase>
+    
+	<epp:phrase id="eprint_fieldname_creators_name">Autores</epp:phrase>
+    <epp:phrase id="eprint_fieldname_creators_id">Email</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_creators">Introduzca los autores en el orden correspondiente. Observe que si un autor ya tiene registros publicados, sus datos aparecerán tan pronto usted comience a introducir el apellido. Procure incluir únicamente el primer apellido de cada autor. Ponga punto después de cada inicial. Si el nombre tiene dos o más iniciales, sepárelas con un espacio. <b>No</b> introduzca el nombre completo de ningún autor. Si hay más de cuatro autores, pulse el botón [More&nbsp;input&nbsp;rows].
+<br/>Ejemplo: [<span class="ep_form_Ejemplo">Rodríguez</span>] [<span class="ep_form_Ejemplo">V. M.</span>] [<span class="ep_form_Ejemplo">vm.rodriguez@servidor.edu.co</span>]
+<br/>Ejemplo: [<span class="ep_form_Ejemplo">González-López</span>] [<span class="ep_form_Ejemplo">Juan</span>] [<span class="ep_form_Ejemplo">juan@servidor.com</span>]
+<br/>Ejemplo: [<span class="ep_form_Ejemplo">Castillo</span>] [<span class="ep_form_Ejemplo">Mario</span>] []
+<br/>Ejemplo: [<span class="ep_form_Ejemplo">de Castro</span>] [<span class="ep_form_Ejemplo">Carlos E.</span>] []
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pages">Número de Páginas</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pages">El número total de páginas del documento.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">123</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pagerange">Rango de Páginas</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pagerange">Introduzca únicamente números. No introduzca expresiones como "p." o "pp.".
+<br/>Ejemplo:  <span class="ep_form_Ejemplo">21</span> a <span class="ep_form_Ejemplo">34</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_series">Nombre de la Serie</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_series">El nombre de la serie a la que pertenece el documento. No introduzca punto al final del texto.
+<br/>Ejemplo:  <span class="ep_form_Ejemplo">Educación matemática en secundaria</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_publication">Nombre de la Revista</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_publication">El nombre de la publicación periódica. En este caso, ponga en mayúsculas la primera letra de las palabras importantes (e.g, las preposiciones o los artículos no se consideran palabras importantes).
+<br/>Ejemplo:  <span class="ep_form_Ejemplo">Enseñanza de las Ciencias</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_publisher">Editorial</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_publisher">Nombre de la institución que publica el documento. No utilice abreviaturas. Introduzca el nombre completo.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Editorial de la Universidad de Granada</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_place_of_pub">Lugar de Publicación</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_place_of_pub">Ciudad en la que se encuentra ubicada la editorial. Incluya el país, excepto para las siguientes ciudades: Boston, Los Angeles, Nueva York, Philadelphia, Londres, San Francisco, Amsterdam, Jerusalem, Londres, Milan, Moscú, París, Roma, Estocolmo, Tokyo y Viena (Manual de Publicación de la APA).
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Nueva York</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Cali, Colombia</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">La Paz, Bolivia</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_location">Lugar de Celebración del Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_location">Ciudad y país en la que se celebró el evento. Si no se conoce la ciudad, introduzca el país.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Santander, España</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Cali, Colombia</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_dates">Fechas del Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_dates">Fechas de inicio y finalización del evento.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">13-15 Dic 2003</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">31 Oct - 02 Nov 1999</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_title">Nombre del Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_title">El nombre del evento (congreso, seminario, simposio, taller, curso)
+<br/>Ejemplo: <span class="ep_form_Ejemplo">XIII Simposio de la SEIEM</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">ICME 8</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">10º Encuentro Colombiano de Matemática Educativa</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Seminario sobre Análisis Didáctico</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">Curso sobre el uso de Cabri </span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_type">Tipo de Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_type">Especifique el tipo de evento.
+</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_event_type_conference">Congreso o Similar</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_event_type_workshop">Taller</epp:phrase>
+        <epp:phrase id="eprint_fieldopt_event_type_workshop">Curso</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_event_type_other">Otro</epp:phrase>
+    
+    <epp:phrase id="eprint_fieldname_isbn">ISBN</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_isbn">Código de identificación único de un  libro. Puede usar el formato de 10 o 13 dígitos.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">84-7738-115-1</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">978-3-639-13147-5</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_issn">ISSN</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_issn">Código de identificación único de una publicación seriada.
+<br/>Ejemplo: <span class="ep_form_Ejemplo">1886-1350</span>
+<br/>Ejemplo: <span class="ep_form_Ejemplo">01225057</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pres_type">Tipo de Presentación</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pres_type">El tipo presentación realizado en un congreso, taller o curso.
+</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_paper">Conferencia Invitada</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_speech">Comunicación</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_lecture">Comunicación Corta</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_keynote">Taller</epp:phrase>
+        <epp:phrase id="eprint_fieldopt_pres_type_poster">Poster</epp:phrase>
+        <epp:phrase id="eprint_fieldopt_pres_type_keynote">Cartel (póster)</epp:phrase>
+            <epp:phrase id="eprint_fieldopt_pres_type_keynote">Curso</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_other">Otro</epp:phrase>
+    
+    <epp:phrase id="eprint_fieldname_book_title">Título del Libro</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_book_title">El título del libro. El título no debe terminar con un punto, pero puede terminar con un signo de interrogación. No es posible poner texto en cursiva. Por favor, introdúzcalo normalmente. Si el documento tiene un subtítulo, deberá ir precedido de un signo de dos puntos [:]. Use mayúsculas sólo para la primera letra de la primera palabra del título, de los nombres de las disciplinas y de los nombres propios.
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_official_url">URL Oficial</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_official_url">La URL para este documento. Algunas revistas requieren proporcionar un vínculo a su portal.
+<!-- fnord -->
+<br/>Ejemplo: <span class="ep_form_Ejemplo">http://cumbia.ath.cx/pna/paginapna/Numeros/Volumen4Numero1.html</span>
+</epp:phrase>
+    
+	<epp:phrase id="eprint_fieldname_related_url">URLs Relacionadas</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_related_url">URLs que están relacionadas con este documento.</epp:phrase>
+	<epp:phrase id="eprint_fieldname_related_url_url">URL</epp:phrase>
+	<epp:phrase id="eprint_fieldname_related_url_type">Tipo de URL</epp:phrase>
+	<epp:phrase id="eprint_fieldopt_related_url_type_pub">Editorial</epp:phrase>
+	<epp:phrase id="eprint_fieldopt_related_url_type_org">Organización</epp:phrase>
+	<epp:phrase id="eprint_fieldopt_related_url_type_author">Autor</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_editors_name">Editores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_editors_name">Introduzca los nombres de los editores.<br/>
+Este campo es obligatorio si no se han introducido autores.
+</epp:phrase>
+    <epp:phrase id="eprint_fieldname_editors_id">Email</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_date">Fecha</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_date">La fecha en que se completó este documento, se envió a una editorial o revista, se publicó o se presentó para un doctorado.</epp:phrase>
+    
+	<epp:phrase id="eprint_fieldname_date_type">Tipo de Fecha</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_date_type">El evento al que se refiere la fecha.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_date_type_published">Publicación</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_date_type_submitted">Presentación</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_date_type_completed">Terminación</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_volume">Volumen</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_volume">Introduzca el número del volumen de la revista o publicación seriada en la que se publicó el documento.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_number">Número</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_number">Introduzca el número del ejemplar de la revista o publicación seriada en la que se publicó el documento</epp:phrase>
+	
+	<epp:phrase id="eprint_fieldname_id_number"> Número de Identificación</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_id_number">Si la revista o publicación seriada en la que se publicó el documento no utiliza el esquema de Volumen y Número, introduzca aquí el número de identificación del ejemplar en el que se publicó el artículo. Si no tiene esa información, deje el campo de Volumen en blanco y no tenga en cuenta la advertencia de que ese campo es obligatorio.</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_id_number.patent"> El número de solicitud de patente de este artículo.</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_id_number.monograph"> El número, en su caso, de un informe técnico o elemento similar.</epp:phrase> 
+
+	<epp:phrase id="eprint_fieldname_monograph_type">Tipo de Documento</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_monograph_type"> Por favor seleccione el tipo específico de esta monografía.</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_technical_report">Informe Técnico</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_project_report"> Informe del Proyecto</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_documentation"> Documentación</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_manual"> Manual</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_working_paper"> Documento de Trabajo</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_discussion_paper"> Documento de Debate</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_monograph_type_other"> Otros</epp:phrase>
+
+	<epp:phrase id="eprint_fieldname_ispublished"> Estado</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_ispublished"> Indique aquí si el documento ha sido publicado, se encuentra actualmente en proceso de revisión, en proceso de publicación ( <strong>en prensa</strong>), o no ha sido publicado.</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_ispublished_unpub"> Documento no Publicado</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_ispublished_submitted"> En Revisión</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_ispublished_inpress"> En Prensa</epp:phrase> 
+    <epp:phrase id="eprint_fieldopt_ispublished_pub">Publicado</epp:phrase> 
+
+    <epp:phrase id="eprint_fieldname_refereed"> Revisado por Pares</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_refereed"> Por favor indique si este documento ha sido revisado por pares.</epp:phrase> 
+    <epp:phrase id="eprint_radio_refereed"><label><epc:pin name="true"/> Sí</label><br/><label><epc:pin name="false"/> No </label></epp:phrase> 
+
+    <epp:phrase id="eprint_fieldname_referencetext"> Referencias</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_referencetext"> Se recomienda que usted copie y pegue el listado de referencias de su documento en el campo que aparece abajo. Esta información se puede utilizar para vincular su documento con aquellos que usted cita y con aquellos que lo citan</epp:phrase> 
+
+    <epp:phrase id="eprint_fieldname_subjects">Términos Clave</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_subjects"> Por favor, escoja los términos clave que mejor caractericen su documento. Usted debe escoger al menos un término clave de la categoría de Educación Matemática. Procure ser tan específico como sea posible. Si no encuentra un término clave, utilice el término clave de la categoría en la que usted considera que debería estar. Si usted considera que esta estructura de términos clave debería incluir necesariamente un término que no encuentra, por favor indíquelo en el campo de comentarios y sugerencias que aparece más abajo.
+</epp:phrase> 
+
+    <epp:phrase id="eprint_fieldname_note"> Información Adicional</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_note"> Si usted considera que puede introducir información útil complementaria acerca de su documento que no se puede introducir en cualquier otro lugar, por favor, hágalo aquí. Esta información <strong>aparecerá</strong> en la página de resumen público de este tema.</epp:phrase> 
+
+    <epp:phrase id="eprint_fieldname_suggestions"> Comentarios y Sugerencias</epp:phrase> 
+    <epp:phrase id="eprint_fieldhelp_suggestions">Introduzca aquí comentarios y sugerencias para el coordinador académico de <epc:phrase ref="archive_name"/>. él los leerá cuando revise su documento. Cualquier comentario al editor. Esta información <strong>no</strong> se mostrará al público.</epp:phrase>
+
+   	<epp:phrase id="eprint_fieldname_department"> Departamento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_department"> Por favor introduzca el nombre del o centro institucional al que usted pertenece o pertenecía cuando se produjo o publicó el documento. 
+<br/> Ejemplo: <span class="ep_form_Ejemplo">Departamento de Didáctica de la Matemática </span>
+<br/> Ejemplo: <span class="ep_form_Ejemplo">Centro de Investigación y Formación en Educación (CIFE)</span>
+<br/> Ejemplo: <span class="ep_form_Ejemplo">"una empresa docente"</span></epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_institution"> Institución</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_institution"> Por favor introduzca el nombre de la institución a la que usted pertenece o pertenecía cuando se produjo o publicó el documento.  
+<br/> Ejemplo: <span class="ep_form_Ejemplo">Universidad de los Andes </span>
+<br/> Ejemplo: <span class="ep_form_Ejemplo">Colegio Marsella </span></epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_thesis_type"> Tipo de Tesis</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_thesis_type"> Por favor seleccione el tipo de tesis.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_masters">Maestría</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_phd">Doctorado</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_engd">Especialización</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_other">Otros</epp:phrase>
+	
+	<epp:phrase id="eprint_fieldname_patent_applicant"> Solicitante de la Patente</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_patent_applicant">El nombre del solicitante a quien se concedió la patente. Puede ser una persona o una institución.
+<br/>Ejemplo:<span class="ep_form_Ejemplo"> Centro de Investigación en Aprendizaje </span> 
+<br/>Ejemplo:<span class="ep_form_Ejemplo">Paola Valero </span> 
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_full_text_status">Estado del Archivo de Texto Completo</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_full_text_status"></epp:phrase>
+    <epp:phrase id="eprint_fieldopt_full_text_status_public"> Público</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_full_text_status_none"> Ninguno</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_full_text_status_restricted"> Restringido</epp:phrase>
+
+	<epp:phrase id="eprint_fieldname_contact_email"> Dirección de Correo Electrónico de Contacto</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_contact_email"> La dirección de correo electrónico de contacto para este documento. Si el archivo que contiene el texto completo no está disponible al público, las solicitudes para obtener el archivo se enviarán a esta dirección de correo electrónico. La dirección de correo electrónico no se hará pública.</epp:phrase>
+
+	<epp:phrase id="eprint_fieldname_funders"> Financiadores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_funders"> Los organismos patrocinadores que han contribuido en la financiación de la actividad que dio lugar al documento.</epp:phrase>
+	
+    <epp:phrase id="eprint_fieldname_projects"> Proyectos</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_projects"> Los nombres y/o códigos de los proyectos en cuyo ámbito se produjo este documento.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_divisions"> Nivel Educativo</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_divisions"> Nivel educativo al que corresponde el contenido del documento. Puede escoger más de una opción.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_output_media"> Medios de Presentación</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_output_media"> El tipo de formato en el que se presenta la producción. 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> CD-ROM </span> 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> DVD </span> 
+</epp:phrase>
+
+
+    <epp:phrase id="eprint_fieldname_exhibitors"> Expositores (Quitar o utilizar para otro fin)</epp:phrase>
+    <epp:phrase id="eprint_fieldname_exhibitors_id"> Correo electrónico</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_exhibitors"> Los expositores.</epp:phrase>
+    <epp:phrase id="eprint_fieldname_exhibitors_name">Nombre de los expositores</epp:phrase>
+
+     <epp:phrase id="eprint_fieldname_num_pieces"> Número de Piezas</epp:phrase>
+     <epp:phrase id="eprint_fieldhelp_num_pieces"> El número de piezas expuestas.</epp:phrase>
+
+     <epp:phrase id="eprint_fieldname_composition_type"> Composición Tipo</epp:phrase>
+     <epp:phrase id="eprint_fieldhelp_composition_type"> El tipo de la composición 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> Concierto </span> 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> Opera </span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_producers"> Productores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_producers"></epp:phrase>
+    <epp:phrase id="eprint_fieldname_producers_id"> Correo electrónico</epp:phrase>
+    <!--< PPE: frase id = "eprint_fieldhelp_producers"> Los productores de la grabación.</epp:phrase>--> 
+    <epp:phrase id="eprint_fieldname_producers_name"> Nombre de los productores</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_conductors"> Conductores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_conductors"></epp:phrase>
+    <epp:phrase id="eprint_fieldname_conductors_id"> Correo electrónico</epp:phrase>
+    <!--< PPE: frase id = "eprint_fieldhelp_conductors"> Los conductores de la grabación.</epp:phrase>--> 
+    <epp:phrase id="eprint_fieldname_conductors_name"> Nombre de los conductores</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_accompaniment"> Complemento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_accompaniment"> Ejemplo: <span class="ep_form_Ejemplo"> BBC Singers </span></epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_lyricists"> letristas</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_lyricists"></epp:phrase>
+    <epp:phrase id="eprint_fieldname_lyricists_id"> Correo electrónico</epp:phrase>
+    <epp:phrase id="eprint_fieldname_lyricists_name"> Nombre los letristas</epp:phrase>
+    <!--< PPE: frase id = "eprint_fieldhelp_lyricists"> Los letristas.</epp:phrase>--> 
+
+    <epp:phrase id="eprint_fieldname_data_type"> Tipo de datos</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_data_type"> 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> Geoespacial </span> 
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_copyright_holders"> Titulares de Derechos de Autor</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_copyright_holders"> Una persona, firma o entidad que posee los derechos de autor por el artículo.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pedagogic_type">Caracterización Pedagógica</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pedagogic_type">El tipo actividad pedagógica o didáctica que caracteriza el documento.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_presentation">Presentación</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_activity">Actividad de enseñanza o aprendizaje</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_case">Estudio de Caso</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_enquiry">Exploración o Innovación</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_problem">Descripción y/o solución de un problema didáctico</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_collaboration">Colaboración</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pedagogic_type_communication">Comunicación</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_completion_time">Tiempo Requerido</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_completion_time">El tiempo aproximado que se requiere para terminar la actividad.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_task_purpose">Objetivo de la Actividad</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_task_purpose"> Describa los principales objetivos que se buscan con la actividad</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_skill_areas">Destrezas o Competencias</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_skill_areas">  Las destrezas o competencias que se buscan desarrollar con la actividad. 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> Desarrollo del razonamiento inductivo </span> 
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_learning_level">Nivel Educativo</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_learning_level">El nivel educativo. Procure utilizar el grado de escolaridad correspondiente. 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> 10-12</span> 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> Educación Infantil </span> 
+<br/> Ejemplo: <span class="ep_form_Ejemplo"> Educación de Adultos </span> 
+</epp:phrase>
+</epp:phrases>

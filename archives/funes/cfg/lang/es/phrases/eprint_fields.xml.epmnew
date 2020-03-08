@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+<!-- locally defined fields -->
+
+    <epp:phrase id="eprint_fieldname_title">T&iacute;tulo</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_title">El t&iacute;tulo del objeto. El t&iacute;tulo no debe terminar con un punto, pero puede acabar con un signo de interrogaci&oacute;n. No es posible poner el texto en cursiva; por favor, tecl&eacute;elo normalmente. Si tiene un subt&iacute;tulo, deber&iacute;a ir precedido por dos puntos [:]. Utilice may&uacute;sculas s&oacute;lo para la primera palabra y para nombres propios.
+<br/>Ejemplo: <span class="ep_form_example">Una breve historia del tiempo</span>
+<br/>Ejemplo: <span class="ep_form_example">Vida: biograf&iacute;a no autorizada</span>
+<br/>Ejemplo: <span class="ep_form_example">Matem&aacute;ticas para ingenieros y cient&iacute;ficos. Quinta edici&oacute;n</span>
+<br/>Ejemplo: <span class="ep_form_example">Ecosistemas del mundo. Vol. 26. Estuarios del mundo</span>
+</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_title.book">El t&iacute;tulo del libro, usualmente situado en la p&aacute;gina de t&iacute;tulo. El t&iacute;tulo no debe terminar con un punto, pero puede acabar con un signo de interrogaci&oacute;n. No es posible ponerlo en cursiva; por favor, tecl&eacute;elo normalmente. Si tiene un subt&iacute;tulo, deber&iacute;a ir precedido por dos puntos [:]. Utilice may&uacute;sculas s&oacute;lo para la primera palabra y para nombres propios.
+<br/>Ejemplo: <span class="ep_form_example">Una breve historia del tiempo</span>
+<br/>Ejemplo: <span class="ep_form_example">Vida: biograf&iacute;a no autorizada</span>
+<br/>Ejemplo: <span class="ep_form_example">Matem&aacute;ticas para ingenieros y cient&iacute;ficos. Quinta edici&oacute;n</span>
+<br/>Ejemplo: <span class="ep_form_example">Ecosistemas del mundo. Vol. 26. Estuarios del mundo</span>
+</epp:phrase>
+
+
+    <epp:phrase id="eprint_fieldname_abstract">Resumen</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_abstract">Un resumen de los contenidos del objeto. Si el objeto tiene un resumen formal, &eacute;ste es el que deber&iacute;a ponerse aqu&iacute;. No es posible poner el texto en un formato complejo.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_keywords">Palabras Clave Informales</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_keywords">T&eacute;rminos en lenguaje natural para describir el contenido del objeto</epp:phrase>
+
+	<epp:phrase id="eprint_fieldname_creators">Autores/Creadores</epp:phrase>
+    <epp:phrase id="eprint_fieldname_editors">Editores</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_corp_creators">Creadores Corporativos</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_corp_creators">Compa&ntilde;ias que son consideradas autoras del objeto.</epp:phrase>
+    
+	<epp:phrase id="eprint_fieldname_creators_name">Autores/Creadores</epp:phrase>
+    <epp:phrase id="eprint_fieldname_creators_id">Correo Electr&oacute;nico del creador (si se conoce)</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_creators">Introd&uacute;zcalo en el formato dado en la primera p&aacute;gina o en la p&aacute;gina de t&iacute;tulo. Si hay m&aacute;s de cuatro, pulse el bot&oacute;n [M&aacute;s&nbsp;Espacios].
+<br/>Ejemplo: [<span class="ep_form_example">Smith</span>] [<span class="ep_form_example">J.P.</span>] [<span class="ep_form_example">j.smith@soton.ac.es</span>]
+<br/>Ejemplo: [<span class="ep_form_example">Chance-Collins</span>] [<span class="ep_form_example">Chris</span>] [<span class="ep_form_example">chris@bar.com</span>]
+<br/>Ejemplo: [<span class="ep_form_example">Fu</span>] [<span class="ep_form_example">Yan-Li</span>] []
+<br/>Ejemplo: [<span class="ep_form_example">von HÃpfner</span>] [<span class="ep_form_example">Ludwig G.</span>] []
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pages">N&uacute;mero de P&aacute;ginas</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pages">El n&uacute;mero total de p&aacute;ginas del objeto.
+<br/>Ejemplo: <span class="ep_form_example">123</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pagerange">Rango  de P&aacute;ginas</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pagerange">S&oacute;lo d&iacute;,gitos. La secuencia de p&aacute;ginas del objeto. No escriba pags.
+<br/>Ejemplo:  <span class="ep_form_example">21</span> a <span class="ep_form_example">34</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_series">Nombre de la Serie</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_series">El nombre de la serie a la que pertenece el documento. Escr&iacute;bala sin puntuaci&oacute;n.
+<br/>Ejemplo:  <span class="ep_form_example">Serie de Oceanograf&iacute;a de Elseview</span>
+</epp:phrase>
+
+<epp:phrase id="eprint_fieldname_publication">T&iacute;tulo de Peri&oacute;dico/Publicaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_publication">El t&iacute;tulo de un peri&oacute;dico, publicaci&oacute;n o revista.
+<br/>Ejemplo:  <span class="ep_form_example">Biolog&iacute;a Marina</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_publisher">Editor</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_publisher">Persona, compa&ntilde;&iacute;a o entidad responsable de la disponibilidad de un objeto en el mercado. No utilice abreviaturas, sino la denominaci&oacute;n completa.
+<br/>Ejemplo: <span class="ep_form_example">Oxford University Press</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_place_of_pub">Lugar de Publicaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_place_of_pub">Localidad del editor. Utilice ciudad y despu&eacute;s pa&iacute;s. Si la ciudad no es conocida, utilice s&oacute;lo el pa&iacute;s.
+<br/>Ejemplo: <span class="ep_form_example">Southampton, UK</span>
+<br/>Ejemplo: <span class="ep_form_example">Brasil</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_location">Lugar del Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_location">Ciudad y despu&eacute;s pa&iacute;s donde se celebr&oacute; el evento. Si la ciudad no es conocida, utilice s&oacute;lo el pa&iacute;s.
+<br/>Ejemplo: <span class="ep_form_example">Roma, Italia</span>
+<br/>Ejemplo: <span class="ep_form_example">Grecia</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_dates">Fechas del Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_dates">Fechas de inicio y fin del evento
+<br/>Ejemplo: <span class="ep_form_example">13-15 Dic 2003</span>
+<br/>Ejemplo: <span class="ep_form_example">31 Oct - 02 Nov 1999</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_title">T&iacute;tulo del Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_title">El t&iacute;tulo de la conferencia o bolsa de trabajo.
+<br/>Ejemplo: <span class="ep_form_example">11 Conferencia de Bibliotecarios Panhel&eacute;nicos</span>
+<br/>Ejemplo: <span class="ep_form_example">SIGIR 2001</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_event_type">Tipo de Evento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_event_type">Tipo espec&iacute;fico del evento.
+</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_event_type_conference">Conferencia</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_event_type_workshop">Bolsa de Trabajo</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_event_type_other">Otro</epp:phrase>
+    
+    <epp:phrase id="eprint_fieldname_isbn">ISBN</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_isbn">C&oacute;digo &uacute;nico de 10 d&iacute;gitos para identificar un libro.
+<br/>Ejemplo: <span class="ep_form_example">1 871438 57 8</span>
+<br/>Ejemplo: <span class="ep_form_example">067157826X</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_issn">ISSN</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_issn">C&oacute;digo &uacute;nico de 8 d&iacute;gitos para identificar una publicaci&oacute;n peri&oacute;dica.
+<br/>Ejemplo: <span class="ep_form_example">1055-0143</span>
+<br/>Ejemplo: <span class="ep_form_example">0891-060X</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_pres_type">Tipo de Presentaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_pres_type">El tipo del objeto presentado en una conferencia o bolsa de trabajo.
+</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_paper">Art&iacute;culo</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_poster">P&oacute;ster</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_speech">Charla</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_lecture">Lectura</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_keynote">Discurso o Tema Principal (Keynote)</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_pres_type_other">Otro</epp:phrase>
+    
+    <epp:phrase id="eprint_fieldname_book_title">T&iacute;tulo del Libro</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_book_title">T&iacute;tulo habitualmente encontrado en la p&aacute;gina de t&iacute;tulo (primera p&aacute;gina del libro).
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_official_url">URL Oficial</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_official_url">La URL can&oacute;nica del objeto. Algunos peri&oacute;dicos requieren que se provea un enlace a su versi&oacute;n.
+<!-- fnord -->
+<br/>Ejemplo: <span class="ep_form_example">http://www.stuffjournal.com/2003/3/</span>
+</epp:phrase>
+    
+	<epp:phrase id="eprint_fieldname_related_url">URLs Relacionadas</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_related_url">URLs que guardan relaci&oacute;n con este objeto.</epp:phrase>
+	<epp:phrase id="eprint_fieldname_related_url_url">URL</epp:phrase>
+	<epp:phrase id="eprint_fieldname_related_url_type">Tipo de URL</epp:phrase>
+	<epp:phrase id="eprint_fieldopt_related_url_type_pub">Editor</epp:phrase>
+	<epp:phrase id="eprint_fieldopt_related_url_type_org">Organizaci&oacute;n</epp:phrase>
+	<epp:phrase id="eprint_fieldopt_related_url_type_author">Autor/Creador</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_editors_name">Editores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_editors_name">Por favor, introduzca el nombre de los editores.<br/>
+Este campo es obligatorio si no se indican creadores.
+</epp:phrase>
+    <epp:phrase id="eprint_fieldname_editors_id">Correo Electr&oacute;nico de los editores (si se conoce)</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_date">Fecha</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_date">La fecha en que este objeto fue completado, enviado a un editor, publicado o enviado para un doctorado.</epp:phrase>
+    
+	<epp:phrase id="eprint_fieldname_date_type">Tipo de Fecha</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_date_type">El momento que se corresponde a esta fecha.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_date_type_published">Publicaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_date_type_submitted">Env&iacute;o</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_date_type_completed">Completamiento</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_volume">Volumen</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_volume">Introduzca el n&uacute;mero de volumen del peri&oacute;dico o serie en la que su objeto apareci&oacute;.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_number">N&uacute;mero</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_number">Introduzca el n&uacute;mero del peri&oacute;dico o serie en la que su objeto apareci&oacute;.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_id_number">N&uacute;mero de Identificaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_id_number">El n&uacute;mero &uacute;nico de identificaci&oacute;n de este objeto, o un DOI.</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_id_number.patent">El n&uacute;mero de registro de patente de este objeto.</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_id_number.monograph">El n&uacute;mero, si existe, de un informe t&eacute;cnico u objeto similar.</epp:phrase>
+
+
+    <epp:phrase id="eprint_fieldname_monograph_type">Tipo de Monograf&iacute;a</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_monograph_type">Por favor, seleccione el tipo espec&iacute;fico de esta monograf&iacute;a.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_technical_report">Informe T&eacute;cnico</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_project_report">Informe de Proyectot</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_documentation">Documentaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_manual">Manual</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_working_paper">Art&iacute;culo de trabajo</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_discussion_paper">Art&iacute;culo de Discusi&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_monograph_type_other">Otro</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_ispublished">Estado</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_ispublished">Por favor, indique aqu&iacute; si su dep&oacute;sito ha sido publicado, est&aacute; actualmente en v&iacute;as de publicaci&oacute;n (<strong>en prensa</strong>) o no ha sido previamente publicado.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_ispublished_unpub">No publicado</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_ispublished_submitted">Enviado</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_ispublished_inpress">En Prensa</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_ispublished_pub">Publicado</epp:phrase>
+
+
+    <epp:phrase id="eprint_fieldname_refereed">Revisado por especialistas</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_refereed">Por favor, indique abajo si esta versi&oacute;n del trabajo ha sido revisada.</epp:phrase>
+    <epp:phrase id="eprint_radio_refereed"><label><epc:pin name="true"/>S&iacute;, esta versi&oacute;n ha sido revisada.</label><br/><label><epc:pin name="false"/>No, esta versi&oacute;n no ha sido revisada.</label></epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_referencetext">Referencias</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_referencetext">Se le anima encarecidamente a pegar el listado de referencias de su objeto en el recuadro de abajo. Puede ser utilizado para enlazar su objeto con aquellos a los que cita y con aquellos en los que es citado.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_subjects">Materias</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_subjects">Por favor, seleccione al menos una categor&iacute;a principal de materia, y opcionalmente hasta otras dos categor&iacute;as de materia que crea que son adecuadas para su objeto, de la lista.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_note">Informaci&oacute;n Adicional</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_note">Si cree que puede especificar alguna informaci&oacute;n &uacute;til sobre su dep&oacute;sito que no pueda indicarse en otro lugar, por favor, introd&uacute;zcala aqu&iacute;. Esta informaci&oacute;n <strong>aparecer&aacute;</strong> en la p&aacute;gina p&uacute;blica de resumen de este objeto.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_suggestions">Comentarios y Sugerencias</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_suggestions">Cualquier comentario al editor. Esta informaci&oacute;n <strong>no se mostrar&aacute;</strong> al p&uacute;blico.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_department">Departamento</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_department">Por favor, introduzca el departamento en el que se origin&oacute; el objeto.
+<br/>Ejemplo: <span class="ep_form_example">Escuela de Ciencias de la Computaci&oacute;n y Electr&oacute;nica</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_institution">Instituci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_institution">Por favor, introduzca la instituci&oacute;n en la que se origin&oacute; el objeto.
+<br/>Ejemplo: <span class="ep_form_example">Universidad de Southampton</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_thesis_type">Tipo de Tesis</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_thesis_type">Por favor, seleccione el tipo de tesis.</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_masters">Master</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_phd">Doctoral</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_engd">Doctorado en Ingenier&iacute;as</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_thesis_type_other">Otra</epp:phrase>
+
+
+    <epp:phrase id="eprint_fieldname_patent_applicant">Registro de Patente</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_patent_applicant">El nombre del registrante a quien se otorg&oacute; la patente. Puede ser una persona o una organizaci&oacute;n.
+<br/>Ejemplo: <span class="ep_form_example">Instituto de Investigaci&oacute;n de D&eacute;bito</span>
+<br/>Ejemplo: <span class="ep_form_example">John K. Ducklingson</span>
+</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_full_text_status">Estado del Texto Completo</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_full_text_status"></epp:phrase>
+    <epp:phrase id="eprint_fieldopt_full_text_status_public">P&uacute;blico</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_full_text_status_none">Ninguno</epp:phrase>
+    <epp:phrase id="eprint_fieldopt_full_text_status_restricted">Restringido</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_contact_email">Direcci&oacute;n de Correo Electr&oacute;nico de Contacto</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_contact_email">La direcci&oacute;n de correo electr&oacute;nico de contacto para este objeto.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_funders">Patrocinadores</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_funders">Las entidades que contribuyeron con fondos para la creaci&oacute;n de este objeto.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_projects">Proyectos</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_projects">Los nombres o el c&oacute;digo del proyecto que cre&oacute; este objeto.</epp:phrase>
+
+    <epp:phrase id="eprint_fieldname_divisions">Divisiones</epp:phrase>
+    <epp:phrase id="eprint_fieldhelp_divisions">Las divisiones con las que pueda estar asociado este objeto.</epp:phrase>
+
+</epp:phrases>

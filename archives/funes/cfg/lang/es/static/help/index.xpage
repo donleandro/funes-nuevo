@@ -1,0 +1,529 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE page SYSTEM "entities.dtd" >
+<xpage:page xmlns="http://www.w3.org/1999/xhtml" xmlns:xpage="http://eprints.org/ep3/xpage" xmlns:epc="http://eprints.org/ep3/control">
+<xpage:title>Ayuda de <epc:phrase ref="archive_name" /></xpage:title>
+<xpage:body>
+
+<ul>
+
+  <li><a href="#Browsing">Exploraciones</a></li>
+
+  <li><a href="#Searching">B&uacute;squedas</a></li>
+
+    
+  <ul>
+
+    	<li>B&uacute;squedas en Campos de Texto</li>
+
+    	<li>Listas de Valores</li>
+
+    	<li>Campos de S&iacute;/no </li>
+
+    
+  </ul>
+
+  <li><a href="#Registering">Registro de Usuarios</a></li>
+
+  <li><a href="#Depositing">Dep&oacute;sito de Registros</a></li>
+
+    
+  <ul>
+
+  	<li>Su Registro de Usuario</li>
+
+  	<li>Su &aacute;rea de Trabajo</li>
+
+  
+  </ul>
+
+  <li><a href="#Process">Proceso de Dep&oacute;sito</a> </li>
+
+    
+  <ul>
+
+  	<li>Tipo de Dep&oacute;sito</li>
+
+  	<li>Informaci&oacute;n Bibliogr&aacute;fica </li>
+
+  	<li>T&eacute;rminos Claves </li>
+
+  	<li>Carga de Archivos del Documento </li>
+
+  	  
+  </ul>
+
+</ul>
+
+
+
+<a name="Browsing"></a> 
+<h2 style="font-weight: normal;"><span style="color: rgb(153, 153, 153);">Exploraciones</span> </h2>
+
+<p>Si usted no tiene una idea concreta de lo que est&aacute; buscando,
+puede hacer una exploraci&oacute;n por t&eacute;rmino clave, autor, fecha, enfoque y nivel educativo. La
+exploraci&oacute;n por t&eacute;rmino clave le presenta la
+estructura de los t&eacute;rminos clave de <epc:phrase ref="archive_name" />, para aquellos
+t&eacute;rminos clave que han sido utilizados para etiquetar al menos
+un documento.</p>
+<p>Una vez seleccionada la
+exploraci&oacute;n, <epc:phrase ref="archive_name" /> le presenta una lista de posibles valores de los
+que puede escoger. Al escoger un valor, <epc:phrase ref="archive_name" /> le presenta la lista de
+los documentos que satisfacen ese valor.</p>
+<p>Para tener mayor informaci&oacute;n sobre un registro y descargar sus archivos, pulse sobre el t&iacute;tulo del documento.</p>
+<p>En la p&aacute;gina de informaci&oacute;n sobre un registro, usted
+puede ver los t&eacute;rminos clave con los que se ha etiquetado ese
+documento. Al pulsar sobre uno de ellos, usted regresa al listado de
+registros etiquetados con ese t&eacute;rmino clave.</p>
+<a name="Searching"></a> 
+<h2 style="font-weight: normal;"><span style="color: rgb(153, 153, 153);">B&uacute;squedas </span> </h2>
+
+<p>Adem&aacute;s de la b&uacute;squeda general que usted puede hacer introduciendo texto en el campo que aparece en la parte superior derecha de todas las p&aacute;ginas, <epc:phrase ref="archive_name" /> tiene dos niveles de b&uacute;squeda: simple y
+avanzada. Estas b&uacute;squedas se diferencian en que la
+b&uacute;squeda avanzada permite utilizar diversos campos con
+m&aacute;s detalle. Para hacer una b&uacute;squeda simple, introduzca
+los t&eacute;rminos que caracterizan su b&uacute;squeda en el campo que
+aparece en el extremo superior derecho de cada p&aacute;gina. Para
+hacer una b&uacute;squeda avanzada, pulse el bot&oacute;n
+correspondiente que aparece en el men&uacute; de la parte superior de
+cada p&aacute;gina.</p>
+<h3>Campos de B&uacute;squeda de Texto </h3>
+
+<p>Estos campos se utilizan para campos de b&uacute;squeda como autor o resumen de un documento. Hay un men&uacute; desplegable encima del campo. Usted puede escribir los t&eacute;rminos que definen la b&uacute;squeda y decidir c&oacute;mo &eacute;sta se realiza seleccionando una de las opciones del men&uacute;.</p>
+
+
+<dl>
+
+  <dt></dt>
+  <h4>Hacer coincidir con todos, en cualquier orden</h4>
+
+  <dd>
+    <p>En este caso, el sistema har&aacute; una b&uacute;squeda de los registros que contienen todos los t&eacute;rminos indicados.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Hacer coincidir cualquiera</h4>
+
+  <dd>
+    <p>En este caso, el sistema buscar&aacute; los registros que contengan al menos uno de los t&eacute;rminos indicados en el campo en cuesti&oacute;n.</p>
+  </dd>
+
+
+<!-- <dt></dt>
+  <h4>Match as a phrase. </h4>
+
+  <dd>
+    <p>In this case, the system will search for your terms appearing exactly
+as you type them. In the example, the system will return any record with
+the phrase ``patient care'' appearing in the title, abstract or
+keywords. </p>
+  </dd>-->
+
+</dl>
+
+
+<h3>Listas de Valores </h3>
+
+<p>Con esta opci&oacute;n, usted puede seleccionar uno o m&aacute;s valores de una lista de valores. El sistema los utilizar&aacute; para hacer la b&uacute;squeda. Si no se escoge ning&uacute;n valor, el sistema ignora este campo (seleccionar&aacute; registros que tienen cualquier valor en este campo). </p>
+
+
+<p>En los casos en los que un registro pueda tener asignado m&aacute;s de un valor en un campo de lista de valores, usted puede cambiar el tipo de b&uacute;squeda seleccionando "Cualquiera de ellos" o "Todos ellos" en el men&uacute; que aparece abajo del campo. </p>
+
+
+<dl>
+
+  <dt></dt>
+  <h4>Cualquiera de ellos</h4>
+
+  <dd>
+    <p>Se encuentran los registros que contienen al menos uno de los valores seleccionados. </p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Todos ellos</h4>
+
+  <dd>
+    <p>Con esta opci&oacute;n, el sistema encuentra &uacute;nicamente los registros que han sido marcados con todos los valores seleccionados en la b&uacute;squeda.</p>
+  </dd>
+
+</dl>
+
+
+<h3>Fecha</h3>
+
+<p>En la campo de fecha, usted puede introducir un a&ntilde;o concreto o un rango de a&ntilde;os: </p>
+
+
+<dl>
+
+  <dt>1999</dt>
+
+  <dd>encuentra &uacute;nicamente los registros cuya fecha es `1999'; </dd>
+
+  <dt>1987-1990</dt>
+
+  <dd>encuentra los registros cuya fecha est&aacute; entre 1987 y 1990, inclusive;
+ </dd>
+
+  <dt>1995- </dt>
+
+  <dd>encuentra los registros cuya fecha es 1995 o posterior; </dd>
+
+  <dt>-1998</dt>
+
+  <dd>encuentra los registros cuya fecha es 1998 o anterior. </dd>
+
+</dl>
+
+
+<h3>Campos de S&iacute;/No </h3>
+
+<p>Algunos campos, como "Revisado por pares", pueden tener valores de s&iacute; o no. En este caso, el campo de b&uacute;squeda le permite seleccionar la opci&oacute;n que le interese para hacer la b&uacute;squeda. Si no se escoge ninguna opci&oacute;n, este campo no se utiliza en la b&uacute;squeda. </p>
+
+
+<a name="Registering"></a> 
+<h2>Registro de Usuarios</h2>
+
+
+
+<p>Para que usted pueda depositar documentos en <epc:phrase ref="archive_name" /> es necesario que usted se registre en el sistema. Para ello, debe llenar la informaci&oacute;n que se le solicita en el siguiente formulario (<a href="%7B$config%7Bperl_url%7D%7D/users/record"><epc:print expr="$config{perl_url}">/users/record</epc:print></a>). El sistema le enviar&aacute; un mensaje de correo electr&oacute;nico con las instrucciones para que usted confirme su identificaci&oacute;n. Usted tambi&eacute;n puede utilizar este formulario para cambiar sus datos, una vez se haya registrado. </p>
+
+
+<a name="Depositing"></a> 
+<h2>Dep&oacute;sito de Registros</h2>
+
+
+<p>Lo primero que usted debe hacer, despu&eacute;s de registrarse, consiste en llenar su informaci&oacute;n en el formulario  <a href="%7B$config%7Bperl_url%7D%7D/users/record"><epc:print expr="$config{perl_url}">/users/record</epc:print></a>.  Cuando usted pulse en "Depositar Documentos", ver&aacute; la opci&oacute;n "Ver o cambiar su registro de usuario". Por favor seleccione esta opci&oacute;n que se describe a continuaci&oacute;n. </p>
+
+
+<p>Una vez que usted haya proporcionado la informaci&oacute;n en su registro de usuario, se mostrar&aacute; la p&aacute;gina de "Dep&oacute;sito de Documentos", en la que usted encontrar&aacute; diferente opciones. Esta es el &aacute;rea de trabajo personal del usuario. Usted es la &uacute;nica persona que tiene acceso a esta &aacute;rea. En ella se encuentran los documentos para los que usted ha comenzado a introducir informaci&oacute;n, pero que no ha propuesto para revisi&oacute;n por los editores. Tambi&eacute;n encontrar&aacute; los documentos que usted ha depositado y que est&aacute;n pendientes de ser revisados por los editores. La informaci&oacute;n que se presenta var&iacute;a dependiendo de estos dos casos. </p>
+
+
+<h3>Su Registro de Usuario </h3>
+
+
+<p>La informaci&oacute;n que usted incluye en su registro de usuario se adjunta a los documentos que usted deposita. Por esa raz&oacute;n, es importante que usted incluya, adem&aacute;s de su nombre y su direcci&oacute;n de correo electr&oacute;nico, la instituci&oacute;n en la que trabaja, la ciudad donde se encuentra esa instituci&oacute;n, su pa&iacute;s y un enlace a su p&aacute;gina personal, si la tiene. </p>
+
+
+<p>Aquellos campos marcados con una estrella roja son campos obligatorios. Usted debe incluir la informaci&oacute;n correspondiente. Le recomendamos que incluya tanta informaci&oacute;n como sea posible. De esta forma, usted tendr&aacute; mayor visibilidad dentro de la comunidad. </p>
+
+
+<p>Tenga en cuenta que usted no puede cambiar aqu&iacute; su direcci&oacute;n de correo electr&oacute;nico. Las instrucciones para cambiarla se encuentran en el "&aacute;rea de Usuarios Registrados".</p>
+
+
+<p>Para acelerar la introducci&oacute;n de datos, usted puede pulsar la tecla de tabulador ("tab") que le permite pasar r&aacute;pidamente de un campo al siguiente que requiere informaci&oacute;n.</p>
+
+
+<p>Cuando usted haya terminado de introducir la informaci&oacute;n relevante, pulse el bot&oacute;n de "Actualizar el Registro", en la parte inferior del formulario. Si el formulario se ha llenado correctamente, usted ser&aacute; dirigido a la p&aacute;gina de dep&oacute;sito de registros. Si hay alg&uacute;n problema con el formulario, la p&aacute;gina aparecer&aacute; de nuevo con una descripci&oacute;n del problema. Usted puede corregir el problema y pulsar de nuevo el bot&oacute;n de "Actualiza el Registro".</p>
+
+
+<h3>Su Espacio de Trabajo </h3>
+
+
+<p>Una vez que ha comenzado a introducir los datos de un registro, usted puede decidir esperar a otro momento para completar toda la informaci&oacute;n requerida o puede desear trabajar en la introducci&oacute;n de otro registro. Aquellos registros con informaci&oacute;n parcial y que usted no ha propuesto para depositar se mantienen en su &aacute;rea de trabajo. La informaci&oacute;n que aparece en su &aacute;rea de usuario no es p&uacute;blica. Usted es la &uacute;nica persona que tiene acceso a esta informaci&oacute;n.</p>
+
+
+<p>Si su &aacute;rea de trabajo de usuario est&aacute; vac&iacute;a, que ser&aacute; el caso en que usted visite por primera vez esta p&aacute;gina, ver&aacute; un bot&oacute;n en el que puede pulsar para comenzar a introducir registros. Cuando usted pulse en este bot&oacute;n, se crear&aacute; un registro nuevo vac&iacute;o y usted podr&aacute; comenzar a introducir la informaci&oacute;n correspondiente.</p>
+
+
+<p>Si hay registros en su &aacute;rea de trabajo, estos tendr&aacute;n algunos botones de opciones. Estos botones se describen a continuaci&oacute;n:</p>
+
+
+<dl>
+
+  <dt></dt>
+  <h4>Eliminar </h4>
+
+  <dd>
+    <p>Si usted pulsa este bot&oacute;n de un registro, se eliminar&aacute; este registro de su &aacute;rea de trabajo y ser&aacute; borrado completamente. Se le solicitar&aacute; que confirme su decisi&oacute;n, para evitar borrar accidentalmente alg&uacute;n registro.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Editar </h4>
+
+  <dd>
+    <p>Si usted pulsa este bot&oacute;n para un registro, usted podr&aacute; continuar introduciendo o cambiar la informaci&oacute;n introducida para ese registro.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Depositar </h4>
+
+  <dd>
+    <p>Cuando usted considere que ya ha introducido toda la informaci&oacute;n necesaria para un registro, usted puede pulsar este bot&oacute;n para dicho registro. Tenga en cuenta que si hay problemas con el registro (por ejemplo, si no se ha cargado un archivo para el registro, o si hay carencias en la informaci&oacute;n bibliogr&aacute;fica), se le informar&aacute; sobre el problema y usted no podr&aacute; depositar el registro hasta que este problema se resuelva.</p>
+
+    <p>El proceso de dep&oacute;sito de registros se describe m&aacute;s abajo. </p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Nuevo Registro </h4>
+
+  <dd>
+    <p>Al pulsar este bot&oacute;n se crea un nuevo registro y usted puede iniciar el proceso de dep&oacute;sito.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Copiar </h4>
+
+  <dd>
+    <p>Cuando est&aacute; disponible, este bot&oacute;n le permite hacer una copia del registro seleccionado. Puede ser &uacute;til cuando usted tiene que depositar varios registros que tienen informaci&oacute;n similar. Usted puede incluir la informaci&oacute;n com&uacute;n, copiar el registro y despu&eacute;s editar las copias de los registros con su informaci&oacute;n espec&iacute;fica.</p>
+  </dd>
+
+</dl>
+
+
+
+<a name="Process"></a> 
+<h2>El Proceso de Dep&oacute;sito </h2>
+
+
+
+<p>El proceso de dep&oacute;sito se divide en varias etapas. Usted se puede mover entre estas etapas con los botones de "Anterior" y "Siguiente" o con los botones relativos a cada etapa de la parte superior de la ventana. Cada vez que usted pulsa uno de estos botones, el sistema guarda la informaci&oacute;n que usted ha introducido. Sin embargo, si usted pulsa el bot&oacute;n de su navegador para ir a la ventana anterior cuando est&aacute; editando un registro, usted puede perder la informaci&oacute;n.</p>
+
+
+
+<p>Las etapas del proceso se describen en las secciones que siguen.</p>
+
+
+
+
+<h3>Tipo de Registro </h3>
+
+<p>En esta ventana, usted debe escoger la opci&oacute;n que mejor describe el documento que va a depositar. La opci&oacute;n que usted escoja determinar&aacute; la informaci&oacute;n bibliogr&aacute;fica que se solicitar&aacute; en las siguientes etapas.</p>
+
+
+
+<p>Despu&eacute;s pulse el bot&oacute;n "Siguiente" </p>
+
+
+<!--<h3>Succession/Commentary </h3>
+
+
+<p>The repository can link together different versions of the same paper, as
+well as commentaries and responses to commentaries. These enable a reader
+to move easily around those versions, commentaries and responses. </p>
+
+
+<p>If the paper you are depositing is a later version of a paper you
+previously deposited in the repository, enter its ID code into the ``Later
+Version Of'' box. If you used the ``Clone'' option on the ``Review
+Documents'' page, then this box will have already been filled out for you,
+but can be overwritten. </p>
+
+
+<p>To find the ID of a document, use the repository's Search feature to find
+the repository. You may wish to have a second browser window opened in which
+to perform this search, so that you can copy and paste the ID code across
+to this form. </p>
+
+
+<p>If you are depositing a commentary on a paper in the repository, enter its
+ID code in the ``Commentary On'' box. If you are responding to a
+commentary, enter the ID code of the commentary you are responding to in
+this box. </p>
+
+
+<p>You can make sure that you've entered the correct ID codes by clicking
+on the ``Verify IDs'' button at the bottom of the page. The system will
+then show you what papers the ID codes pertain to, so you can make sure
+you've entered the right codes. Note that the system will not let you
+proceed with the deposit if either ID code you enter is invalid. </p>
+
+
+<p>You can of course leave either box empty if your paper is not a later
+version of another, a commentary or a response. Click on the ``Next''
+button when you're sure the information you've entered is correct. </p>
+
+
+<p>Note that you cannot deposit a later version of a paper that has been
+submitted by someone else. </p>-->
+
+<h3>Cargar </h3>
+
+<p>En esta ventana, usted debe cargar el archivo que corresponde al registro que quiere depositar. Usted debe pulsar el bot&oacute;n para escoger un archivo y escogerlo de su disco duro. Usted puede ejecutar esta acci&oacute;n para archivos normales en formatos est&aacute;ndar (e.g., Word, PDF, gr&aacute;ficos, PowerPoint, etc.) o comprimidos (zip y tar.gz). Por defecto, la p&aacute;gina se abre en la pesta&ntilde;a de archivo normal pero usted puede seleccionar otra de las pesta&ntilde;as. Tambi&eacute;n puede cargar el archivo desde un lugar de la red. Para ello, usted debe escoger la pesta&ntilde;a "Desde una URL" y asegurarse de que introduce el enlace exacto que permite descargar el archivo. No introduzca el enlace de la p&aacute;gina donde se encuentra el archivo, sino el enlace que permite descargarlo. Si el enlace es a una p&aacute;gina web, el proceso descargar&aacute; el c&oacute;digo de la p&aacute;gina y los archivos y enlaces asociados a ella. Utilice esta opci&oacute;n con cuidado para evitar descargar portales completos o archivos que no se refieren a su registro.</p>
+
+<p>Usted puede asociar varios archivos a su registro. Haga esto solamente si el registro requiere de ello. Por ejemplo, en el caso en el que quiera incluir archivos de datos complementarios o ap&eacute;ndices relevantes para el registro.</p>
+
+<p>Una vez que haya escogido el archivo, usted debe pulsar el bot&oacute;n "Cargar" a la derecha del nombre del archivo. Esta acci&oacute;n inicia el proceso de carga del archivo. Este proceso puede tomar alg&uacute;n tiempo, dependiendo del tama&ntilde;o del archivo. Usted debe esperar a que termine, antes de continuar.</p>
+
+<p>Una vez que el archivo se ha cargado, aparecen varios campos obligatorios que se llenan autom&aacute;ticamente. Los campos obligatorios se identifican por una estrella roja a la izquierda del nombre del campo. Tenga en cuenta que usted puede pulsar el bot&oacute;n que contiene un signo de interrogaci&oacute;n para obtener ayuda espec&iacute;fica a la informaci&oacute;n que se requiere para el campo correspondiente. En particular, debe asegurarse que el archivo es visible a cualquier persona, dado que <epc:phrase ref="archive_name" /> s&oacute;lo acepta este tipo de registros. 
+</p>
+
+<p>El campo "Licencia" es muy importante. Se llena autom&aacute;ticamente con la licencia de Creative Commons conocida como "Reconocimiento sin Derivar" que indica que quien use su documento debe hacer expl&iacute;cito un reconocimiento al mismo y no puede cambiar o transformar su contenido.</p>
+
+<p>Verifique que el idioma del documento se indica en el campo correspondiente</p>
+
+<p>Una vez que haya verificado la informaci&oacute;n, pulse el bot&oacute;n "Siguiente" </p>
+
+
+<h3>Detalles </h3>
+
+
+<p>En la ventana de detalles, usted deber&aacute; introducir la informaci&oacute;n bibliogr&aacute;fica del registro. La informaci&oacute;n que se solicita depende del tipo de registro que usted escogi&oacute; en la primera etapa.</p>
+
+
+<p>Recuerde que si a la izquierda del nombre de un campo aparece una estrella roja, entonces ese campo es obligatorio y usted debe proporcionar informaci&oacute;n para el mismo. La informaci&oacute;n para los otros campos es opcional. Tambi&eacute;n recuerde que el bot&oacute;n con un signo de interrogaci&oacute;n a la derecha del nombre del campo le proporciona ayuda espec&iacute;fica a la informaci&oacute;n que se requiere para el campo correspondiente. </p>
+
+
+<p>Usted podr&aacute; ver los siguientes tipos de campos: </p>
+
+
+<dl>
+
+  <dt></dt>
+  <h4>Cajas de texto. </h4>
+
+
+  <dd>
+    <p>Escriba la informaci&oacute;n correspondiente. Usted tambi&eacute;n puede copiar la informaci&oacute;n de otro lugar y pegarla en el campo.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Men&uacute;s. </h4>
+
+
+  <dd>
+    <p>Seleccione la opci&oacute;n apropiada del men&uacute;. </p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Opciones de selecci&oacute;n. </h4>
+
+
+  <dd>
+    <p>Se utilizan usualmente para indicar un valor de S&iacute; o No.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Listas. </h4>
+
+
+  <dd>
+    <p>Usted puede seleccionar m&aacute;s de una opci&oacute;n pulsando la tecla control (Windows) o la tecla comando (Apple), mientras que selecciona las opciones. </p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Rango de p&aacute;ginas. </h4>
+
+
+  <dd>
+    <p>Escriba la primera p&aacute;gina del rango en la primera caja y la &uacute;ltima p&aacute;gina del rango en la segunda caja. Si el rango contiene una &uacute;nica p&aacute;gina, escriba la p&aacute;gina en la primera caja y deje la segunda vac&iacute;a.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Nombres. </h4>
+
+
+  <dd>
+    <p>En general, incluya &uacute;nicamente la inicial del nombre y el primer apellido. Es conveniente incluir la direcci&oacute;n de correo electr&oacute;nico de la persona para diferenciarla de otras que puedan tener el mismo apellido e inicial. </p>
+
+
+    <p>Para eliminar un nombre de una lista, borre la informaci&oacute;n correspondiente. No se preocupe si quedan filas intermedias en blanco. El sistema reorganizar&aacute; la lista. </p>
+  </dd>
+
+
+</dl>
+
+
+<p>Una vez que haya introducido la informaci&oacute;n relevante, pulse el bot&oacute;n de siguiente. Si hay omisiones o problemas, el sistema dar&aacute; una descripci&oacute;n de ellos para que usted pueda corregirlos.</p>
+
+
+
+<p>Usted puede usar la tecla de tabulador para navegar entre los campos y acelerar el proceso de introducci&oacute;n de la informaci&oacute;n.</p>
+
+
+<h3>T&eacute;rminos Clave </h3>
+
+
+<p>En esta etapa, usted debe introducir la informaci&oacute;n que permitir&aacute; identificar su registro por t&eacute;rminos clave. Esta informaci&oacute;n es muy importante porque la mayor&iacute;a de usuarios encontrar&aacute;n sus registros a trav&eacute;s de b&uacute;squedas o exploraciones basadas en estos t&eacute;rminos clave.
+</p>
+
+<p>Usted deber&aacute; incluir informaci&oacute;n obligatoria en tres campos: t&eacute;rminos clave, enfoque y nivel educativo.</p>
+
+<dl>
+
+  <dt></dt>
+  <h4>T&eacute;rminos clave </h4>
+
+  <dd>
+    <p>Usted debe seleccionar al menos uno y m&aacute;ximo seis t&eacute;rminos clave. Usted puede abrir cualquier rama del &aacute;rbol pulsando el el bot&oacute;n con el s&iacute;mbolo "+". Cuando ubique el t&eacute;rmino clave deseado, pulse en el bot&oacute;n "Agregar" que aparece a la izquierda del t&eacute;rmino y espere a que el sistema lo incluya en el registro. Usted puede eliminar un t&eacute;rmino clave que ya ha incluido pulsando en el bot&oacute;n "Eliminar" correspondiente.</p>
+    
+    <p>Usted debe seleccionar al menos un t&eacute;rmino clave de las ramas 1 a 11 del &aacute;rbol puesto que estos son los t&eacute;rminos clave que caracterizan su registro dentro de la Educaci&oacute;n Matem&aacute;tica.</p>
+    
+    <p>La &uacute;ltima rama del &aacute;rbol se denomina "Otros t&eacute;rminos clave espec&iacute;ficos no incluidos en las secciones anteriores" e incluye, por orden alfab&eacute;tico t&eacute;rminos clave que no se han incluido en las ramas anteriores.</p>
+    
+    <p> Si hay un t&eacute;rmino clave que usted considera necesario y que no se encuentra en el listado, por favor incl&uacute;yalo en el campo de comentarios y sugerencias que aparece abajo, con una explicaci&oacute;n breve de por qu&eacute; deber&iacute;a aparecer en el listado. El editor de Funes tendr&aacute; en cuenta su sugerencia y valorar&aacute; la necesidad de incluirlo.</p>
+    
+    <p>Tenga en cuenta que el editor puede eliminar o agregar t&eacute;rminos clave a su registro, con el prop&oacute;sito de que &eacute;ste se identifique de la manera m&aacute;s clara y eficiente posible dentro del repositorio.</p>
+  </dd>
+
+
+  <dt></dt>
+  <h4>Enfoque </h4>
+
+  <dd>
+    <p>Indique aqu&iacute; el tipo de actividad a la que se refiere su registro.</p>
+  </dd>
+  
+    <dt></dt>
+  <h4>Nivel Educativo </h4>
+
+  <dd>
+    <p>Indique aqu&iacute; el o los niveles educativos a los que se refiere su registro.</p>
+  </dd>
+
+    <dt></dt>
+  <h4>Direcci&oacute;n de Correo Electr&oacute;nico de Contacto </h4>
+
+  <dd>
+    <p>Es conveniente que incluya una direcci&oacute;n de correo electr&oacute;nico de contacto.</p>
+  </dd>
+
+      <dt></dt>
+      
+  <h4>Informaci&oacute;n adicional </h4>
+
+  <dd>
+    <p>Utilice este campo si quiere incluir informaci&oacute;n adicional sobre su registro.</p>
+  </dd>
+
+      <dt></dt>
+  <h4>Comentarios y Sugerencias </h4>
+
+  <dd>
+    <p>Utilice este campo para incluir comentarios y sugerencias al editor. Por ejemplo, aqu&iacute; puede incluir t&eacute;rminos clave que usted desear&iacute;a que fueran incluidos en el &aacute;rbol de t&eacute;rminos clave y con los que se deber&iacute;a etiquetar su documento. La informaci&oacute;n que usted incluya en este campo no es p&uacute;blica. Ser&aacute; visible &uacute;nicamente por los editores.</p>
+  </dd>
+    
+  
+</dl>
+
+
+
+
+<p>Una vez que haya terminado de incluir la informaci&oacute;n relevante, pulse el bot&oacute;n de "Siguiente". </p>
+
+<p>En todas las ventanas de dep&oacute;sito de registro aparece el bot&oacute;n "Guardar para m&aacute;s adelante". Al pulsar este bot&oacute;n, usted guarda el registro en su &aacute;rea de trabajo personal sin depositarlo a&uacute;n. De esta manera, usted puede regresar a este registro, para editarlo y terminar el proceso de dep&oacute;sito, cuando lo considere conveniente.</p>
+
+
+<h3>Depositar Registro </h3>
+
+
+<p>En esta p&aacute;gina, usted finaliza el proceso. Si toda la informaci&oacute;n est&aacute; completa, usted debe leer las condiciones de registro en relaci&oacute;n con los derechos de autor del documento y sus metadatos. Despu&eacute;s pulsar el bot&oacute;n "Depositar Registro" para terminar el registro. </p>
+
+
+<p>Una vez depositado, su registro ser&aacute; revisado por el editor. El editor podr&aacute; publicarlo en <epc:phrase ref="archive_name" /> o comunicarse con usted en caso de que encuentre problemas con el registro.</p>
+
+
+
+
+</xpage:body>
+</xpage:page>

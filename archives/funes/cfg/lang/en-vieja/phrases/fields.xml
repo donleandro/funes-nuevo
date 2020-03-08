@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control"><epp:phrase id="metapage_title_local">Misc.</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_enfoque">Por favor ingrese el enfoque del documento.</epp:phrase>
+	<epp:phrase id="eprint_fieldname_enfoque">Enfoque</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_prueba">asdasdasd</epp:phrase>
+	<epp:phrase id="eprint_fieldname_prueba">PRUEBA</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_matematics">La ayuda para este campo</epp:phrase>
+	<epp:phrase id="eprint_fieldname_matematics">Matem&#xE1;ticas Escolares</epp:phrase>
+	<epp:phrase id="eprint_fieldname_matematicas_escolares">Matem&#xE1;ticas Escolares</epp:phrase>
+	<epp:phrase id="eprint_fieldhelp_valoration">Ayuda valoraci&#xF3;n</epp:phrase>
+	<epp:phrase id="eprint_fieldname_valoration">Valoraci&#xF3;n</epp:phrase></epp:phrases>

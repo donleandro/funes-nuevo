@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+<!-- SneepComment furniture -->
+<epp:phrase name="sneep/comment:comment_title"><h1 class="sneep_c_main_title">Comentarios</h1></epp:phrase>
+<epp:phrase name="sneep/comment:add">Agregar</epp:phrase>
+<epp:phrase name="sneep/comment:add_comment"><h2 class="sneep_c_add_comment">Agregar Comentario</h2></epp:phrase>
+<epp:phrase name="sneep/comment:cancel">Cancelar</epp:phrase>
+<epp:phrase name="sneep/comment:save">Guardar</epp:phrase>
+<epp:phrase name="sneep/comment:delete">Eliminar</epp:phrase>
+<epp:phrase name="sneep/comment:edit">Editar</epp:phrase>
+<epp:phrase name="sneep/comment:no_comments"><p class="sneep_message">Actualmente no hay comentarios para este art&iacute;culo.</p></epp:phrase>
+<epp:phrase name="sneep/comment:tools_divider"> | </epp:phrase>
+<epp:phrase name="sneep/comment:need_to_log_in_to_add"><p>Usted necesita ingresar antes de poder agregar o editar los comentarios.</p></epp:phrase>
+<epp:phrase name="sneep/comment:need_to_log_in_to_view"><p>Usted necesita ingresar antes de poder ver los comentarios.</p></epp:phrase>
+<epp:phrase name="sneep/comment:EPrint_not_found">Eprint no encuentra using id :<epc:pin name="objectid"/></epp:phrase>
+<epp:phrase name="sneep/comment:link_label"> Mostrar Comentarios </epp:phrase>
+<!-- SneepNote furniture -->
+<epp:phrase name="sneep/note:note_title"><h1 class="sneep_n_main_title">Notas</h1></epp:phrase>
+<epp:phrase name="sneep/note:add">Agregar</epp:phrase>
+<epp:phrase name="sneep/note:add_note"><h2 class="sneep_n_add_note">Agregar una Nota <span style="font-weight: normal; font-size: 75%;">- esto ser&aacute; visible para solo si est&aacute; conectado.</span></h2></epp:phrase>
+<epp:phrase name="sneep/note:cancel">Cancelar</epp:phrase>
+<epp:phrase name="sneep/note:save">Guardar</epp:phrase>
+<epp:phrase name="sneep/note:delete">Eliminar</epp:phrase>
+<epp:phrase name="sneep/note:edit">Editar</epp:phrase>
+<epp:phrase name="sneep/note:no_notes"><p class="sneep_message">Actualmente no tiene ninguna nota sobre este tema.</p></epp:phrase>
+<epp:phrase name="sneep/note:tools_divider"> | </epp:phrase>
+<epp:phrase name="sneep/note:need_to_log_in_to_add"><p>Necesita ingresar antes para poder agregar o editar notas.</p></epp:phrase>
+<epp:phrase name="sneep/note:need_to_log_in_to_view"><p>Necesita ingresar antes para poder ver las notas.</p></epp:phrase>
+<epp:phrase name="sneep/note:EPrint_not_found">Eprint no encuentra using id :<epc:pin name="objectid"/></epp:phrase>
+<epp:phrase name="sneep/note:note_title_label">T&iacute;tulo de la Nota [opcional]: </epp:phrase>
+<epp:phrase name="sneep/note:link_label"> Mostrar Notas </epp:phrase>
+<!-- SneepTag furniture -->
+<!-- NB watch out if changing anything that has an id attribute as some javascript may be looking for it -->
+<epp:phrase name="sneep/tag:tag_title"><h1 class="sneep_t_main_title">Etiquetas</h1></epp:phrase>
+<epp:phrase name="sneep/tag:add">Agregar</epp:phrase>
+<epp:phrase name="sneep/tag:add_tag"><h2 class="sneep_c_add_tag">Agregar Etiqueta</h2></epp:phrase>
+<epp:phrase name="sneep/tag:cancel">Cancelar</epp:phrase>
+<epp:phrase name="sneep/tag:save">Guardar Etiqueta</epp:phrase>
+<epp:phrase name="sneep/tag:delete">Eliminar</epp:phrase>
+<epp:phrase name="sneep/tag:edit">Editar</epp:phrase>
+<epp:phrase name="sneep/tag:no_tags"><p class="sneep_message">Actualmente no hay etiquetas.</p></epp:phrase>
+<epp:phrase name="sneep/tag:tools_divider"> | </epp:phrase>
+<epp:phrase name="sneep/tag:need_to_log_in_to_add"><p>Necesita ingresar antes para poder agregar etiquetas.</p></epp:phrase>
+<epp:phrase name="sneep/tag:need_to_log_in_to_view"><p>Necesita ingresar antes para poder ver las etiquetas.</p></epp:phrase>
+<epp:phrase name="sneep/tag:EPrint_not_found">Eprint no encuentra using id :<epc:pin name="objectid"/></epp:phrase>
+<epp:phrase name="sneep/tag:objecttype_not_available"><epc:pin name="objecttype"/> no est&aacute; disponible para etiquetar</epp:phrase>
+<epp:phrase name="sneep/tag:input_label"><span class="sneep_t_input_label">Etiquetar este tema<span style="font-size: 75%">(Puede introducir una lista separada por comas)</span>: </span></epp:phrase>
+<epp:phrase name="sneep/tag:link_label"> Mostrar Etiquetas </epp:phrase>
+<epp:phrase name="sneep/tag:link_label_hide"> Ocultar Etiquetas </epp:phrase>
+<epp:phrase name="sneep/tag:view_toggle_list"> Ver Etiquetas como una lista </epp:phrase>
+<epp:phrase name="sneep/tag:view_toggle_cloud"> Ver Etiquetas como una nube</epp:phrase>
+<epp:phrase name="sneep/tag:view_my_tags"> Ver mis etiquetas </epp:phrase>
+<epp:phrase name="sneep/tag:view_my_item_tags"> Ver mis etiquetas para este tema </epp:phrase>
+<epp:phrase name="sneep/tag:view_item_tags"> Ver etiquetas para este tema </epp:phrase>
+<epp:phrase name="sneep/tag:view_all_tags"> Ver todas las etiquetas </epp:phrase>
+<epp:phrase name="sneep/tag:link_title"><epc:pin name="itemtype"/> etiquetar con <epc:pin name="tag_text"/></epp:phrase>
+<epp:phrase name="sneep/tag:delete_title">Eliminar la etiqueta &quot;<epc:pin name="tag_text"/>&quot; para este tema </epp:phrase>
+<epp:phrase name="sneep/tag:delete_icon"><span class="sneep_tag_delete_icon">x</span></epp:phrase>
+<epp:phrase name="sneep/tag_view:title"><span id="tag_global_view_title"><span id="tag_global_filter">Todas</span> las etiquetas para este repositorio <span id="tag_global_view">(nube)</span></span></epp:phrase>
+<epp:phrase name="sneep/tag_viewlink">Examinar todas las etiquetas
+</epp:phrase>
+<epp:phrase name="sneep/tag:back_from_index">&lt;&lt; Atr&aacute;s</epp:phrase>
+
+
+<epp:phrase name="sneep/error:heading">Error en <epc:pin name="component_name"/> </epp:phrase>
+
+<!-- Config stuff -->
+
+<epp:phrase name="sneep/comment:add_textarea_cols">50</epp:phrase>
+<epp:phrase name="sneep/comment:add_textarea_rows">3</epp:phrase>
+<epp:phrase name="sneep/comment:edit_textarea_cols">50</epp:phrase>
+<epp:phrase name="sneep/comment:edit_textarea_rows">3</epp:phrase>
+<!-- This can be either 1 (comments can be viewed by non-logged in users) or 0 (coments can only be viewed by logged in users) -->
+<!-- you need to run generate_abstracts as well as reloading the repository before changing the below takes effect -->
+<epp:phrase name="sneep/comment:repository_open">1</epp:phrase>
+
+<epp:phrase name="sneep/note:add_textarea_cols">50</epp:phrase>
+<epp:phrase name="sneep/note:add_textarea_rows">3</epp:phrase>
+<epp:phrase name="sneep/note:edit_textarea_cols">50</epp:phrase>
+<epp:phrase name="sneep/note:edit_textarea_rows">3</epp:phrase>
+
+<epp:phrase name="sneep/tag:add_textarea_cols">50</epp:phrase>
+<epp:phrase name="sneep/tag:add_textarea_rows">3</epp:phrase>
+<epp:phrase name="sneep/tag:edit_textarea_cols">50</epp:phrase>
+<epp:phrase name="sneep/tag:edit_textarea_rows">3</epp:phrase>
+
+<!-- the following is not yet implemented but it will be a place to put things you may wnat to keep out of your repo -->
+<epp:phrase name="sneep/disallowed_tags"></epp:phrase>
+<epp:phrase name="sneep/disallowed_words"></epp:phrase>
+
+</epp:phrases>

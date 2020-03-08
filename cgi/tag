@@ -1,0 +1,141 @@
+######################################################################
+#
+#  SNEEP Comment module
+#
+######################################################################
+#
+#  This file is part of GNU SNEEP.
+#  
+#  Copyright (c) 2007 University of London Computer Centre, UK. SO17 1BJ.
+#  
+#  SNEEP is free software; you can redistribute it and/or modify
+#  it under the terms of the GNU General Public License as published by
+#  the Free Software Foundation; either version 2 of the License, or
+#  (at your option) any later version.
+#  
+#  SNEEP is distributed in the hope that it will be useful,
+#  but WITHOUT ANY WARRANTY; without even the implied warranty of
+#  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#  GNU General Public License for more details.
+#  
+#  You should have received a copy of the GNU General Public License
+#  along with SNEEP; if not, write to the Free Software
+#  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+#
+######################################################################
+
+use EPrints;
+
+use strict;
+
+my $session = new EPrints::Session;
+exit( 0 ) unless( defined $session );
+# $session->get_database->set_debug( 1 );
+
+my $path_info = $session->get_request->path_info;
+#print $path_info."<br/>\n";
+unless( $path_info =~ m!^/([^/]+)(/([^/]*)/([^/]*)(/([^/]*)|))?! ) 
+#unless( $path_info =~ m!^/([^/]+)(/([^/]*)(/([^/]*)|)?)?! ) 
+{
+	error( $session, $session->html_phrase( "sneep/tag:misformed_request" ) );
+	$session->terminate;
+	exit;
+}
+# /cgi/tag/EPrint/~cloud | ~other_displays... | [tagname]
+# /cgi/tag/Document/~cloud | ~other_displays... | [tagname]
+# Maybe at a later stage add the ability to select groups of items from which to gather tags...?
+# /cgi/tag/EPrint:Document/~cloud | ~other_displays... | [tagname]
+# and so on...
+# /cgi/tag/All/~cloud | ~other_displays... | [tagname]
+
+my $id = $1;
+my $afterid = $2;
+my $tag_types = $3;
+my $action = $4;
+my $filter = $6;
+
+my @display_options = qw/cloud list/;
+
+my $mode = "tagname";
+if( $action =~ s/~(.*)/$1/ ){
+	my $known=0;
+	foreach my $disp_opt (@display_options){
+		if($action eq $disp_opt){
+#			print "$action is a known display option.<br/>\n";
+			$known=1;
+			last;
+		}
+	}
+	if(!$known){
+		error( $session, $session->html_phrase( "sneep/tag:unknown_display_option",
+					action => $session->make_text( $action ) ) );
+		$session->terminate;
+		exit;
+	}else{
+		if($id=~ /[^\d]+/){
+			$mode = "general_disp_opt";
+		}else{
+			$mode = "disp_opt";
+		}
+	}
+}
+#print "tag_types: $tag_types, afterid: $afterid, action: $action, id: $id, filter: $filter<br/>\n";
+my @tag_types = split(":",$tag_types);
+my $eprint = undef;
+if($mode eq "disp_opt"){
+	$eprint = EPrints::DataObj::EPrint->new( 
+			$session, 
+			$id, 
+			$session->get_repository->get_dataset( "archive" ) );
+
+	if( !defined $eprint ){
+		error( 
+			$session, 
+			$session->html_phrase( 
+				"sneep/tag:eprint_not_found",
+				eprintid => $session->make_text( $id ) ) );
+		$session->terminate;
+		exit;
+	}
+}
+my @plugins = $session->plugin_list( );
+my $ok = 0;
+foreach( @plugins ) { 
+	if( $_ eq "SneepTag" ) { 
+		$ok = 1; 
+		last; 
+	} 
+}
+unless( $ok ) 
+{
+	error( $session, $session->html_phrase( "sneep/tag:action_not_available",
+				action => $session->make_text( $action ) ) );
+	$session->terminate;
+	exit;
+}
+
+my $plugin = $session->plugin( "SneepTag::Display" );
+my $format = "HTML";
+my $mimetype = "text/html";
+if(defined $session->param("format")){ $format = $session->param("format"); $mimetype = $plugin->param("mimetype"); }
+
+$session->send_http_header( "content_type"=>$mimetype );
+my $cmd = "\$plugin->tag_Display(\$mode, \$action, \\\@tag_types, \$filter, \$eprint);";
+#print "\$plugin->tag_Display($mode, $action, ".join(":",@tag_types).");\n<br/>";
+
+eval $cmd;
+
+$session->terminate;
+exit;
+
+sub error
+{
+	my( $session, $msg ) = @_;
+
+	$session->build_page( 
+		$session->html_phrase( "cgi/export:error_title" ),
+		$msg,
+		"export_error" );
+	 $session->send_page;
+}
+

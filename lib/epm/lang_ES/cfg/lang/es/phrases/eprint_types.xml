@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase">
+
+
+<!-- Eprint Type Names -->
+
+    <epp:phrase id="eprint_typename_book">Libro</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_book">Un libro o un volumen de una conferencia.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_book_section">Secci&oacute;n de Libro</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_book_section">Un cap&iacute;tulo o secci&oacute;n en un libro.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_article">Art&iacute;culo</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_article">Un art&iacute;culo en un peri&oacute;dico, revista o gaceta. No necesariamente pre-revisado. Puede tratarse de un medio exclusivamente electr&oacute;nico, como una gaceta en l&iacute;nea o un sitio web de noticias.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_conference_item">Objeto de Conferencia o Bolsa de Trabajo</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_conference_item">Un art&iacute;culo, p&oacute;ster, charla, lectura o presentaci&oacute;n dada en una conferencia, bolsa de trabajo u otro evento. Si el objeto de conferencia ha sido publicado en una gaceta o libro, utilice entonces la "Secci&oacute;n de Libro" o el "Art&iacute;culo" en su lugar.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_monograph">Monograf&iacute;a</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_monograph">Una monograf&iacute;a. Puede tratarse de un informe t&eacute;cnico, informe de proyecto, documentaci&oacute;n, manual, art&iacute;culo de trabajo o art&iacute;culo de discusi&oacute;n.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_thesis">Tesis</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_thesis">Una tesis doctoral o de licenciatura.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_patent">Patente</epp:phrase>
+	<epp:phrase id="eprint_optdetails_type_patent">Una patente publicada. <em>No</em> incluya solicitudes de patente a&uacute;n no publicadas.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_other">Otro</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_other">Algo dentro del &aacute;mbito del repositorio pero no clasificable mediante las otras categor&iacute;as.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_artefact">Artefacto</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_artefact">Un artefacto art&iacute;stico o producto de trabajo.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_exhibition">Exposici&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_exhibition">Una exposici&oacute;n art&iacute;stica o site specific performance-based deposit.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_composition">Composici&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_composition">Una composici&oacute;n musical.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_performance">Desempe&ntilde;o o Actuaci&oacute;n</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_performance">Desempe&ntilde;o de un evento musical.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_image">Imagen</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_image">Una fotograf&iacute;a digital o imagen visual.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_video">Video</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_video">Un video digital.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_audio">Audio</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_audio">Una grabaci&oacute;n de sonido.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_dataset">Conjunto de datos</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_dataset">Una colecci&oacute;n acotada de datos cuantitativos (p.e. hojas de c&aacute;lculo o archivos de datos XML).</epp:phrase>
+
+    <epp:phrase id="eprint_typename_experiment">Experimento</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_experiment">Datos experimentales con an&aacute;lisis intermedio y resultados sumarios.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_teaching_resource">Recurso T&eacute;cnico</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_teaching_resource">Notas de conferencia, ejercicios, papeles de ex&aacute;menes o programas de un curso.</epp:phrase>
+
+
+
+</epp:phrases>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+<!-- this is used for the minimal users who have their username locked to their
+     email address -->
+
+    <epp:phrase id="cgi/register:intro_minimal">
+<p>Como usuario registrado tendr&aacute; la posibilidad de configurar b&uacute;squedas guardadas que han sido enviadas cuando nuevos elementos son colocados en el repositorio.</p>
+
+<p>Por favor, complete los detalles en esta p&aacute;gina para registrarse con <epc:phrase ref="archive_name" />.</p>
+
+<p>El proceso de registrarse utiliza el correo electr&oacute;nico para enviarle detalles de como activar su cuenta. Usted debe revisar su correo electr&oacute;nico y activar su contrase&ntilde;a. Una vez activada usted puede comenzar a utilizar las funcionalidades permitidas a los usuarios registrados en el dep&oacute;sito.</p>
+
+<p>Si ya est&aacute; registrado, pero ha olvidado su nombre de usuario o contrase&ntilde;a,
+<a href="reset_password">pulse aqu&iacute;</a> para suministrarle contrase&ntilde;a nueva.</p>
+    </epp:phrase>
+
+
+
+
+</epp:phrases>
+

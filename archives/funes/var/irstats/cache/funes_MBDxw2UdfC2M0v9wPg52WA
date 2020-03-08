@@ -1,0 +1,3 @@
+$VAR1 = bless( {
+                 'html' => '<span class="irstats_view_fulltextcounthtml">2034172</span>'
+               }, 'IRStats::Visualisation::HTML' );

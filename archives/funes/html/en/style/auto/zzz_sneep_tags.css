@@ -1,0 +1,84 @@
+.sneep_t_main { 
+	background-color: #d8fcd5;
+}
+
+h1.sneep_t_main_title {
+	padding-top: 1em;
+	padding-left: 0.5em;
+	color: #000;
+	text-align: left;
+	font-size: 110%;
+	font-weight: bold;
+	display: inline;
+}
+.sneep_t_tools{
+	padding-left: 1em;
+	display: inline;
+}
+.sneep_tool_link{
+	font-size : 95%;
+        color: #666;
+        padding: 0px;
+	font-weight : bold;
+	text-decoration: none;
+}
+.sneep_tool_link:hover
+{
+        color: #000;
+}
+.sneep_tool_link:visited
+{
+        color:#666;
+}
+.sneep_tag_cloud_global{
+	padding-left: 1em;
+	padding-right:1em;
+}
+.sneep_tag_cloud{
+	padding-left: 2em;
+}
+.sneep_t_add_div{
+}
+.sneep_t_input_label{
+	padding-left: 1em;
+}
+
+.sneep_tag_message{
+	width: 30em;
+	padding-left: 2em;
+}
+.sneep_tag_error_li{
+	background-color: #faa;
+	border: solid 1px #f33;
+	list-style-type: none;
+	margin: 0.5em;
+}
+
+.sneep_tag_message_li{
+	background-color: #aaf;
+	border: solid 1px #33f;
+	list-style-type: none;
+	margin: 0.5em;
+}
+
+.sneep_tag_delete_link {
+	text-decoration: none; 
+	color: #000;
+}
+.sneep_tag_delete_icon {
+	vertical-align: super; 
+}
+
+.sneep_t_dialog .sneep_t_hd .sneep_t_c, .sneep_t_dialog .sneep_t_ft-l {
+ font-size:1px; /* ensure minimum height */
+ height:13px; 
+}
+
+.sneep_t_dialog .sneep_t_ft { 	background:transparent url(../style/images/bl_g.gif) no-repeat 0px 0px; }
+.sneep_t_dialog .sneep_t_ft-l { 	background:transparent url(../style/images/br_g.gif) no-repeat right 0px; }
+
+.sneep_t_dialog .sneep_t_hd { background:transparent url(../style/images/tl_g.gif) no-repeat 0px 0px;}
+.sneep_t_dialog .sneep_t_hd .sneep_t_c { 	background:transparent url(../style/images/tr_g.gif) no-repeat right 0px;}
+.sneep_t_dialog .sneep_t_bd { background:transparent url(../style/images/ml_g.gif) repeat-y 0px 0px;}
+.sneep_t_dialog .sneep_t_bd .sneep_t_c { background:transparent url(../style/images/mr_g.gif) repeat-y right 0px;}
+

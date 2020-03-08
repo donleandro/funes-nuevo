@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase">
+
+
+<!-- Eprint Type Names -->
+
+	<epp:phrase id="eprint_typename_book">Libro</epp:phrase>
+	<epp:phrase id="eprint_optdetails_type_book">Un libro publicado. Incluye libros editados y actas de congresos, entre otros. Puede ser un libro publicado en medio electrónico (como CD) siempre que tenga un ISBN asignado.</epp:phrase>
+
+	<epp:phrase id="eprint_typename_book_section">Capítulo o Sección de un Libro</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_book_section">Un capítulo o sección de un libro. <b>No</b> incluye trabajos presentados en congresos que hayan sido publicados en el libro de actas. Para estos trabajos, seleccione la opción "Contribución en actas de congresos".</epp:phrase>
+
+    <epp:phrase id="eprint_typename_article">Artículo</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_article">Un artículo en una publicación seriada periódica. Incluye artículos en revistas de investigación, periódicos y boletines, entre otros. Los artículos no tienen necesariamente que haber sido revisados por pares. Puede ser un artículo publicado en un medio electrónico.</epp:phrase>
+
+<epp:phrase id="eprint_typename_actas_congresos">Contribución a Actas de Congreso</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_actas_congresos">Un documento publicado en un libro de actas de congresos. El libro de actas debe tener ISBN asignado y editores. En caso contrario, seleccione la opción "Conferencia, Taller o Curso".</epp:phrase>
+
+    <epp:phrase id="eprint_typename_conference_item">Conferencia, Taller o Curso</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_conference_item">El documento de una conferencia, taller o curso realizados en algún evento o institución. Si usted tiene únicamente el o los archivos de PowerPoint (u otro formato) de su presentación, puede crear el registro con esos archivos sin necesidad de incluir archivos adicionales. Si el documento de la conferencia ha sido publicado, utilice alguna de las secciones anteriores (aquí puede incluir los archivos de la presentación).</epp:phrase>
+
+    <epp:phrase id="eprint_typename_monograph">Documento no Publicado</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_monograph">Un documento que no ha sido publicado.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_thesis">Tesis</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_thesis">Una tesis de posgrado (e.g., doctorado, maestría, especialización).</epp:phrase>
+
+    <epp:phrase id="eprint_typename_patent">Patentes</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_patent">Una patente publicada.<em>No</em>incluir las solicitudes de patentes no publicadas.</epp:phrase>
+
+   <epp:phrase id="eprint_typename_other">Otros</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_other">Algo dentro del ámbito del repositorio, pero que no está cubierto en las otras categorías.</epp:phrase>
+
+    <!--<epp:phrase id="eprint_typename_artefact">Artefactos</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_artefact">Un artefacto o producto de trabajo.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_exhibition">Mostrar / Exposición</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_exhibition">la exposición de un artista o un sitio específico basado en el rendimiento del depósito.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_composition">Composición</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_composition">Una composición musical.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_performance">rendimiento</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_performance">ejecución de un evento musical.</epp:phrase>-->
+
+    <epp:phrase id="eprint_typename_image">Imagen</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_image">Fotografía digital o una imagen o figura en formato electrónico.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_video">Video</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_video">Un video digital.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_audio">Audio</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_audio">Una grabación de sonido.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_dataset">Dataset</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_dataset">Una colección limitada de datos cuantitativos (por ejemplo, hoja de cálculo o archivo de datos XML).</epp:phrase>
+
+    <epp:phrase id="eprint_typename_experiment">Experimento</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_experiment">Los datos experimentales con los análisis intermedios y el resumen de los resultados.</epp:phrase>
+
+    <epp:phrase id="eprint_typename_teaching_resource">Recursos de Enseñanza</epp:phrase>
+    <epp:phrase id="eprint_optdetails_type_teaching_resource">Actividades de enseñanza. Apuntes, ejercicios, exámenes o curso de los programas.</epp:phrase>
+
+</epp:phrases>

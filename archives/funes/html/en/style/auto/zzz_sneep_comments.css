@@ -1,0 +1,226 @@
+/* 
+ * This CSS file will be applied after all the built in styles,
+ * but before zzz_local.css.
+ * 
+ * CSS files are loaded in alphabetic order, hence the  "zzz" in 
+ * the filename to force it to load after the other css files!
+ * 
+*/
+
+/* Hopefully Sneep comments can be styled however you please using the following */
+
+/* 
+ *  Caveat : Some elements created by EPrints::Plugin::Comment->render_HTML and 
+ *  have embedded style attributes. These are there to hide things (display : none) 
+ *  that the javascript will unhide or clone when neccessary. 
+ *  Everything you need should appear with JS turned off so there should be no need to 
+ *  override the display properties. If you do you should know what you're doing.
+*/
+
+/* The div of spanned links that gets displayed on the abstract page (or wherever you want to display it) */
+.sneep_toolbar {}
+#sneep_comment_link_span {} /* The comment span */
+#sneep_comment_link {} /* The comment link */
+
+#sneep_main {}	/* daddy [div] that holds comment and note (and...) components */
+/* the big div that contains the comments*/
+.sneep_c_main { 
+	background-color: #d5d8fc;
+} 
+h1.sneep_c_main_title {
+	padding-top: 1em;
+	padding-left: 0.5em;
+	color: #000;
+	text-align: left;
+	font-size: 110%;
+	font-weight: bold;
+}
+
+#sneep_c_comment{} /* The div that the HTTP.response (comments) get appended to */
+/* intro p has the comment count and any other info one might want */
+p.sneep_c_intro_p{
+	font-weight: bold;
+	padding-left: 0.5em;
+}
+#sneep_c_list{} /* The ul of comments */
+/* The li that contains each whole comment */
+.sneep_c_li {
+	list-style-type: none;
+} 
+/* The header which has the username and comment date time */
+.sneep_c_header { 
+	font-size: 90%;
+	font-weight: bold;
+}
+/* a little span just for the time */
+.sneep_c_time_span{
+	font-weight: normal;
+	font-style: italic;
+}
+.sneep_c_tools { /* For the editing tools that appear if a user owns a comment */
+	font-size : 95%;
+	position: relative;
+	top: -1.5em;
+	float: right;
+	padding-right: 2em;
+}
+.sneep_button_as_link /* Make the buttons look like links or at least not like buttons */
+{
+        cursor: pointer;
+        border: none;
+        background: none;
+        color: #666;
+        padding: 0px;
+        font-weight : bold;
+/*      text-decoration : underline; */
+}
+.sneep_button_as_link:hover
+{
+        color:#000;
+}
+.sneep_button_as_link:visited
+{
+        color:#000;
+}
+.sneep_comment_text{width: 75%;} /* For the actual comment text (which is displayed in a span in a paragraph) 
+			This class is called from the paragraph and will there for effect the 
+			textarea should it be grafted on by javascript */
+.sneep_comment_text_span {} /* better provide one for the text only */
+.sneep_comment_edit_textarea { overflow: auto; } /* some people might want to tart up the textarea... */
+.sneep_comment_add_textarea { overflow: auto; } /* some people might want to tart up the textarea... */
+
+#sneep_c_comments_end {} /* This is an <hr> that sits between the comments and the add form */
+
+.sneep_c_add  /* a div with the comment add title in it*/
+{	
+/*	font-size : 95%;*/
+}
+ /*The header tag of the add comment bit */
+.sneep_c_add_comment {
+	color: #000;
+	padding-left: 0.5em;
+}
+
+/* a div with a textarea in it */
+.sneep_c_add_textarea {
+	padding-left: 0.5em;
+	padding-top: 0;
+} 
+
+.sneep_message {
+	padding: 1em;
+	font-weight: bold;
+}
+#new_comment_text {} /* some people might want to tart up the textarea... */
+
+.sneep_admin_intervention { /*class for text that is rudely inserted into comments when an admin has been at them */
+	font-weight: bold;
+	color: #622;
+	padding: 2px;
+}
+
+/*sneep notes*/
+/* the big div that contains the notes */
+.sneep_n_main { 
+	background-color: #fcd8d5;
+} 
+h1.sneep_n_main_title {
+	padding-top: 1em;
+	padding-left: 0.5em;
+	color: #000;
+	text-align: left;
+	font-size: 110%;
+	font-weight: bold;
+}
+
+/* intro p has the comment count and any other info one might want */
+p.sneep_n_intro_p{
+	font-weight: bold;
+	padding-left: 0.5em;
+}
+.sneep_n_header { /* The header which has the username and comment date time */
+	font-size: 90%;
+	font-weight: bold;
+}
+/* a little span just for the time */
+.sneep_n_time_span{
+	font-weight: normal;
+	font-style: italic;
+}
+.sneep_n_tools { /* For the editing tools that appear if a user owns a comment */
+	font-size : 95%;
+	position: relative;
+	top: -1.5em;
+	float: right;
+	padding-right: 2em;
+}
+.sneep_n_li {
+	list-style-type: none;
+}
+ /*The header tag of the add comment bit */
+.sneep_n_add_note {
+	color: #000;
+	padding-left: 0.5em;
+}
+
+/* a div with a textarea in it */
+.sneep_n_add_textarea {
+	padding-left: 0.5em;
+	padding-top: 0;
+} 
+.sneep_new_note_label{}
+
+.sneep_note_title_span { font-weight: bold; }
+.sneep_note_edit_textarea { overflow: auto; width: 30em; } 
+.sneep_note_edit_title { 
+	width: 21.7em; 
+	padding: 1px 2px 1px 2px;
+	margin-right: 4px;
+	border: solid 1px #ccc;
+}
+
+.sneep_note_add_textarea { overflow: auto; width: 30em; } /* some people might want to tart up the textarea... */
+.sneep_note_add_title { 
+	width: 21.7em; 
+	padding: 1px 2px 1px 2px;
+	margin-right: 4px;
+	border: solid 1px #ccc;
+} 
+
+.sneep_n_dialog .sneep_n_hd .sneep_n_c, .sneep_n_dialog .sneep_n_ft-l {
+ font-size:1px; /* ensure minimum height */
+ height:13px; 
+}
+
+/* styles for rounded corners - thanks to David Kane of www.wit.ie */
+
+.sneep_n_dialog .sneep_n_ft { background:transparent url(../style/images/bl.gif) no-repeat 0px 0px; }
+.sneep_n_dialog .sneep_n_ft-l { background:transparent url(../style/images/br.gif) no-repeat right 0px; }
+
+.sneep_n_dialog .sneep_n_hd { background:transparent url(../style/images/tl.gif) no-repeat 0px 0px;}
+.sneep_n_dialog .sneep_n_hd .sneep_n_c { background:transparent url(../style/images/tr.gif) no-repeat right 0px;}
+.sneep_n_dialog .sneep_n_bd { background:transparent url(../style/images/ml.gif) repeat-y 0px 0px;}
+.sneep_n_dialog .sneep_n_bd .sneep_n_c { background:transparent url(../style/images/mr.gif) repeat-y right 0px;}
+
+/*
+.sneep_n_main + .sneep_dialog .sneep_ft-l { height:14px;}
+.sneep_n_main + .sneep_dialog .sneep_ft { background:transparent url(../style/images/bl.gif) no-repeat 0px 0px; }
+.sneep_n_main + .sneep_dialog .sneep_ft-l { background:transparent url(../style/images/br.gif) no-repeat right 0px; }
+
+.sneep_n_main + .sneep_dialog .sneep_hd { background:transparent url(../style/images/tl.gif) no-repeat 0px 0px;}
+.sneep_n_main + .sneep_dialog .sneep_hd .sneep_c { background:transparent url(../style/images/tr.gif) no-repeat right 0px;}
+.sneep_n_main + .sneep_dialog .sneep_bd { background:transparent url(../style/images/ml.gif) repeat-y 0px 0px;}
+.sneep_n_main + .sneep_dialog .sneep_bd .sneep_c { background:transparent url(../style/images/mr.gif) repeat-y right 0px;}
+*/
+.sneep_c_dialog .sneep_c_hd .sneep_c_c, .sneep_c_dialog .sneep_c_ft-l {
+ font-size:1px; /* ensure minimum height */
+ height:13px; 
+}
+.sneep_c_dialog .sneep_c_ft { 	background:transparent url(../style/images/bl_b.gif) no-repeat 0px 0px; }
+.sneep_c_dialog .sneep_c_ft-l { 	background:transparent url(../style/images/br_b.gif) no-repeat right 0px; }
+
+.sneep_c_dialog .sneep_c_hd { background:transparent url(../style/images/tl_b.gif) no-repeat 0px 0px;}
+.sneep_c_dialog .sneep_c_hd .sneep_c_c { 	background:transparent url(/eprints/sty../style/images/tr_b.gif) no-repeat right 0px;}
+.sneep_c_dialog .sneep_c_bd { background:transparent url(../style/images/ml_b.gif) repeat-y 0px 0px;}
+.sneep_c_dialog .sneep_c_bd .sneep_c_c { background:transparent url(../style/images/mr_b.gif) repeat-y right 0px;}
+

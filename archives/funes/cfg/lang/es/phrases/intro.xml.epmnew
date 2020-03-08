@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+    <!-- registration introduction. -->
+    <epp:phrase id="cgi/register:intro">
+<p>Usted necesita registrarse para poder colocar documentos en el repositorio. </p>
+
+<p>Como usuario registrado usted podr&aacute; manejar sus documentos, hasta el punto de someterlos a una Revisi&oacute;n Editorial. Si la revisi&oacute;n resulta satisfactoria su documento ser&aacute; colocado en el repositorio, de lo contrario le ser&aacute; devuelto con comentarios editoriales.</p>
+
+<p>Adem&aacute;s de manejar sus documentos, un usuario registrado puede configurar opciones de alerta, as&iacute; le ser&aacute;n enviadas notificaciones a trav&eacute;s de su correo electr&oacute;nico cuando nuevos documentos sean colocados en el repositorio.</p>
+
+<p>Por favor, complete los detalles en esta p&aacute;gina para registrarse con <epc:phrase ref="archive_name" />.</p>
+
+<p>El proceso para registarse emplea el correo electr&oacute;nico para enviarle los detalles de c&oacute;mo activar su cuenta. Usted debe chequear su correo electr&oacute;nico y activar su contrase&ntilde;a. Una vez activada usted puede comenzar a utilizar las funcionalidades permitidas a los usuarios registrados en el repositorio.</p>
+
+<p>Si ya est&aacute; registrado, pero ha olvidado su nombre de usuario o contrase&ntilde;a, <a href="reset_password">pulse aqu&iacute;</a> para suministrarle una contrase&ntilde;a nueva.</p>
+    </epp:phrase>
+
+
+
+
+</epp:phrases>

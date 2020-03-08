@@ -1,0 +1,24 @@
+
+
+
+
+
+<div class="ep_msg_warning"><div class="ep_msg_warning_content"><table><tbody><tr><td>
+<img alt="Warning" src="/style/images/warning.png" /></td><td>
+<p>No policies have been defined for this repository. </p>
+<p>You can use the <a href="http://www.opendoar.org/tools/en/policies.php">OpenDOAR Policies Tool</a> to produce a standard policy page. Use the button below to define your policies.</p>
+</td></tr></tbody></table></div></div>
+
+<form method="post" action="http://www.opendoar.org/tools/policytool.php">
+<textarea style="display: none" name="rName">Mi Acervo Digital EPrints</textarea>
+<input type="hidden" name="la" value="en" />
+<input type="hidden" name="rUrl" value="http://157.253.25.235/" />
+<input type="hidden" name="rOaiBaseUrl" value="http://157.253.25.235/cgi/oai2" />
+<input type="submit" value="Start defining policies" class="ep_form_action_button" />
+</form>
+
+<p>Add your policies to: <tt>/usr/share/eprints3/archives/funes/cfg/lang/en/static/policies.xpage</tt></p>
+
+
+
+

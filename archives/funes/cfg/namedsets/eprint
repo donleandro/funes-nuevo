@@ -1,0 +1,17 @@
+# types for eprint 
+
+article
+book_section
+edited_book
+book
+thesis
+actas_congresos
+conference_item
+monograph
+teaching_resource
+image
+video
+audio
+dataset
+experiment
+other

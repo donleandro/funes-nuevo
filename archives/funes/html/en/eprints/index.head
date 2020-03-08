@@ -1,0 +1,12 @@
+
+<style type="text/css">
+.technology dt {
+	font-weight: bold;
+}
+.technology dd {
+	display: inline;
+	margin: 0;
+}
+.technology dd:after { content: ","; }
+.technology dd.last:after { content: "."; }
+</style>

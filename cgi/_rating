@@ -1,0 +1,36 @@
+#!/usr/bin/perl
+
+use EPrints;
+use strict;
+use warnings;
+use CGI;
+
+my $q = CGI->new();
+my $error;
+my $url = "/rating/valoracion.php?";
+
+my $session = new EPrints::Session;
+exit( 0 ) unless( defined $session );
+
+
+my $path_info = $session->get_request->path_info;
+my $eprintid = substr $path_info, 1; 
+my $userid;
+my $vote_enabled=0;
+if( defined $session->current_user() ){
+	my $user = $session->current_user();
+	$userid = $user->get_id;
+}else{
+	$userid = -1;
+	$vote_enabled = 2;
+}
+
+$url .= "user_id=".$userid."&";
+$url .= "doc_id=".$eprintid."&";
+$url .= "vote_enabled=".$vote_enabled;
+print $q->redirect( -URL =>$url);
+#print $url;
+
+$session->terminate;
+exit;
+

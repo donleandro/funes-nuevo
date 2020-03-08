@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+    <!-- registration introduction. -->
+    <epp:phrase id="cgi/register:intro">
+<p>Usted necesita registrarse para poder depositar documentos en <epc:phrase ref="archive_name" />. </p>
+
+<p>Como usuario registrado, usted podr&aacute; depositar sus documentos para que sean sometidos a una revisi&oacute;n editorial. Esta revisi&oacute;n busca &uacute;nicamente verificar que los metadatos (informaci&oacute;n bibliogr&aacute;fica y t&eacute;rminos clave) del documento son apropiados y comprobar que el documento es legible, completo y coherente. La revisi&oacute;n editorial no verifica la calidad de los documentos en ning&uacute;n otro sentido. Si la revisi&oacute;n editorial resulta satisfactoria, su documento ser&aacute; colocado en el repositorio, de lo contrario le ser&aacute; devuelto con comentarios editoriales.</p>
+
+<p>Adem&aacute;s de depositar y gestionar sus documentos, un usuario registrado puede configurar opciones de alerta. Con esta funcionalidad, usted podr&aacute; recibir notificaciones a su direcci&oacute;n de correo electr&oacute;nico sobre nuevos registros que hayan sido publicados en <epc:phrase ref="archive_name" /> o sobre nuevos registros que satisfacen las b&uacute;squedas que usted ha guardado.</p>
+
+<p>Por favor, complete la informaci&oacute;n en esta p&aacute;gina para registrarse en <epc:phrase ref="archive_name" />.</p>
+
+<p>El proceso de registro emplea el correo electr&oacute;nico para enviarle los detalles de c&oacute;mo activar su cuenta. Usted debe verificar su correo electr&oacute;nico y activar su contrase&ntilde;a. Una vez activada, usted puede comenzar a utilizar las funcionalidades permitidas a los usuarios registrados en <epc:phrase ref="archive_name" />.</p>
+
+<p>Si ya est&aacute; registrado, pero ha olvidado su nombre de usuario o contrase&ntilde;a, <a href="reset_password">pulse aqu&iacute;</a> para suministrarle una contrase&ntilde;a nueva.</p>
+    </epp:phrase>
+
+
+
+
+</epp:phrases>

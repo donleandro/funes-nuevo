@@ -1,0 +1,16 @@
+***************
+*** 195,201 ****
+  use EPrints::DataObj::Subject;
+  use EPrints::DataObj::SavedSearch;
+  use EPrints::DataObj::User;
+- use EPrints::DataObj::SneepComment; #SNEEP Addition
+  use EPrints::DataSet;
+  use EPrints::Email;
+  use EPrints::Extras;
+--- 195,200 ----
+  use EPrints::DataObj::Subject;
+  use EPrints::DataObj::SavedSearch;
+  use EPrints::DataObj::User;
+  use EPrints::DataSet;
+  use EPrints::Email;
+  use EPrints::Extras;

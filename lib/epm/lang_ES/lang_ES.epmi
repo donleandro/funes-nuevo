@@ -1,0 +1,362 @@
+<?xml version='1.0' encoding='utf-8'?>
+<epm xmlns='http://eprints.org/ep2/data/2.0' id='http://157.253.25.235/id/epm/lang_ES'>
+  <epmid>lang_ES</epmid>
+  <eprintid>227</eprintid>
+  <uri>http://bazaar.eprints.org/id/epm/lang_ES</uri>
+  <documents>
+    <document id='http://157.253.25.235/id/document/1263'>
+      <docid>1263</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://157.253.25.235/id/file/4552'>
+          <fileid>4552</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/cfg.d/x_lang_es.pl</filename>
+          <mime_type>text/plain</mime_type>
+          <hash>988ce6ff7deafb5ad75dcc339b8f5c43</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>30</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4553'>
+          <fileid>4553</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/archive_name.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>7f192baca3bbc982cdb95d473cd3a3b7</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>298</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4554'>
+          <fileid>4554</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/deposit_agreement.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>9037cb9f2bacbcbed116ad6f647002f7</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1636</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4555'>
+          <fileid>4555</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/document_formats.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>72a6232343d11301df3f1a55c6a3eff8</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1518</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4556'>
+          <fileid>4556</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/document_security.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>a3607b2f26f2c4eeb30ea1f758cfba26</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>480</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4557'>
+          <fileid>4557</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/dynamic.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>cf9467e1bc2217951e33a383a00ac5de</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>601</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4558'>
+          <fileid>4558</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/eprint_fields.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>366bdd65c70d540866f90f3447aa3adc</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>18406</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4559'>
+          <fileid>4559</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/eprint_order.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>556c24d6a7c7d398e47eba3e078f9a70</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>957</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4560'>
+          <fileid>4560</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/eprint_types.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>17ed97db7559677366643ba51a189f98</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>4384</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4561'>
+          <fileid>4561</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/intro.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>230a91ecb34685eb1d3affcded23cbfe</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1661</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4562'>
+          <fileid>4562</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/intro_mini.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>d8b951bdde4e17b194951b80849d8cac</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1249</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4563'>
+          <fileid>4563</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/local.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>385834f88caf2e30a9b60ad29d19a439</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>825</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4564'>
+          <fileid>4564</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/mail_bounce_reason.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>9794e2c3b0521dacdb8ff90c6a6eb4f7</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>806</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4565'>
+          <fileid>4565</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/mail_delete_reason.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>fb30e1db92b3bf9a1ad73b0df9238bbf</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>860</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4566'>
+          <fileid>4566</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/mail_email.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>cf87b4c62e10578659533a129c285045</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>619</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4567'>
+          <fileid>4567</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/mail_password.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>19303bdf3c164b7c45a802a3d6c0be0b</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1568</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4568'>
+          <fileid>4568</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/mail_sig.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>f9212c7e02bc2b204550c5d844f5e28f</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>526</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4569'>
+          <fileid>4569</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/render.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>f3548d7eedb5dc36435401dbf5f44fca</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>2092</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4570'>
+          <fileid>4570</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/system.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>7467dff4b0b8c115ffaabd7518157b11</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>189729</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4571'>
+          <fileid>4571</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/user_fields.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>562a24313f1d41f3214ffafb4a3ef598</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>3774</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4572'>
+          <fileid>4572</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/user_order.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>61efd999c70866422bf26a6b10b219c4</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>616</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4573'>
+          <fileid>4573</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/validate.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>51bc875fe757364246fa715d769e130d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>1840</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4574'>
+          <fileid>4574</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/views.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>cdfbf653c2ddbe04269c9cc4a97d4033</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>541</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4575'>
+          <fileid>4575</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/warnings.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>b60608bee31313acefcedf197051a360</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>829</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4576'>
+          <fileid>4576</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>epm/lang_ES/cfg/lang/es/phrases/workflow.xml</filename>
+          <mime_type>application/xml</mime_type>
+          <hash>4c0d449a96cff195f1120fef713a5a33</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>837</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+        <file id='http://157.253.25.235/id/file/4577'>
+          <fileid>4577</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1263</objectid>
+          <filename>static/images/epm/lang_ES.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>f2580afd0c43e5f8127abcee55d2a92d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>122268</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+      </files>
+      <eprintid>227</eprintid>
+      <pos>1</pos>
+      <placement>1</placement>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/images/epm/lang_ES.png</main>
+      <content>install</content>
+    </document>
+    <document id='http://157.253.25.235/id/document/1264'>
+      <docid>1264</docid>
+      <rev_number>1</rev_number>
+      <files>
+        <file id='http://157.253.25.235/id/file/4578'>
+          <fileid>4578</fileid>
+          <datasetid>document</datasetid>
+          <objectid>1264</objectid>
+          <filename>static/images/epm/lang_ES.png</filename>
+          <mime_type>image/png</mime_type>
+          <hash>f2580afd0c43e5f8127abcee55d2a92d</hash>
+          <hash_type>MD5</hash_type>
+          <filesize>122268</filesize>
+          <mtime>2012-08-02 13:16:25</mtime>
+        </file>
+      </files>
+      <eprintid>227</eprintid>
+      <pos>2</pos>
+      <placement>2</placement>
+      <mime_type>image/png</mime_type>
+      <format>image</format>
+      <language>en</language>
+      <security>public</security>
+      <main>static/images/epm/lang_ES.png</main>
+      <content>coverimage</content>
+    </document>
+  </documents>
+  <version>1.0.0</version>
+  <creators>
+    <item>
+      <name>
+        <family>Wolf</family>
+        <given>Gunnar </given>
+      </name>
+    </item>
+    <item>
+      <name>
+        <family>Merlino</family>
+        <given>Cristian</given>
+      </name>
+    </item>
+    <item>
+      <name>
+        <family>McElroy</family>
+        <given>David</given>
+      </name>
+      <id>David.McElroy@Glasgow.ac.uk</id>
+    </item>
+  </creators>
+  <datestamp>2012-08-02 13:16:25</datestamp>
+  <title>Spanish Language Pack</title>
+  <description>The Spanish Language Pack for EPrints 3.3.8+</description>
+  <requirements>flag_pack</requirements>
+  <icon>images/epm/lang_ES.png</icon>
+</epm>

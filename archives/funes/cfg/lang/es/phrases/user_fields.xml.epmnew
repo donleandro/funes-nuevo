@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase" xmlns:epc="http://eprints.org/ep3/control">
+
+<!-- Section Names -->
+    <epp:phrase id="user_section_account">Detalles de la Cuenta</epp:phrase>
+	<epp:phrase id="user_section_personal">Detalles Personales</epp:phrase>
+
+<!-- User Field Names -->
+
+    <epp:phrase id="user_fieldname_name">Nombre</epp:phrase>
+    <epp:phrase id="user_fieldhelp_name"></epp:phrase>
+
+    <epp:phrase id="user_fieldname_os">Sistema Operativo</epp:phrase>
+    <epp:phrase id="user_fieldhelp_os"></epp:phrase>
+    <epp:phrase id="user_fieldopt_os_win">Windows/DOS</epp:phrase>
+    <epp:phrase id="user_fieldopt_os_unix">UNIX</epp:phrase>
+    <epp:phrase id="user_fieldopt_os_vms">VMS</epp:phrase>
+    <epp:phrase id="user_fieldopt_os_mac">Macintosh</epp:phrase>
+    <epp:phrase id="user_fieldopt_os_other">Otro</epp:phrase>
+
+    <epp:phrase id="user_fieldname_hideemail">Ocultar direcci&oacute;n de correo electr&oacute;nico</epp:phrase>
+    <epp:phrase id="user_fieldhelp_hideemail">Esta opci&oacute;n permite o previene que la direcci&oacute;n de correo electr&oacute;nico de los usuarios no sea mostrada en la p&aacute;gina del resumen p&uacute;blico.</epp:phrase>
+    <epp:phrase id="user_radio_hideemail"><label><epc:pin name="false"/> Hacer visible la direcci&oacute;n de correo electr&oacute;nico a todos.</label><br/><label><epc:pin name="true"/> Oculta direcci&oacute;n de correo electr&oacute;nico a todos menos a los administradores del repositorio.</label></epp:phrase>
+
+
+    <epp:phrase id="user_fieldname_dept">Departamento</epp:phrase>
+    <epp:phrase id="user_fieldhelp_dept"></epp:phrase>
+
+    <epp:phrase id="user_fieldname_org">Organizaci&oacute;n</epp:phrase>
+    <epp:phrase id="user_fieldhelp_org"></epp:phrase>
+
+    <epp:phrase id="user_fieldname_address">Direcci&oacute;n</epp:phrase>
+    <epp:phrase id="user_fieldhelp_address"></epp:phrase>
+
+    <epp:phrase id="user_fieldname_country">Pa&iacute;s</epp:phrase>
+    <epp:phrase id="user_fieldhelp_country"></epp:phrase>
+
+    <epp:phrase id="user_fieldname_url">URL de la p&aacute;gina</epp:phrase>
+    <epp:phrase id="user_fieldhelp_url"></epp:phrase>
+
+    <epp:phrase id="user_fieldname_expertise">Competencia</epp:phrase>
+    <epp:phrase id="user_fieldhelp_expertise">Por favor, liste palabras clave / frases que describan sus &aacute;reas de especializaci&oacute;n utilizando los t&eacute;rminos que con mayor probabilidad vaya a utilizar alguien que busque trabajos sobre esas &aacute;reas. Evite t&eacute;rminos generalistas (`qu&iacute;mica') y demasiado concretos (`mi teor&iacute;a no cu&aacute;ntica de las reacciones qu&iacute;micas') por los que sea poco probable que alguien vaya a buscar. Introduzca tantas palabras clave / frases como desee.</epp:phrase>
+
+    <epp:phrase id="user_section_prefs">Preferencias de Usuario</epp:phrase>
+
+    <epp:phrase id="user_fieldname_items_fields">Campos de los Documentos</epp:phrase>
+    <epp:phrase id="user_fieldhelp_items_fields">Los campos mostrados para cada documento en la p&aacute;gina de Documentos.</epp:phrase>
+
+    <epp:phrase id="user_fieldname_review_fields">Campos de Revis&oacute;n Editorial</epp:phrase>
+    <epp:phrase id="user_fieldhelp_review_fields">Los campos mostrados por cada documento en la p&aacute;gina de Revis&oacute;n Editorial.</epp:phrase>
+
+    <epp:phrase id="user_typename_minuser">Usuario M&iacute;nimo</epp:phrase>
+    <epp:phrase id="user_typename_user">Usuario</epp:phrase>
+    <epp:phrase id="user_typename_editor">Editor</epp:phrase>
+    <epp:phrase id="user_typename_admin">Administrador del Repositorio</epp:phrase>
+
+
+</epp:phrases>
+

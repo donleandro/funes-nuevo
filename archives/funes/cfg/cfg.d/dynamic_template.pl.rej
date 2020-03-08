@@ -1,0 +1,23 @@
+***************
+*** 39,53 ****
+  		$parts->{login_status} = $session->html_phrase( 
+  			"dynamic:not_logged_in" );
+  	}
+- 	if(defined $session->{request}){
+- 		$_ = $session->{request}->uri;
+- 		#eek assumes that any uri that ends with a number is an eprint abstract...
+- 		if(/^.*\/(\d+)\/$/){
+- 			$session->get_repository->{config}->{onload} = "sneep_comment_init(); sneep_note_init(); sneep_tag_init();";
+- 		}else{
+- 			$session->get_repository->{config}->{onload} = "";
+- 		}
+- 	}
+- 
+  };
+  
+--- 39,43 ----
+  		$parts->{login_status} = $session->html_phrase( 
+  			"dynamic:not_logged_in" );
+  	}
+  };
+  

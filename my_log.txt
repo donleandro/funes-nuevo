@@ -1,0 +1,17 @@
+archives
+AUTHORS
+bin
+cfg
+cgi
+CHANGELOG
+COPYING
+funes_perl_lib.tgz
+lib
+NEWS
+perl_lib
+README
+SIGNATURES
+testdata
+var
+VERSION
+vistasfunes.txt

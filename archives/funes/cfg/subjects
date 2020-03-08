@@ -1,0 +1,421 @@
+divisions:Nivel Educativo:ROOT:0
+1.1:Educaci\'on Infantil (0-6:a\~nos):divisions:1
+1.2:Educaci\'on Primaria (7-12:a\~nos):divisions:1
+1.3:Educaci\'on Secundaria y Bachillerato (13-18:a\~nos):divisions:1
+1.4:Formaci\'on Profesional:divisions:1
+1.5:T\'itulo de grado universitario:divisions:1
+1.6:Estudios de postgrado:divisions:1
+
+
+enfoque:Enfoque:ROOT:0
+2.1:Actividad:enfoque:1
+2.2:Innovaci\'on:enfoque:1
+2.3:Investigaci\'on:enfoque:1
+2.4:_Otro (enfoque):enfoque:1
+
+
+subjects:Funes:ROOT:0
+3.1:Sistema educativo:subjects:1
+3.1.1:Legislaci\'on educativa:3.1:1
+3.1.2:Pol\'itica educativa:3.1:1
+3.1.3:Documentos curriculares:3.1:1
+3.1.4:Acceso a diferentes niveles educativos:3.1:1
+3.1.5:_Otro (sistema educativo):3.1:1
+3.2:Centro educativo:subjects:1
+3.2.1:Gesti\'on y organizaci\'on del centro:3.2:1
+3.2.1.1:Proyecto educativo de centro:3.2.1:1
+3.2.1.2:Departamentos de Matem\'aticas:3.2.1:1
+3.2.1.3:Otros departamentos:3.2.1:1
+3.2.1.4:_Otro (gesti\'on y organizaci\'on del centro):3.2.1:1
+3.2.2:Relaciones del centro:3.2:1
+3.2.2.1:Padres de familia:3.2.2:1
+3.2.2.2:Administraciones p\'ublicas:3.2.2:1
+3.2.2.3:Otros organismos:3.2.2:1
+3.2.2.4:Otros centros educativos:3.2.2:1
+3.2.2.5:_Otro (relaciones del centro):3.2.2:1
+3.2.3:Tipos de centros:3.2:1
+3.2.3.1:P\'ublico:3.2.3:1
+3.2.3.2:Privado:3.2.3:1
+3.2.3.3:Concertado:3.2.3:1
+3.2.3.4:_Otro (tipos de centro):3.2.3:1
+3.2.4:Recursos:3.2:1
+3.2.4.1:Financieros:3.2.4:1
+3.2.4.2:Infraestructura:3.2.4:1
+3.2.4.3:Personal:3.2.4:1
+3.2.4.3.1:Equipos docentes:3.2.4.3:1
+3.2.4.3.2:Equipos directivos:3.2.4.3:1
+3.2.4.3.3:Personal no docente:3.2.4.3:1
+3.2.4.3.4:_Otro (personal):3.2.4.3:1
+3.2.4.4:Disponibilidad de materiales y recursos did\'acticos:3.2.4:1
+3.2.4.5:_Otro (recursos):3.2.4:1
+3.2.5:_Otro (centro educativo):3.2:1
+3.3:Aula:subjects:1
+3.3.1:Gesti\'on del aula:3.3:1
+3.3.1.1:Normas socio-culturales:3.3.1:1
+3.3.1.2:Gesti\'on del comportamiento de los alumnos:3.3.1:1
+3.3.1.3:El discurso:3.3.1:1
+3.3.1.4:_Otro (gesti\'on del aula):3.3.1:1
+3.3.2:Relaciones interpersonales:3.3:1
+3.3.2.1:Profesor-estudiantes:3.3.2:1
+3.3.2.2:Entre estudiantes:3.3.2:1
+3.3.2.3:_Otro (relaciones interpersonales):3.3.2:1
+3.3.3:Recursos did\'acticos:3.3:1
+3.3.3.1:Libros de texto:3.3.3:1
+3.3.3.2:Medios audiovisuales:3.3.3:1
+3.3.3.3:Recursos inform\'aticos:3.3.3:1
+3.3.3.3.1:Calculadoras:3.3.3.3:1
+3.3.3.3.1.1:Calculadoras num\'ericas:3.3.3.3.1:1
+3.3.3.3.1.2:Calculadoras algebraicas:3.3.3.3.1:1
+3.3.3.3.1.3:Calculadoras gr\'aficas:3.3.3.3.1:1
+3.3.3.3.1.4:_Otro (calculadoras):3.3.3.3.1:1
+3.3.3.3.2:Computadores:3.3.3.3:1
+3.3.3.3.3:Software:3.3.3.3:1
+3.3.3.3.3.1:Cabri:3.3.3.3.3:1
+3.3.3.3.3.2:Derive:3.3.3.3.3:1
+3.3.3.3.3.3:Mathematica:3.3.3.3.3:1
+3.3.3.3.3.4:_Otro (software):3.3.3.3.3:1
+3.3.3.3.4:Internet:3.3.3.3:1
+3.3.3.3.5:_Otro (recursos inform\'aticos):3.3.3.3:1
+3.3.3.4:Materiales manipulativos:3.3.3:1
+3.3.3.5:_Otro (recursos did\'acticos):3.3.3:1
+3.3.4:_Otro (aula):3.3:1
+3.4:Profesor:subjects:1
+3.4.1:Agrupaciones/asociaciones/federaciones:3.4:1
+3.4.2:Salidas profesionales:3.4:1
+3.4.3:Certificaci\'on:3.4:1
+3.4.4:Estatus:3.4:1
+3.4.5:Formaci\'on de profesores:3.4:1
+3.4.5.1:Inicial:3.4.5:1
+3.4.5.2:Continua/Permanente:3.4.5:1
+3.4.5.3:_Otro (formaci\'on de profesores):3.4.5:1
+3.4.6:El papel del profesor:3.4:1
+3.4.7:Desarollo del profesor:3.4:1
+3.4.8:Relaciones entre profesores:3.4:1
+3.4.9:_Otro (profesor):3.4:1
+3.5:Alumno:subjects:1
+3.5.1:Diversidad:3.5:1
+3.5.1.1:G\'enero:3.5.1:1
+3.5.1.2:Origen \'etnico/raza:3.5.1:1
+3.5.1.3:Cultura/religi\'on:3.5.1:1
+3.5.1.4:Urbano/rural:3.5.1:1
+3.5.1.5:Lengua materna:3.5.1:1
+3.5.1.6:Aspectos socioecon\'omicos:3.5.1:1
+3.5.1.7:_Otro (diversidad):3.5.1:1
+3.5.2:Necesidades especiales:3.5:1
+3.5.2.1:Alumnos con talento matem\'atico:3.5.2:1
+3.5.2.2:Alumnos con dificultades de aprendizaje:3.5.2:1
+3.5.2.3:Alumnos discapacitados:3.5.2:1
+3.5.2.4:_Otro (necesidades especiales):3.5.2:1
+3.5.3:_Otro (alumno):3.5:1
+3.6:Aprendizaje:subjects:1
+3.6.1:Aspectos afectivos:3.6:1
+3.6.1.1:Creencia:3.6.1:1
+3.6.1.2:Actitud:3.6.1:1
+3.6.1.3:Ansiedad:3.6.1:1
+3.6.1.4:Motivaci\'on:3.6.1:1
+3.6.1.5:_Otro (aspectos afectivos):3.6.1:1
+3.6.2:Cognici\'on:3.6:1
+3.6.2.1:Dificultades:3.6.2:1
+3.6.2.2:Errores:3.6.2:1
+3.6.2.3:Rendimiento:3.6.2:1
+3.6.2.4:Conocimiento:3.6.2:1
+3.6.2.5:_Otro (cognici\'on):3.6.2:1
+3.6.3:Procesos cognitivos:3.6:1
+3.6.3.1:Desarrollo del pensamiento matem\'atico:3.6.3:1
+3.6.3.2:C\'alculo mental:3.6.3:1
+3.6.3.3:Razonamiento:3.6.3:1
+3.6.3.3.1:Deductivo:3.6.3.3:1
+3.6.3.3.2:Inductivo:3.6.3.3:1
+3.6.3.3.3:_Otro (razonamiento):3.6.3.3:1
+3.6.3.4:Comprensi\'on:3.6.3:1
+3.6.3.5:Procesos de justificaci\'on:3.6.3:1
+3.6.3.6:Abstracci\'on:3.6.3:1
+3.6.3.7:Generalizaci\'on:3.6.3:1
+3.6.3.8:Aplicaci\'on:3.6.3:1
+3.6.3.9:Modelizaci\'on:3.6.3:1
+3.6.3.10:_Otro (procesos cognitivos):3.6.3:1
+3.6.4:_Otro (aprendizaje):3.6:1
+3.7:Ense\~nanza:subjects:1
+3.7.1:Tipos de ense\~nanza:3.7:1
+3.7.1.1:Reglada:3.7.1:1
+3.7.1.2:No reglada:3.7.1:1
+3.7.1.3:Presencial:3.7.1:1
+3.7.1.4:Personalizada:3.7.1:1
+3.7.1.5:Semipresencial:3.7.1:1
+3.7.1.6:A distancia:3.7.1:1
+3.7.1.7:e-learning:3.7.1:1
+3.7.1.8:_Otro (tipos de ense\~nanza):3.7.1:1
+3.7.2:Planificaci\'on del profesor:3.7:1
+3.7.2.1:Contenidos:3.7.2:1
+3.7.2.2:Expectativas de aprendizaje:3.7.2:1
+3.7.2.2.1:Objetivos:3.7.2.2:1
+3.7.2.2.2:Competencias:3.7.2.2:1
+3.7.2.2.3:Capacidades:3.7.2.2:1
+3.7.2.2.4:_Otro (expectativas de aprendizaje):3.7.2.2:1
+3.7.2.3:Metodolog\'ia de ense\~nanza:3.7.2:1
+3.7.2.3.1:Estudio de la ense\~nanza:3.7.2.3:1
+3.7.2.3.1.1:An\'alisis de la ense\~nanza:3.7.2.3.1:1
+3.7.2.3.1.2:Observaci\'on de la ense\~nanza:3.7.2.3.1:1
+3.7.2.3.1.3:Reflexi\'on sobre la ense\~nanza:3.7.2.3.1:1
+3.7.2.3.1.4:_Otro (estudio de la ense\~nanza):3.7.2.3.1:1
+3.7.2.3.2:Preparaci\'on de clases:3.7.2.3:1
+3.7.2.3.3:Tutorizaci\'on:3.7.2.3:1
+3.7.2.3.4:Metodolog\'ia de trabajo en el aula:3.7.2.3:1
+3.7.2.3.5:Diagn\'ostico:3.7.2.3:1
+3.7.2.3.6:Trabajo de los estudiantes fuera del aula:3.7.2.3:1
+3.7.2.3.7:_Otro (metodolog\'ia de ense\~nanza):3.7.2.3:1
+3.7.2.4:Evaluaci\'on:3.7.2:1
+3.7.2.4.1:Formativa:3.7.2.4:1
+3.7.2.4.2:Sumativa:3.7.2.4:1
+3.7.2.4.3:_Otra (evaluaci\'on):3.7.2.4:1
+3.7.2.5:_Otro (planificaci\'on del profesor):3.7.2:1
+3.7.3:_Otro (ense\~nanza):3.7:1
+3.8:Curr\'iculo:subjects:1
+3.8.1:Noci\'on de curr\'iculo:3.8:1
+3.8.2:Dise\~no:3.8:1
+3.8.3:Desarrollo:3.8:1
+3.8.4:Evaluaci\'on:3.8:1
+3.8.5:_Otro (curr\'iculo):3.8:1
+3.9:Otras nociones de educaci\'on matem\'atica:subjects:1
+3.9.1:Evoluci\'on hist\'orica de conceptos:3.9:1
+3.9.2:Fines:3.9:1
+3.9.2.1:Culturales:3.9.2:1
+3.9.2.2:Formativos:3.9.2:1
+3.9.2.3:Pol\'iticos:3.9.2:1
+3.9.2.4:Sociales:3.9.2:1
+3.9.2.5:_Otro (fines):3.9.2:1
+3.9.3:Enfoques de las matem\'aticas escolares:3.9:1
+3.9.3.1:Instrumental:3.9.3:1
+3.9.3.2:Conceptual-te\'orico:3.9.3:1
+3.9.3.3:Funcional:3.9.3:1
+3.9.3.4:Integrado:3.9.3:1
+3.9.3.5:_Otro (enfoques de las matem\'aticas escolares):3.9.3:1
+3.9.4:Fenomenolog\'ia did\'actica:3.9:1
+3.9.4.1:Situaciones:3.9.4:1
+3.9.4.2:Contextos:3.9.4:1
+3.9.4.3:_Otro (fenomenolog\'ia did\'actica):3.9.4:1
+3.9.5:Resoluci\'on de problemas:3.9:1
+3.9.5.1:Planteamiento de problemas:3.9.5:1
+3.9.5.2:Soluci\'on de problemas:3.9.5:1
+3.9.5.3:Enunciados:3.9.5:1
+3.9.5.4:Proceso de resoluci\'on:3.9.5:1
+3.9.5.5:Tipos de problemas:3.9.5:1
+3.9.5.6:Estrategias:3.9.5:1
+3.9.5.7:_Otro (resoluci\'on de problemas):3.9.5:1
+3.9.6:Sistemas de representaci\'on:3.9:1
+3.9.6.1:Num\'erico:3.9.6:1
+3.9.6.2:Gr\'afico:3.9.6:1
+3.9.6.3:Algebraico:3.9.6:1
+3.9.6.4:Verbal:3.9.6:1
+3.9.6.5:Gestual:3.9.6:1
+3.9.6.6:_Otro (sistemas de representaci\'on):3.9.6:1
+3.9.7:_Otro (otras nociones de educaci\'on matem\'atica):3.9:1
+3.10:Educaci\'on Matem\'atica y otras disciplinas:subjects:1
+3.10.1:Fundamentos de la Educaci\'on Matem\'atica:3.10:1
+3.10.1.1:Epistemolog\'ia:3.10.1:1
+3.10.1.2:Pedagog\'ia:3.10.1:1
+3.10.1.3:Sociolog\'ia:3.10.1:1
+3.10.1.4:Psicolog\'ia:3.10.1:1
+3.10.1.5:_Otro (fundamentos de la Educaci\'on Matem\'atica):3.10.1:1
+3.10.2:Relaci\'on de la Educaci\'on Matem\'atica con otras \'areas:3.10:1
+3.10.2.1:Ciencias Sociales:3.10.2:1
+3.10.2.2:Ciencias de la Salud:3.10.2:1
+3.10.2.3:Ciencias Naturales:3.10.2:1
+3.10.2.4:Matem\'aticas:3.10.2:1
+3.10.2.5:Ense\~nanzas T\'ecnicas:3.10.2:1
+3.10.2.6:_Otra (relaci\'on de la Educaci\'on Matem\'atica con otras \'areas):3.10.2:1
+3.10.3:Historia de la Educaci\'on Matem\'atica:3.10:1
+3.10.4:_Otro (Educaci\'on Matem\'atica y otras disciplinas):3.10:1
+3.11:Investigaci\'on e innovaci\'on en Educaci\'on Matem\'atica:subjects:1
+3.11.1:Fuentes de informaci\'on:3.11:1
+3.11.1.1:Entrevistas:3.11.1:1
+3.11.1.2:Encuestas:3.11.1:1
+3.11.1.3:Grabaciones:3.11.1:1
+3.11.1.4:Pruebas:3.11.1:1
+3.11.1.5:_Otra (fuentes de informaci\'on):3.11.1:1
+3.11.2:Metodolog\'ias:3.11:1
+3.11.2.1:Modelos causales:3.11.2:1
+3.11.2.2:M\'etodos estad\'isticos:3.11.2:1
+3.11.2.3:Meta-an\'alisis:3.11.2:1
+3.11.2.4:M\'etodos observacionales:3.11.2:1
+3.11.2.5:An\'alisis del discurso:3.11.2:1
+3.11.2.6:_Otro (metodolog\'ias):3.11.2:1
+3.11.3:Tipos de estudio:3.11:1
+3.11.3.1:Estudio de casos:3.11.3:1
+3.11.3.2:Investigaci\'on de dise\~no:3.11.3:1
+3.11.3.3:Investigaci\'on-acci\'on:3.11.3:1
+3.11.3.4:Experimento de ense\~nanza:3.11.3:1
+3.11.3.5:Estudio cuasi-experimentales:3.11.3:1
+3.11.3.6:Estudio longitudinales:3.11.3:1
+3.11.3.7:Estudio transversales:3.11.3:1
+3.11.3.8:Estudio a gran escala:3.11.3:1
+3.11.3.9:_Otro (tipos de estudio):3.11.3:1
+3.11.4:Paradigmas de investigaci\'on:3.11:1
+3.11.4.1:Emp\'irico-anal\'itico:3.11.4:1
+3.11.4.2:Interpretativo:3.11.4:1
+3.11.4.3:Cr\'itico:3.11.4:1
+3.11.4.4:_Otro (enfoques):3.11.4:1
+3.11.5:Marcos te\'or\'icos:3.11:1
+3.11.5.1:Teor\'ias de aprendizaje:3.11.5:1
+3.11.5.1.1:Neuro fisiol\'ogicas:3.11.5.1:1
+3.11.5.1.2:Conductismo:3.11.5.1:1
+3.11.5.1.3:Constructivismo simple:3.11.5.1:1
+3.11.5.1.4:Constructivismo (Piaget):3.11.5.1:1
+3.11.5.1.5:Constructivismo (radical):3.11.5.1:1
+3.11.5.1.6:Constructivismo social (Vygotsky):3.11.5.1:1
+3.11.5.1.7:Constructivismo social (Actividad):3.11.5.1:1
+3.11.5.1.8:Normas socio matem\'aticas:3.11.5.1:1
+3.11.5.1.9:Situado sociocultural:3.11.5.1:1
+3.11.5.1.10:Teor\'ia social del aprendizaje:3.11.5.1:1
+3.11.5.1.11:_Otro (teor\'ias de aprendizaje):3.11.5.1:1
+3.11.5.2:Etnomatem\'atica:3.11.5:1
+3.11.5.3:Teor\'ias sociol\'ogicas:3.11.5:1
+3.11.5.3.1:Sociolog\'ia de la educaci\'on:3.11.5.3:1
+3.11.5.3.2:Postestructuralismo:3.11.5.3:1
+3.11.5.3.3:Hermen\'eutica:3.11.5.3:1
+3.11.5.3.4:Teor\'ia cr\'itica:3.11.5.3:1
+3.11.5.3.5:_Otro (teor\'ias sociol\'ogicas):3.11.5.3:1
+3.11.5.4:Teor\'ias del discurso:3.11.5:1
+3.11.5.4.1:Perspectivas psicoanal\'iticas:3.11.5.4:1
+3.11.5.4.2:Ling\:u\'istica social:3.11.5.4:1
+3.11.5.4.3:Semi\'otica:3.11.5.4:1
+3.11.5.4.4:_Otro (teor\'ias del discurso):3.11.5.4:1
+3.11.5.5:_Otro (marcos te\'oricos):3.11.5:1
+3.11.6:_Otro (investigaci\'on e innovaci\'on en Educaci\'on Matem\'atica):3.11:1
+3.11.7:Tipo de investigaci\'on:3.11:1
+3.11.7.1:Te\'orica:3.11.7:1
+3.11.7.2:Experimental:3.11.7:1
+3.11.7.3:_Otro (tipo de investigaci\'on):3.11.7:1
+3.12:Matem\'aticas escolares:subjects:1
+3.12.1:N\'umeros:3.12:1
+3.12.1.1:Sistemas de numeraci\'on:3.12.1:1
+3.12.1.2:Conceptos prenum\'ericos:3.12.1:1
+3.12.1.3:Estructuras num\'ericas:3.12.1:1
+3.12.1.3.1:N\'umeros naturales:3.12.1.3:1
+3.12.1.3.2:N\'umeros enteros:3.12.1.3:1
+3.12.1.3.3:N\'umeros racionales:3.12.1.3:1
+3.12.1.3.3.1:Fracciones:3.12.1.3.3:1
+3.12.1.3.3.2:Porcentajes:3.12.1.3.3:1
+3.12.1.3.3.3:N\'umeros decimales:3.12.1.3.3:1
+3.12.1.3.3.4:_Otro (n\'umeros racionales):3.12.1.3.3:1
+3.12.1.3.4:N\'umeros reales:3.12.1.3:1
+3.12.1.3.5:N\'umeros irracionales:3.12.1.3:1
+3.12.1.3.6:N\'umeros complejos:3.12.1.3:1
+3.12.1.3.7:_Otro (estructuras num\'ericas):3.12.1.3:1
+3.12.1.4:Conjuntos num\'ericos:3.12.1:1
+3.12.1.4.1:Ternas pitag\'oricas:3.12.1.4:1
+3.12.1.4.2:N\'umeros primos:3.12.1.4:1
+3.12.1.4.3:_Otro (conjuntos num\'ericos):3.12.1.4:1
+3.12.1.5:Operaciones aritm\'eticas:3.12.1:1
+3.12.1.5.1:Suma:3.12.1.5:1
+3.12.1.5.2:Resta:3.12.1.5:1
+3.12.1.5.3:Multiplicaci\'on:3.12.1.5:1
+3.12.1.5.4:Divisi\'on:3.12.1.5:1
+3.12.1.6:Relaciones num\'ericas:3.12.1:1
+3.12.1.6.1:Divisibilidad:3.12.1.6:1
+3.12.1.6.2:Raz\'on y proporcionalidad:3.12.1.6:1
+3.12.1.6.3:Patrones num\'ericos:3.12.1.6:1
+3.12.1.6.4:Orden:3.12.1.6:1
+3.12.1.6.5:_Otro (relaciones num\'ericas):3.12.1.6:1
+3.12.1.7:Estimaci\'on:3.12.1:1
+3.12.1.8:_Otro (n\'umeros):3.12.1:1
+3.12.2:Medida:3.12:1
+3.12.2.1:Propiedades de las medidas de las magnitudes:3.12.2:1
+3.12.2.2:Unidades de medida:3.12.2:1
+3.12.2.3:Magnitudes:3.12.2:1
+3.12.2.3.1:Tiempo:3.12.2.3:1
+3.12.2.3.2:\'area:3.12.2.3:1
+3.12.2.3.3:Longitud:3.12.2.3:1
+3.12.2.3.4:Volumen:3.12.2.3:1
+3.12.2.3.5:Peso/masa:3.12.2.3:1
+3.12.2.3.6:Amplitud:3.12.2.3:1
+3.12.2.3.7:_Otro (magnitudes):3.12.2.3:1
+3.12.2.4:Instrumentos de medida:3.12.2:1
+3.12.2.5:C\'alculo de medidas:3.12.2:1
+3.12.2.6:Estimaci\'on de medidas:3.12.2:1
+3.12.2.7:_Otro (medida):3.12.2:1
+3.12.3:Geometr\'ia:3.12:1
+3.12.3.1:Topolog\'ia b\'asica:3.12.3:1
+3.12.3.2:Coordenadas geom\'etricas:3.12.3:1
+3.12.3.3:Geometr\'ia eucl\'idea:3.12.3:1
+3.12.3.4:Geometr\'ia anal\'itica:3.12.3:1
+3.12.3.5:Formas geom\'etricas:3.12.3:1
+3.12.3.6:Teoremas:3.12.3:1
+3.12.3.7:Transformaciones geom\'etricas:3.12.3:1
+3.12.3.8:Relaciones geom\'etricas:3.12.3:1
+3.12.3.9:Construcciones con regla y comp\'as:3.12.3:1
+3.12.3.10:Geometr\'ia en tres dimensiones:3.12.3:1
+3.12.3.11:Trigonometr\'ia:3.12.3:1
+3.12.3.12:Geometr\'ia vectorial:3.12.3:1
+3.12.3.13:_Otro (geometr\'ia):3.12.3:1
+3.12.4:\'algebra:3.12:1
+3.12.4.1:Relaciones:3.12.4:1
+3.12.4.2:Polinomios:3.12.4:1
+3.12.4.3:Funciones:3.12.4:1
+3.12.4.3.1:Operaciones con funciones:3.12.4.3:1
+3.12.4.3.2:Funciones polin\'omicas:3.12.4.3:1
+3.12.4.3.2.1:Lineales:3.12.4.3.2:1
+3.12.4.3.2.2:Cuadr\'aticas:3.12.4.3.2:1
+3.12.4.3.2.3:_Otra (funciones polin\'omicas):3.12.4.3.2:1
+3.12.4.3.3:Trigonom\'etricas:3.12.4.3:1
+3.12.4.3.4:Racionales:3.12.4.3:1
+3.12.4.3.5:Exponenciales:3.12.4.3:1
+3.12.4.3.6:Logar\'itmicas:3.12.4.3:1
+3.12.4.3.7:_Otro (funciones):3.12.4.3:1
+3.12.4.4:Ecuaciones:3.12.4:1
+3.12.4.4.1:Lineales:3.12.4.4:1
+3.12.4.4.2:Cuadr\'aticas:3.12.4.4:1
+3.12.4.4.3:_Otra (ecuaciones):3.12.4.4:1
+3.12.4.5:Sistemas de ecuaciones:3.12.4:1
+3.12.4.6:_Otro (\'algebra):3.12.4:1
+3.12.5:Estad\'istica:3.12:1
+3.12.5.1:Representaci\'on de datos:3.12.5:1
+3.12.5.2:An\'alisis de datos:3.12.5:1
+3.12.5.3:Inferencia:3.12.5:1
+3.12.5.4:Medidas de tendencia central:3.12.5:1
+3.12.5.5:Medidas de dispersi\'on:3.12.5:1
+3.12.5.6:Correlaci\'on:3.12.5:1
+3.12.5.7:Regresi\'on:3.12.5:1
+3.12.5.8:Distribuciones de variables:3.12.5:1
+3.12.5.9:Intervalo de confianza:3.12.5:1
+3.12.5.10:Muestreo:3.12.5:1
+3.12.5.11:_Otro (estad\'istica):3.12.5:1
+3.12.6:Probabilidad:3.12:1
+3.12.6.1:Combinatoria:3.12.6:1
+3.12.6.2:Experimento aleatorio:3.12.6:1
+3.12.6.3:Incertidumbre y probabilidad:3.12.6:1
+3.12.6.4:C\'alculo de probabilidades:3.12.6:1
+3.12.6.5:Teoremas:3.12.6:1
+3.12.6.6:Probabilidad condicional:3.12.6:1
+3.12.6.7:Dependencia de sucesos:3.12.6:1
+3.12.6.8:_Otro (probabilidad):3.12.6:1
+3.12.7:C\'alculo:3.12:1
+3.12.7.1:Procesos infinitos:3.12.7:1
+3.12.7.1.1:Sucesiones:3.12.7.1:1
+3.12.7.1.2:Series:3.12.7.1:1
+3.12.7.1.3:_Otro (procesos infinitos):3.12.7.1:1
+3.12.7.2:Derivaci\'on:3.12.7:1
+3.12.7.3:Integraci\'on:3.12.7:1
+3.12.7.4:L\'imites:3.12.7:1
+3.12.7.5:_Otro (c\'alculo):3.12.7:1
+3.12.8:_Otros temas de matem\'aticas escolares:3.12:1
+3.12.8.1:Teor\'ia de conjuntos:3.12.8:1
+3.12.8.2:L\'ogica:3.12.8:1
+3.12.8.3:_Otro (otros temas de matem\'aticas escolares):3.12.8:1
+3.13:Matem\'aticas superiores:subjects:1
+3.13.1:Geometr\'ia:3.13:1
+3.13.2:Topolog\'ia:3.13:1
+3.13.3:\'algebra:3.13:1
+3.13.4:Teor\'ia de n\'umeros:3.13:1
+3.13.5:C\'alculo:3.13:1
+3.13.6:An\'alisis:3.13:1
+3.13.7:Teor\'ia de la medida:3.13:1
+3.13.8:Ecuaciones diferenciales:3.13:1
+3.13.9:Matem\'atica discreta:3.13:1
+3.13.10:Teor\'ia de grafos:3.13:1
+3.13.11:Combinatoria:3.13:1
+3.13.12:Probabilidad:3.13:1
+3.13.13:Teor\'ia de conjuntos:3.13:1
+3.13.14:Estad\'istica:3.13:1
+3.13.15:L\'ogica matem\'atica:3.13:1
+3.13.16:_Otros temas de matem\'aticas superiores:3.13:1

@@ -1,0 +1,44 @@
+
+
+<div class="ep_msg_message"><div class="ep_msg_message_content"><table><tbody><tr><td>
+<img alt="Message" src="/style/images/message.png" /></td><td>
+Welcome to Mi Acervo Digital EPrints. <a href="http://www.eprints.org/d/?keyword=NewRepository&amp;version=" target="_blank">Click here to start customising this repository</a>.
+</td></tr></tbody></table></div></div>
+
+<div style="text-align: right">
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=Atom"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=Atom">Atom</a></span>
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=RSS"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=RSS">RSS 1.0</a></span>
+<span class="ep_search_feed"><a href="/cgi/latest_tool?output=RSS2"><img alt="[feed]" src="/style/images/feed-icon-14x14.png" border="0" /></a> <a href="/cgi/latest_tool?output=RSS2">RSS 2.0</a></span>
+</div>
+
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+  <a href="http://157.253.25.235/cgi/latest">Latest Additions</a><br /><br />
+  View items added to the repository in the past week.  
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="http://157.253.25.235/cgi/search/advanced">Search Repository</a><br /><br />
+ Search the repository using a full range of fields. Use the search field at the top of the page for a quick search.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="http://157.253.25.235/view/subjects/">Browse Repository</a><br /><br />
+ Browse the items in the repository by subject.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="http://157.253.25.235/information.html">About this Repository</a><br /><br />
+ More information about this site.
+</div></div>
+
+<div class="ep_toolbox"><div class="ep_toolbox_content">
+ <a href="http://157.253.25.235/policies.html">Repository Policies</a><br /><br />
+ Policy for use of material in this repository.
+</div></div>
+
+<p style="margin-top: 2em; font-size: 90%">
+Mi Acervo Digital EPrints supports <a href="http://www.openarchives.org"><abbr title="Open Archives Protocol for Metadata Harvesting v2.0">OAI 2.0</abbr></a> with a base URL of <tt>http://157.253.25.235/cgi/oai2</tt>
+</p>
+
+

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<metafields xmlns="http://eprints.org/ep2/data/2.0">
+  <metafield id="http://funespedro.uniandes.edu.co/id/metafield/eprint.enfoque" xmlns="http://eprints.org/ep2/data/2.0">
+    <metafieldid>eprint.enfoque</metafieldid>
+    <mfdatestamp>2009-08-30 16:11:06</mfdatestamp>
+    <mfstatus>archive</mfstatus>
+    <mfdatasetid>eprint</mfdatasetid>
+    <phrase_name>
+      <item>
+        <text>Enfoque</text>
+        <lang>es</lang>
+      </item>
+    </phrase_name>
+    <phrase_help>
+      <item>
+        <text>Por favor ingrese el enfoque del documento.</text>
+        <lang>es</lang>
+      </item>
+    </phrase_help>
+    <name>enfoque</name>
+    <type>subject</type>
+    <providence>user</providence>
+    <required>TRUE</required>
+    <allow_null>FALSE</allow_null>
+    <top>enfoque</top>
+  </metafield>
+  <metafield id="http://funespedro.uniandes.edu.co/id/metafield/eprint.valoration" xmlns="http://eprints.org/ep2/data/2.0">
+    <metafieldid>eprint.valoration</metafieldid>
+    <mfdatestamp>2010-12-03 15:33:45</mfdatestamp>
+    <mfstatus>archive</mfstatus>
+    <mfdatasetid>eprint</mfdatasetid>
+    <phrase_name>
+      <item>
+        <text>Valoración</text>
+        <lang></lang>
+      </item>
+    </phrase_name>
+    <phrase_help>
+      <item>
+        <text>Ayuda valoración</text>
+        <lang></lang>
+      </item>
+    </phrase_help>
+    <name>valoration</name>
+    <type>text</type>
+    <providence>user</providence>
+    <required>TRUE</required>
+    <allow_null>FALSE</allow_null>
+  </metafield>
+</metafields>

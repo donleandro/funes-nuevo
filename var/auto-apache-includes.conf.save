@@ -1,0 +1,15 @@
+#
+# auto-apache-includes.conf include file for EPrints
+#
+# DO NOT EDIT, this file is created by bin/generate_apacheconf
+# and may be overwritten. To modify, change the repository configuration
+# and re-run: bin/generate_apacheconf
+#
+# List of files to include for repository specific config...
+
+## prueba
+Include /usr/share/eprints3/archives/prueba/cfg/apache.conf
+
+# funes
+Include /usr/share/eprints3/archives/funes/cfg/apache.conf
+

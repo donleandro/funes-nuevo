@@ -1,0 +1,1429 @@
+[Tue Jun 20 07:29:52 2017] ** Indexer process started
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Tue Jun 20 07:29:52 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Tue Jun 20 07:29:54 2017] !! Could not open session for seiem_funes
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Error: Illegal entry in bfchar block in ToUnicode CMap
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc51 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc63 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc49 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc66 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc4c U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5d U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc36 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5d U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5d U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc36 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc36 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5d U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5d U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5d U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5b U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc5a U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc53 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+d835 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Bad surrogate pair U+dc65 U+0000 at /usr/lib/perl5/Unicode/String.pm line 139.
+Error: ExtGState 'pgf@ca1.0' is unknown
+Error: ExtGState 'pgf@ca1.0' is unknown
+Error: ExtGState 'pgf@ca1.0' is unknown
+Error: ExtGState 'pgf@ca1.0' is unknown
+Error: ExtGState 'pgf@ca1.0' is unknown
+Error: ExtGState 'pgf@ca1.0' is unknown
+[Wed Jun 21 07:30:12 2017] ** End of log. Closing and rolling.
+[Wed Jun 21 07:30:12 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Wed Jun 21 07:30:13 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Wed Jun 21 07:30:15 2017] !! Could not open session for seiem_funes
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Thu Jun 22 07:30:21 2017] ** End of log. Closing and rolling.
+[Thu Jun 22 07:30:21 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Thu Jun 22 07:30:22 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Thu Jun 22 07:30:23 2017] !! Could not open session for seiem_funes
+[Fri Jun 23 07:30:36 2017] ** End of log. Closing and rolling.
+[Fri Jun 23 07:30:36 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Fri Jun 23 07:30:37 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Fri Jun 23 07:30:38 2017] !! Could not open session for seiem_funes
+[Sat Jun 24 07:30:53 2017] ** End of log. Closing and rolling.
+[Sat Jun 24 07:30:53 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Sat Jun 24 07:30:53 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Sat Jun 24 07:30:55 2017] !! Could not open session for seiem_funes
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Sun Jun 25 07:30:59 2017] ** End of log. Closing and rolling.
+[Sun Jun 25 07:30:59 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Sun Jun 25 07:31:01 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Sun Jun 25 07:31:08 2017] !! Could not open session for seiem_funes
+[Mon Jun 26 07:31:22 2017] ** End of log. Closing and rolling.
+[Mon Jun 26 07:31:22 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Mon Jun 26 07:31:23 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Mon Jun 26 07:31:24 2017] !! Could not open session for seiem_funes
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Tue Jun 27 07:31:29 2017] ** End of log. Closing and rolling.
+[Tue Jun 27 07:31:29 2017] *** Error in log file rotation, failed to rename /usr/share/eprints3/var/indexer.log.4 to /usr/share/eprints3/var/indexer.log.5: Permission denied
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Tue Jun 27 07:31:30 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+[Tue Jun 27 07:31:31 2017] !! Could not open session for seiem_funes
+[Wed Jul  5 14:36:21 2017] ** Indexer process started
+[Wed Jul  5 14:36:21 2017] *** Starting indexer sub-process
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Wed Jul  5 14:36:22 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Wed Jul  5 14:36:23 2017] !! Could not open session for seiem_funes
+[Wed Jul  5 14:52:04 2017] *** Indexer sub-process stopped
+[Wed Jul  5 14:52:04 2017] ** Indexer process stopping
+[Wed Jul  5 14:52:27 2017] ** Indexer process started
+[Wed Jul  5 14:52:28 2017] *** Starting indexer sub-process
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Wed Jul  5 14:52:28 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Wed Jul  5 14:52:30 2017] !! Could not open session for seiem_funes
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+DBD::mysql::st execute failed: MySQL server has gone away at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3180.
+SQL ERROR (execute): SELECT `field` FROM `index_queue` ORDER BY `added` ASC
+SQL ERROR (execute): MySQL server has gone away
+DBD::mysql::st fetchrow_array failed: fetch() without execute() at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 3999.
+[Wed Jul  5 15:30:25 2017] *** Indexer sub-process stopped
+[Wed Jul  5 15:30:25 2017] ** Indexer process stopping
+[Wed Jul  5 15:31:01 2017] ** Indexer process started
+[Wed Jul  5 15:31:01 2017] *** Starting indexer sub-process
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=asocolme;host=localhost','asocolme',...) failed: Access denied for user 'asocolme'@'localhost' (using password: YES) at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+
+
+Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Wed Jul  5 15:31:02 2017] !! Could not open session for asocolme
+Field 'security' has invalid parameter:
+input_rows => 1
+Field 'security' has invalid parameter:
+input_rows => 1
+DBI connect('database=seiem;host=localhost','mauricio',...) failed: Access denied for user 'mauricio'@'localhost' to database 'seiem' at /usr/share/eprints3/perl_lib/EPrints/Database.pm line 251
+
+
+SEIEM Funes ha encontrado un error:
+Error al conectar con la base de datos
+[Wed Jul  5 15:31:03 2017] !! Could not open session for seiem_funes
+[Wed Jul  5 15:43:34 2017] *** Indexer sub-process stopped
+[Wed Jul  5 15:43:34 2017] ** Indexer process stopping

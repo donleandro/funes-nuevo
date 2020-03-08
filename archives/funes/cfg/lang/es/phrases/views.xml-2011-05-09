@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no" ?>
+<!DOCTYPE phrases SYSTEM "entities.dtd">
+
+<epp:phrases xmlns="http://www.w3.org/1999/xhtml" xmlns:epp="http://eprints.org/ep3/phrase">
+
+     <epp:phrase id="viewname_eprint_people">Persona</epp:phrase>
+     <epp:phrase id="viewname_eprint_status">Estado</epp:phrase>
+     <epp:phrase id="viewname_eprint_year">A&ntilde;o</epp:phrase>
+     <epp:phrase id="viewname_eprint_subjects">T&eacute;rmino Clave</epp:phrase>
+     <epp:phrase id="viewname_eprint_types">Tipo</epp:phrase>
+          <epp:phrase id="viewname_eprint_creators">Autor</epp:phrase>
+                    <epp:phrase id="viewname_eprint_divisions">Nivel Educativo</epp:phrase>
+	<epp:phrase id="viewname_eprint_revista">Revista</epp:phrase>
+	<epp:phrase id="viewname_eprint_enfoque">Enfoque</epp:phrase>
+	<epp:phrase id="viewname_eprint_valoration">Valoraci&oacute;n</epp:phrase>
+	<epp:phrase id="viewname_eprint_editorial">Editorial</epp:phrase>
+<epp:phrase id="lib/metafield:join_name">; </epp:phrase>
+
+</epp:phrases>
