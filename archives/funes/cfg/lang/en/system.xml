@@ -309,24 +309,24 @@ The list of dc relations used by the relation field.
 
 
     <epp:phrase id="deposit_agreement_text">
-<p><strong>For work being deposited by its own author:</strong> 
-In self-archiving this collection of files and associated bibliographic 
-metadata, I grant <epc:phrase ref="archive_name" /> the right to store 
-them and to make them permanently available publicly for free on-line. 
-I declare that this material is my own intellectual property and I 
-understand that <epc:phrase ref="archive_name" /> does not assume any 
-responsibility if there is any breach of copyright in distributing these 
-files or metadata. (All authors are urged to prominently assert their 
+<p><strong>For work being deposited by its own author:</strong>
+In self-archiving this collection of files and associated bibliographic
+metadata, I grant <epc:phrase ref="archive_name" /> the right to store
+them and to make them permanently available publicly for free on-line.
+I declare that this material is my own intellectual property and I
+understand that <epc:phrase ref="archive_name" /> does not assume any
+responsibility if there is any breach of copyright in distributing these
+files or metadata. (All authors are urged to prominently assert their
 copyright on the title page of their work.)</p>
 
-<p><strong>For work being deposited by someone other than its 
-author:</strong> I hereby declare that the collection of files and 
-associated bibliographic metadata that I am archiving at 
-<epc:phrase ref="archive_name" />) is in the public domain. If this is 
-not the case, I accept full responsibility for any breach of copyright 
+<p><strong>For work being deposited by someone other than its
+author:</strong> I hereby declare that the collection of files and
+associated bibliographic metadata that I am archiving at
+<epc:phrase ref="archive_name" />) is in the public domain. If this is
+not the case, I accept full responsibility for any breach of copyright
 that distributing these files or metadata may entail.</p>
 
-<p>Clicking on the deposit button indicates your agreement to these 
+<p>Clicking on the deposit button indicates your agreement to these
 terms.</p>
     </epp:phrase>
 
@@ -351,8 +351,8 @@ terms.</p>
 <!-- dynamic phrases -->
 
 
-    <epp:phrase id="dynamic:logged_in">Logged in as <epc:pin name="user"/> <epc:phrase ref="Plugin/Screen:tool_divide" /> 
-       <epc:pin name="tools" /> <epc:phrase ref="Plugin/Screen:tool_divide" /> <a href="{$config{http_cgiurl}}/logout">Logout</a> 
+    <epp:phrase id="dynamic:logged_in">Logged in as <epc:pin name="user"/> <epc:phrase ref="Plugin/Screen:tool_divide" />
+       <epc:pin name="tools" /> <epc:phrase ref="Plugin/Screen:tool_divide" /> <a href="{$config{http_cgiurl}}/logout">Logout</a>
     </epp:phrase>
     <epp:phrase id="dynamic:not_logged_in"><a href="{$config{userhome}}">Login</a> <epc:phrase ref="Plugin/Screen:tool_divide" /> <a href="{$config{http_cgiurl}}/register">Create Account</a></epp:phrase>
 
@@ -391,7 +391,7 @@ terms.</p>
 
     <epp:phrase id="eprint_fieldname_corp_creators">Corporate Creators</epp:phrase>
     <epp:phrase id="eprint_fieldhelp_corp_creators">Companies that are considered authors of this item.</epp:phrase>
-    
+
 	<epp:phrase id="eprint_fieldname_creators_name">Creators</epp:phrase>
     <epp:phrase id="eprint_fieldname_creators_id">Email</epp:phrase>
     <epp:phrase id="eprint_fieldhelp_creators">Enter in the format given on the first page or title page. If there are more than four authors, click on the [More&#160;input&#160;rows] button.
@@ -456,7 +456,7 @@ terms.</p>
     <epp:phrase id="eprint_fieldopt_event_type_conference">Conference</epp:phrase>
     <epp:phrase id="eprint_fieldopt_event_type_workshop">Workshop</epp:phrase>
     <epp:phrase id="eprint_fieldopt_event_type_other">Other</epp:phrase>
-    
+
     <epp:phrase id="eprint_fieldname_isbn">ISBN</epp:phrase>
     <epp:phrase id="eprint_fieldhelp_isbn">Unique code identifying a book.
 <br/>Example: <span class="ep_form_example">1 871438 57 8</span>
@@ -478,7 +478,7 @@ terms.</p>
     <epp:phrase id="eprint_fieldopt_pres_type_lecture">Lecture</epp:phrase>
     <epp:phrase id="eprint_fieldopt_pres_type_keynote">Keynote</epp:phrase>
     <epp:phrase id="eprint_fieldopt_pres_type_other">Other</epp:phrase>
-    
+
     <epp:phrase id="eprint_fieldname_book_title">Title of Book</epp:phrase>
     <epp:phrase id="eprint_fieldhelp_book_title">Title usually found on the title page (first page of book).
 </epp:phrase>
@@ -488,7 +488,7 @@ terms.</p>
 <!-- fnord -->
 <br/>Example: <span class="ep_form_example">http://www.stuffjournal.com/2003/3/</span>
 </epp:phrase>
-    
+
 	<epp:phrase id="eprint_fieldname_related_url">Related URLs</epp:phrase>
 	<epp:phrase id="eprint_fieldhelp_related_url">URLs that are related to this item.</epp:phrase>
 	<epp:phrase id="eprint_fieldname_related_url_url">URL</epp:phrase>
@@ -505,7 +505,7 @@ This field is required if no creators are listed.
 
     <epp:phrase id="eprint_fieldname_date">Date</epp:phrase>
     <epp:phrase id="eprint_fieldhelp_date">The date this EPrint was completed, submitted to a publisher, published or submitted for a Ph.D.</epp:phrase>
-    
+
 	<epp:phrase id="eprint_fieldname_date_type">Date Type</epp:phrase>
 	<epp:phrase id="eprint_fieldhelp_date_type">The event to which the date applies.</epp:phrase>
     <epp:phrase id="eprint_fieldopt_date_type_published">Publication</epp:phrase>
@@ -811,7 +811,7 @@ No reason was given.
 <div style="font-size: 11pt">Email Change</div>
 <p>Dear User,</p>
 
-<p>You have requested your email to be changed to <epc:pin name="newemail"/></p> 
+<p>You have requested your email to be changed to <epc:pin name="newemail"/></p>
 
 <p>To activate this new address please <epc:pin name="confirmurl">click here</epc:pin>.</p>
 
@@ -1252,8 +1252,8 @@ For more information see <a href="http://eprints.org/d/?keyword=MetaFields">Meta
     <epp:phrase id="page:suggestions_intro"><h3>The depositing user made the following comments and suggestions:</h3></epp:phrase>
     <epp:phrase id="page:alert">Alert</epp:phrase>
     <epp:phrase id="page:edit_link">Repository Staff Only: <epc:pin name="link">item control page</epc:pin></epp:phrase>
- 
-    <!-- Publisher- or funder-imposed embargos --> 
+
+    <!-- Publisher- or funder-imposed embargos -->
     <epp:phrase id="page:embargo_status"><p>These documents will be made publicly accessible from <epc:pin name="date"/>.</p></epp:phrase>
 
     <epp:phrase id="page:item_not_available"> Item not available from this repository.</epp:phrase>
@@ -1269,13 +1269,13 @@ For more information see <a href="http://eprints.org/d/?keyword=MetaFields">Meta
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:store_summary">There are <epc:pin name="total"/> total files stored using this back-end, taking <epc:pin name="human_bytes"/>.</epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:migrate">Copy to</epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:delete">Delete Copies</epp:phrase>
-        
+
 	<!-- Platforms -->
-	
-	
+
+
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:Storage::HoneyComb">The Honeycomb Platofrm</epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:Storage::Local">Local Disk Storage</epp:phrase>
-	
+
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:a_local_disk_storage">Local Disk Storage</epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:a_local_disk_storage_pic"></epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/StorageManager:a_epm_disk_storage">EPM Disk Storage</epp:phrase>
@@ -1425,12 +1425,12 @@ For more information see <a href="http://eprints.org/d/?keyword=MetaFields">Meta
     <epp:phrase id="lib/metafield:date_res_year"></epp:phrase>
 
     <!-- phrases used to seperate multiple values in a field -->
-    <!-- you can use .first and .last to make the first or 
+    <!-- you can use .first and .last to make the first or
          last joins in a list different. eg. set
-		join_name to ',' 
+		join_name to ','
 		join_name.last  'and'
 	to get a more traditional citation style for names. -->
-		
+
     <epp:phrase id="lib/metafield:join_subobject"><br /></epp:phrase>
     <epp:phrase id="lib/metafield:join_int">, </epp:phrase>
     <epp:phrase id="lib/metafield:join_id">, </epp:phrase>
@@ -1541,14 +1541,14 @@ For more information see <a href="http://eprints.org/d/?keyword=MetaFields">Meta
     <epp:phrase id="lib/searchfield:int_err">A numerical search must be specified as a single integer number, e.g. `23', or a range of numbers, e.g. `9-21', `17-' or `-93'</epp:phrase>
     <epp:phrase id="lib/searchfield:date_err">A date search must be specified as a single date or a range.</epp:phrase>
     <epp:phrase id="lib/searchfield:no_words">Search field contains no indexable words: "<epc:pin name="words"/>". The system ignores very small or common words.</epp:phrase>
-    <epp:phrase id="lib/searchfield:help_time">Enter a date or date range. 
-<br/>Examples:  "<span class="ep_form_example">1985-</span>", 
+    <epp:phrase id="lib/searchfield:help_time">Enter a date or date range.
+<br/>Examples:  "<span class="ep_form_example">1985-</span>",
 "<span class="ep_form_example">2001-05-17-2002-05-16</span>",
 "<span class="ep_form_example">-1980-11</span>"
 </epp:phrase>
 	<epp:phrase id="lib/searchfield:help_timestamp" ref="lib/searchfield:help_time" />
-    <epp:phrase id="lib/searchfield:help_date">Enter a date or date range. 
-<br/>Examples:  "<span class="ep_form_example">1985-</span>", 
+    <epp:phrase id="lib/searchfield:help_date">Enter a date or date range.
+<br/>Examples:  "<span class="ep_form_example">1985-</span>",
 "<span class="ep_form_example">2001-05-17-2002-05-16</span>",
 "<span class="ep_form_example">-1980-11</span>"
 </epp:phrase>
@@ -1638,8 +1638,8 @@ For more information see <a href="http://eprints.org/d/?keyword=MetaFields">Meta
     <epp:phrase id="lib/session:edit_phrases">Edit page phrases</epp:phrase>
     <epp:phrase id="lib/session:phrase_edit_title">Editing phrases from page "<epc:pin name="page_title" />"</epp:phrase>
     <epp:phrase id="lib/session:phrase_edit_back">Return to <epc:pin name="link"><epc:pin name="page_title" /></epc:pin>.</epp:phrase>
-    
-	
+
+
 	<epp:phrase id="lib/paginate:no_items">No items</epp:phrase>
 	<epp:phrase id="lib/paginate:add_column">Add Column</epp:phrase>
 	<epp:phrase id="lib/paginate:move_left">Move Left</epp:phrase>
@@ -1832,7 +1832,7 @@ Enter a URL to capture a file from: <epc:pin name="url"/><br/>
     <epp:phrase id="lib/utils:dow_6">Saturday</epp:phrase>
     <epp:phrase id="lib/utils:dow_7">Sunday</epp:phrase>
 
-<!--********************************************************************** 
+<!--**********************************************************************
 User Area CGI Scripts
 ***********************************************************************-->
 
@@ -1908,7 +1908,7 @@ User Area CGI Scripts
     <epp:phrase id="Plugin/Screen/Admin/IndexerControl:indexer_stopped">Indexer stopped successfully.</epp:phrase>
     <epp:phrase id="Plugin/Screen/Admin/IndexerControl:cant_start_indexer">Unable to start indexer. You should check the log file in <epc:pin name="logpath" /> for more information.</epp:phrase>
     <epp:phrase id="Plugin/Screen/Admin/IndexerControl:cant_stop_indexer">Unable to stop indexer. You should check the log file in <epc:pin name="logpath" /> for more information.</epp:phrase>
-    
+
 <epp:phrase id="Plugin/Screen/Admin/Backup:action:backup_repository:title">Backup Repository</epp:phrase>
 
     <epp:phrase id="Plugin/Screen/Admin/Backup:action:backup_repository:description">Exports a single compressed file of EPrints system, archive data and database files for this repository.</epp:phrase>
@@ -1917,7 +1917,7 @@ User Area CGI Scripts
     <epp:phrase id="Plugin/Screen/Admin/Restore:description">Restores a complete repository, including all eprints system files..</epp:phrase>
     <epp:phrase id="Plugin/Screen/Admin/Restore:backup_archive">Backup archive file:</epp:phrase>
     <epp:phrase id="Plugin/Screen/Admin/Restore:upload">Upload</epp:phrase>
-    
+
     <epp:phrase id="Plugin/Screen/Admin/RegenViews:title">Regenerate Views</epp:phrase>
     <epp:phrase id="Plugin/Screen/Admin/RegenViews:action:regen_views:title">Regenerate Views</epp:phrase>
     <epp:phrase id="Plugin/Screen/Admin/RegenViews:action:regen_views:description">Cause views pages to be regenerated when they are next requested.</epp:phrase>
@@ -2049,7 +2049,7 @@ User Area CGI Scripts
     <epp:phrase id="cgi/login:link_text"><p>You may now view <epc:pin name="link">your requested document</epc:pin>.</p></epp:phrase>
     <epp:phrase id="cgi/login:no_cookies">Could not log in. Your password was correct, but you have cookies turned off. You must turn cookies on to login.</epp:phrase>
 
-<!--********************************************************************** 
+<!--**********************************************************************
 Staff CGI Scripts
 ***********************************************************************-->
 
@@ -2152,7 +2152,7 @@ The following eprint has been deleted from your User Area:
     <epp:phrase id="cgi/users/user_search:simple_search">Staff User Search</epp:phrase>
     <epp:phrase id="cgi/users/user_search:preamble"><p>This form allows staff to search the records of all registered users.</p></epp:phrase>
 
-<!--********************************************************************** 
+<!--**********************************************************************
 Public CGI Scripts
 ***********************************************************************-->
 
@@ -2173,7 +2173,7 @@ Public CGI Scripts
     <epp:phrase id="cgi/paracite:no_reference"><p>ERROR: No reference specified.</p></epp:phrase>
     <epp:phrase id="cgi/paracite:possible_matches"><h2>Possible Matches</h2></epp:phrase>
     <epp:phrase id="cgi/paracite:paracite_link"><p>You may also wish to try searching for your item using the <epc:pin name="link">ParaCite assisted searching service</epc:pin>.</p></epp:phrase>
-    
+
 <!-- remind -->
 
     <epp:phrase id="cgi/remind:rem_sent_title">Reminder Sent</epp:phrase>
@@ -2303,8 +2303,8 @@ Public CGI Scripts
 
     <epp:phrase id="cgi/confirm:title">Confirm Registration Change</epp:phrase>
     <epp:phrase id="cgi/confirm:err_title">Error: Registration Change Failed</epp:phrase>
-    <epp:phrase id="cgi/confirm:bad_user"><p>User not found. It is possible that indicates a database problem, but please check the parameters in the URL carefully.</p></epp:phrase> 
-    <epp:phrase id="cgi/confirm:pin_mismatch"><p>The confirmation pin is incorrect. Please try and <a href="reset_password">reset your password</a> to generate an email with a new confirmation pin number.</p></epp:phrase> 
+    <epp:phrase id="cgi/confirm:bad_user"><p>User not found. It is possible that indicates a database problem, but please check the parameters in the URL carefully.</p></epp:phrase>
+    <epp:phrase id="cgi/confirm:pin_mismatch"><p>The confirmation pin is incorrect. Please try and <a href="reset_password">reset your password</a> to generate an email with a new confirmation pin number.</p></epp:phrase>
     <epp:phrase id="cgi/confirm:pin_timeout"><p>The confirmation pin number has timed out. Please repeat the <a href="reset_password">reset password</a> or <a href="register">registration</a> request, and confirm it as soon as you get the email.</p></epp:phrase>
     <epp:phrase id="cgi/confirm:no_pin"><p>There are currently no changes for this user which await confirmation. This probably means you have already confirmed the change. Try and <a href="{$config{userhome}}">login</a>.</p></epp:phrase>
     <epp:phrase id="cgi/confirm:set_email"><p>Your email address has been changed to <strong><pin name="newemail"/></strong></p></epp:phrase>
@@ -2319,7 +2319,7 @@ Public CGI Scripts
 	<epp:phrase id="cgi/openurl:no_match_title">No Matching Record Found</epp:phrase>
 	<epp:phrase id="cgi/openurl:no_match_blurb"><p>The OpenURL resolver couldn't find the record you searched for.</p></epp:phrase>
 
-<!--********************************************************************** 
+<!--**********************************************************************
 Views
 ***********************************************************************-->
 
@@ -2359,18 +2359,18 @@ Views
 
 </epp:phrase>
 
-<!--********************************************************************** 
+<!--**********************************************************************
 General phrases, used alot
 ***********************************************************************-->
 
     <epp:phrase id="general:userhome_link"><p><a href="{$config{userhome}}">Go to the <epc:phrase ref="archive_name" /> User Area Homepage</a></p></epp:phrase>
     <epp:phrase id="general:frontpage_link"><p><a href="{$config{frontpage}}">Go to the <epc:phrase ref="archive_name" /> Homepage</a></p></epp:phrase>
-    <epp:phrase id="general:bad_param"><p>Bad parameters. Do not try and access this script directly.</p></epp:phrase> 
-    <epp:phrase id="general:disabled_feature_title">Disabled Feature</epp:phrase> 
-    <epp:phrase id="general:disabled_feature_body"><p>This feature has been disabled for this repository.</p></epp:phrase> 
+    <epp:phrase id="general:bad_param"><p>Bad parameters. Do not try and access this script directly.</p></epp:phrase>
+    <epp:phrase id="general:disabled_feature_title">Disabled Feature</epp:phrase>
+    <epp:phrase id="general:disabled_feature_body"><p>This feature has been disabled for this repository.</p></epp:phrase>
     <epp:phrase id="general:email_failed"><p>The system is currently unable to send email. Please try again later. If this problem persists, please contact the <a href="mailto:{$config{adminemail}}">administrator</a> with details.</p></epp:phrase>
 
-<!--********************************************************************** 
+<!--**********************************************************************
 Titles and Help for the System Fields
 ***********************************************************************-->
 
@@ -2562,7 +2562,7 @@ Titles and Help for the System Fields
 
 
 <!-- Plugin phrases -->
-	
+
     <epp:phrase id="Plugin/Screen:tool_divide"> | </epp:phrase>
     <epp:phrase id="Plugin/Screen:more">more...</epp:phrase>
     <epp:phrase id="Plugin/Screen:unknown_action">This screen (<epc:pin name="screen"/>) does not know how to process this action: <epc:pin name="action"/>.</epp:phrase>
@@ -2574,7 +2574,7 @@ Titles and Help for the System Fields
     <epp:phrase id="Plugin/Screen:message_warning">Warning</epp:phrase>
     <epp:phrase id="Plugin/Screen:no_render_subclass">Error. $screen->render should be sub-classed for <epc:pin name="screen"/>.</epp:phrase>
     <epp:phrase id="Plugin/Screen:item_locked">This item is temporarily locked. Please go back and try again in a few minutes.</epp:phrase>
-   
+
     <epp:phrase id="Plugin/Screen/Items:title">Manage deposits</epp:phrase>
     <epp:phrase id="Plugin/Screen/Items:remove_column_confirm">Really remove this column from the display?</epp:phrase>
     <epp:phrase id="Plugin/Screen/Items:help_title">Help</epp:phrase>
@@ -2639,13 +2639,13 @@ Titles and Help for the System Fields
     <epp:phrase id="Plugin/Screen/User/Edit:prev">Previous</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Edit:save">Save</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Edit:stop">Cancel</epp:phrase>
-    
+
     <epp:phrase id="Plugin/Screen/User/Remove:title">Remove user</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Remove:description">Remove this user from the system forever.</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Remove:user_removed">User successfully deleted</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Remove:user_not_removed">User could not be deleted.</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Remove:sure_delete"><p>Are you absolutely sure you want to remove this user? <epc:pin name="title"/></p></epp:phrase>
-    
+
     <epp:phrase id="Plugin/Screen/User/Staff/Edit:title">Administer Account</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Staff/Edit:description">Modify this Account (including changing username and user type)</epp:phrase>
     <epp:phrase id="Plugin/Screen/User/Staff/Edit:next">Next</epp:phrase>
@@ -2668,7 +2668,7 @@ Titles and Help for the System Fields
 	<epp:phrase id="Plugin/Screen/NewEPrint:title"><epc:phrase ref="Plugin/Screen/NewEPrint:action:create:title"/></epp:phrase>
     <epp:phrase id="Plugin/Screen/NewEPrint:action:create:title">New Item</epp:phrase>
     <epp:phrase id="Plugin/Screen/NewEPrint:action:create:description">Begin a new deposit.</epp:phrase>
-	
+
 	<epp:phrase id="Plugin/Screen/EPrint:deposit">Deposit</epp:phrase>
 	<epp:phrase id="Plugin/Screen/EPrint/Deposit:action:save:description"><p>Before depositing this item you must resolve the problems identified.</p></epp:phrase>
 	<epp:phrase id="Plugin/Screen/EPrint/Deposit:action:move_buffer:description"><p>As an editor of this item you can move it into review without first resolving the problems identified otherwise click <epc:phrase ref="lib/submissionform:action_save" /> to fix these problems later.</p></epp:phrase>
@@ -2800,10 +2800,10 @@ PY = 2006 and OG = (Cambridge)<br />
     <epp:phrase id="Plugin/Screen/EPrint/Deposit:item_deposited">Item has been deposited.</epp:phrase>
     <epp:phrase id="Plugin/Screen/EPrint/Deposit:item_not_deposited">Could not deposit for some reason.</epp:phrase>
     <epp:phrase id="Plugin/Screen/EPrint/Deposit:in_buffer">Your item will not appear on the public website until it has been checked by an editor.</epp:phrase>
-    
+
 	<epp:phrase id="Plugin/Screen/EPrint/Error:title">Error</epp:phrase>
     <epp:phrase id="Plugin/Screen/EPrint/Error:description">Error</epp:phrase>
-    
+
     <epp:phrase id="Plugin/Screen/EPrint/RemoveWithEmail:title">Remove item (with notification)</epp:phrase>
     <epp:phrase id="Plugin/Screen/EPrint/RemoveWithEmail:description">Remove this item from the system forever, but send an email to the user who deposited it to inform them why.</epp:phrase>
     <epp:phrase id="Plugin/Screen/EPrint/RemoveWithEmail:item_removed">Item has been removed.</epp:phrase>
@@ -2925,7 +2925,7 @@ PY = 2006 and OG = (Cambridge)<br />
 
     <epp:phrase id="search/issues:title">Search for issues</epp:phrase>
     <epp:phrase id="search/issues:preamble"><p>Search for items by issue. The issues are updated periodically.</p></epp:phrase>
-   
+
 
     <!-- SavedSearch screens -->
 
@@ -3000,7 +3000,7 @@ PY = 2006 and OG = (Cambridge)<br />
 
 
 	<!-- Upload component -->
-	
+
 	<epp:phrase id="Plugin/InputForm/Component/Upload:title">Add a new document</epp:phrase>
         <epp:phrase id="Plugin/InputForm/Component/Upload:help"><p style="margin-top: 0px">To upload a document to this repository, click the Browse button below to select the file and the Upload button to upload it to the archive. You may then add additional files to the document (such as images for HTML files) or upload more files to create additional documents.</p><p style="margin-bottom: 0px">You may wish to use the <a href="http://www.sherpa.ac.uk/romeo.php" target="_blank">SHERPA RoMEO</a> tool to verify publisher policies before depositing.</p></epp:phrase>
 	<epp:phrase id="Plugin/InputForm/Component/Documents:convert_document">Convert Document Format</epp:phrase>
@@ -3025,7 +3025,7 @@ PY = 2006 and OG = (Cambridge)<br />
 	<epp:phrase id="Plugin/InputForm/UploadMethod/xcompressed:multiple">Multi-Document (e.g. a collection)</epp:phrase>
 	<epp:phrase id="Plugin/InputForm/UploadMethod/xcompressed:no_plugin">The uploaded file type is not supported by this repository.</epp:phrase>
 	<epp:phrase id="Plugin/InputForm/UploadMethod/xcompressed:failed">Upload Failed, could not uncompress uploaded file.</epp:phrase>
-	
+
 
 	<!-- errors -->
 	<epp:phrase id="Plugin/InputForm/Component/Upload:create_failed">Document creation failed.</epp:phrase>
@@ -3035,7 +3035,7 @@ PY = 2006 and OG = (Cambridge)<br />
 	<epp:phrase id="Plugin/InputForm/Component/Upload:bad_button">Unknown internal button: <epc:pin name="button"/></epp:phrase>
 	<epp:phrase id="Plugin/InputForm/Component/Upload:bad_doc_button">Unknown internal document button: <epc:pin name="button"/></epp:phrase>
 	<epp:phrase id="Plugin/Screen/EPrint/Document/Convert:conversion_failed">Document conversion failed.</epp:phrase>
-	
+
 	<!-- tabs -->
 	<epp:phrase id="Plugin/InputForm/Component/Documents:Metadata">Metadata</epp:phrase>
 	<epp:phrase id="Plugin/InputForm/Component/Documents:Files">Files</epp:phrase>
@@ -3068,17 +3068,17 @@ PY = 2006 and OG = (Cambridge)<br />
 
 	<!-- Subject component -->
 	<epp:phrase id="Plugin/InputForm/Component/Field/Subject:selections">Current selections:</epp:phrase>
-	
+
     <epp:phrase id="Plugin/InputForm/Component/Field/Subject:search_no_matches"><p>No matches</p></epp:phrase>
     <epp:phrase id="Plugin/InputForm/Component/Field/Subject:subjects_search_bar"><div class="ep_subjectinput_searchbar">Search for subject: <epc:pin name="input"/> <epc:pin name="search_button"/> <epc:pin name="clear_button"/></div></epp:phrase>
     <epp:phrase id="Plugin/InputForm/Component/Field/Subject:search_search_button">Search</epp:phrase>
     <epp:phrase id="Plugin/InputForm/Component/Field/Subject:search_clear_button">Clear</epp:phrase>
     <epp:phrase id="Plugin/InputForm/Component/Field/Subject:add">Add</epp:phrase>
     <epp:phrase id="Plugin/InputForm/Component/Field/Subject:remove">Remove</epp:phrase>
-	
+
 
 	<!-- Component errors -->
-	
+
 	<epp:phrase id="Plugin/InputForm/Component/Error:title">Error in <epc:pin name="filename" /></epp:phrase>
 	<epp:phrase id="Plugin/InputForm/Component:error_invalid_component">Unknown component type <em><epc:pin name="placeholding"/></em> in <pre><epc:pin name="xml" /></pre></epp:phrase>
 	<epp:phrase id="Plugin/InputForm/Component/Field:error_missing_field">Field component is missing field element in <pre><epc:pin name="xml"/></pre></epp:phrase>
@@ -3089,17 +3089,17 @@ PY = 2006 and OG = (Cambridge)<br />
 
     <epp:phrase id="Plugin/InputForm/Surround/Default:show_help"><epc:pin name="link"><img alt="+" title="Show help" src="{$config{rel_path}}/style/images/help.png" border="0"/></epc:pin></epp:phrase>
     <epp:phrase id="Plugin/InputForm/Surround/Default:hide_help"><epc:pin name="link"><img alt="-" title="Hide help" src="{$config{rel_path}}/style/images/minus.png" border="0"/></epc:pin></epp:phrase>
-	
+
 	<!-- Import Plugins -->
 
 	<epp:phrase id="Plugin/Import/BibTeX:unsupported_cite_type">Skipping unsupported citation type <epc:pin name="type"/></epp:phrase>
 	<epp:phrase id="Plugin/Import/BibTeX:skip_year">Skipping year '<epc:pin name="year"/>'</epp:phrase>
 	<epp:phrase id="Plugin/Import/BibTeX:skip_month">Skipping month '<epc:pin name="month"/>'</epp:phrase>
-	
+
 	<epp:phrase id="Plugin/Import/EndNote:unsupported_cite_type">Skipping unsupported citation type <epc:pin name="type"/></epp:phrase>
 	<epp:phrase id="Plugin/Import/EndNote:bad_author">Could not parse author: <epc:pin name="author" /></epp:phrase>
 	<epp:phrase id="Plugin/Import/EndNote:bad_editor">Could not parse editor: <epc:pin name="editor" /></epp:phrase>
-	
+
 	<epp:phrase id="Plugin/Import/XML:unexpected_element">Unexpected element: &lt;<epc:pin name="name"/>&gt;</epp:phrase>
 	<epp:phrase id="Plugin/Import/XML:unexpected_type">&lt;<epc:pin name="type"/>&gt; where &lt;<epc:pin name="expected"/>&gt; was expected inside &lt;<epc:pin name="fieldname"/>&gt;</epp:phrase>
 	<epp:phrase id="Plugin/Import/XML:unknown_virtual">&lt;<epc:pin name="type"/>&gt; is an unknown virtual field inside &lt;<epc:pin name="fieldname"/>&gt;</epp:phrase>
@@ -3131,176 +3131,176 @@ PY = 2006 and OG = (Cambridge)<br />
 	<epp:phrase id="Plugin/Convert/PlainText:text/plain">Plain Text</epp:phrase>
 	<epp:phrase id="Plugin/Convert/DocPDF:application/pdf">PDF (via antiword)</epp:phrase>
 
-  <epp:phrase id="Plugin/Screen/Admin/Config/Edit:could_not_write">Could not write file '<epc:pin name="filename" />'. Error message: <epc:pin name="error_msg" /></epp:phrase>  
+  <epp:phrase id="Plugin/Screen/Admin/Config/Edit:could_not_write">Could not write file '<epc:pin name="filename" />'. Error message: <epc:pin name="error_msg" /></epp:phrase>
 
 
 
-  <epp:phrase id="languages_typename_" ref="lib/metafield:unspecified" />  
+  <epp:phrase id="languages_typename_" ref="lib/metafield:unspecified" />
 
-  <epp:phrase id="languages_typename_aa">Afar</epp:phrase>  
-  <epp:phrase id="languages_typename_ab">Abkhazian</epp:phrase>  
-  <epp:phrase id="languages_typename_af">Afrikaans</epp:phrase>  
-  <epp:phrase id="languages_typename_am">Amharic</epp:phrase>  
-  <epp:phrase id="languages_typename_ar">Arabic</epp:phrase>  
-  <epp:phrase id="languages_typename_as">Assamese</epp:phrase>  
-  <epp:phrase id="languages_typename_ay">Aymara</epp:phrase>  
-  <epp:phrase id="languages_typename_az">Azerbaijani</epp:phrase>  
+  <epp:phrase id="languages_typename_aa">Afar</epp:phrase>
+  <epp:phrase id="languages_typename_ab">Abkhazian</epp:phrase>
+  <epp:phrase id="languages_typename_af">Afrikaans</epp:phrase>
+  <epp:phrase id="languages_typename_am">Amharic</epp:phrase>
+  <epp:phrase id="languages_typename_ar">Arabic</epp:phrase>
+  <epp:phrase id="languages_typename_as">Assamese</epp:phrase>
+  <epp:phrase id="languages_typename_ay">Aymara</epp:phrase>
+  <epp:phrase id="languages_typename_az">Azerbaijani</epp:phrase>
 
-  <epp:phrase id="languages_typename_ba">Bashkir</epp:phrase>  
-  <epp:phrase id="languages_typename_be">Byelorussian</epp:phrase>  
-  <epp:phrase id="languages_typename_bg">Bulgarian</epp:phrase>  
-  <epp:phrase id="languages_typename_bh">Bihari</epp:phrase>  
-  <epp:phrase id="languages_typename_bi">Bislama</epp:phrase>  
-  <epp:phrase id="languages_typename_bn">Bengali; Bangla</epp:phrase>  
-  <epp:phrase id="languages_typename_bo">Tibetan</epp:phrase>  
-  <epp:phrase id="languages_typename_br">Breton</epp:phrase>  
+  <epp:phrase id="languages_typename_ba">Bashkir</epp:phrase>
+  <epp:phrase id="languages_typename_be">Byelorussian</epp:phrase>
+  <epp:phrase id="languages_typename_bg">Bulgarian</epp:phrase>
+  <epp:phrase id="languages_typename_bh">Bihari</epp:phrase>
+  <epp:phrase id="languages_typename_bi">Bislama</epp:phrase>
+  <epp:phrase id="languages_typename_bn">Bengali; Bangla</epp:phrase>
+  <epp:phrase id="languages_typename_bo">Tibetan</epp:phrase>
+  <epp:phrase id="languages_typename_br">Breton</epp:phrase>
 
-  <epp:phrase id="languages_typename_ca">Catalan</epp:phrase>  
-  <epp:phrase id="languages_typename_co">Corsican</epp:phrase>  
-  <epp:phrase id="languages_typename_cs">Czech</epp:phrase>  
-  <epp:phrase id="languages_typename_cy">Welsh</epp:phrase>  
+  <epp:phrase id="languages_typename_ca">Catalan</epp:phrase>
+  <epp:phrase id="languages_typename_co">Corsican</epp:phrase>
+  <epp:phrase id="languages_typename_cs">Czech</epp:phrase>
+  <epp:phrase id="languages_typename_cy">Welsh</epp:phrase>
 
-  <epp:phrase id="languages_typename_da">Danish</epp:phrase> 
-  <epp:phrase id="languages_typename_de">German</epp:phrase>  
-  <epp:phrase id="languages_typename_dz">Bhutani</epp:phrase>  
+  <epp:phrase id="languages_typename_da">Danish</epp:phrase>
+  <epp:phrase id="languages_typename_de">German</epp:phrase>
+  <epp:phrase id="languages_typename_dz">Bhutani</epp:phrase>
 
-  <epp:phrase id="languages_typename_el">Greek</epp:phrase>  
-  <epp:phrase id="languages_typename_en">English</epp:phrase>  
-  <epp:phrase id="languages_typename_eo">Esperanto</epp:phrase>  
-  <epp:phrase id="languages_typename_es">Español</epp:phrase> 
-  <epp:phrase id="languages_typename_et">Estonian</epp:phrase>  
-  <epp:phrase id="languages_typename_eu">Basque</epp:phrase>  
+  <epp:phrase id="languages_typename_el">Greek</epp:phrase>
+  <epp:phrase id="languages_typename_en">English</epp:phrase>
+  <epp:phrase id="languages_typename_eo">Esperanto</epp:phrase>
+  <epp:phrase id="languages_typename_es">Español</epp:phrase>
+  <epp:phrase id="languages_typename_et">Estonian</epp:phrase>
+  <epp:phrase id="languages_typename_eu">Basque</epp:phrase>
 
-  <epp:phrase id="languages_typename_fa">Persian</epp:phrase>  
-  <epp:phrase id="languages_typename_fi">Finnish</epp:phrase>  
-  <epp:phrase id="languages_typename_fj">Fiji</epp:phrase>  
-  <epp:phrase id="languages_typename_fo">Faroese</epp:phrase>  
+  <epp:phrase id="languages_typename_fa">Persian</epp:phrase>
+  <epp:phrase id="languages_typename_fi">Finnish</epp:phrase>
+  <epp:phrase id="languages_typename_fj">Fiji</epp:phrase>
+  <epp:phrase id="languages_typename_fo">Faroese</epp:phrase>
   <epp:phrase id="languages_typename_fr">French</epp:phrase>
-  <epp:phrase id="languages_typename_fy">Frisian</epp:phrase>  
+  <epp:phrase id="languages_typename_fy">Frisian</epp:phrase>
 
-  <epp:phrase id="languages_typename_ga">Irish</epp:phrase>  
-  <epp:phrase id="languages_typename_gd">Scots Gaelic</epp:phrase>  
-  <epp:phrase id="languages_typename_gl">Galician</epp:phrase>  
-  <epp:phrase id="languages_typename_gn">Guarani</epp:phrase>  
-  <epp:phrase id="languages_typename_gu">Gujarati</epp:phrase>  
+  <epp:phrase id="languages_typename_ga">Irish</epp:phrase>
+  <epp:phrase id="languages_typename_gd">Scots Gaelic</epp:phrase>
+  <epp:phrase id="languages_typename_gl">Galician</epp:phrase>
+  <epp:phrase id="languages_typename_gn">Guarani</epp:phrase>
+  <epp:phrase id="languages_typename_gu">Gujarati</epp:phrase>
 
-  <epp:phrase id="languages_typename_ha">Hausa</epp:phrase>  
-  <epp:phrase id="languages_typename_he">Hebrew</epp:phrase>  
-  <epp:phrase id="languages_typename_hi">Hindi</epp:phrase>  
-  <epp:phrase id="languages_typename_hr">Croatian</epp:phrase>  
-  <epp:phrase id="languages_typename_hu">Hungarian</epp:phrase>  
-  <epp:phrase id="languages_typename_hy">Armenian</epp:phrase>  
+  <epp:phrase id="languages_typename_ha">Hausa</epp:phrase>
+  <epp:phrase id="languages_typename_he">Hebrew</epp:phrase>
+  <epp:phrase id="languages_typename_hi">Hindi</epp:phrase>
+  <epp:phrase id="languages_typename_hr">Croatian</epp:phrase>
+  <epp:phrase id="languages_typename_hu">Hungarian</epp:phrase>
+  <epp:phrase id="languages_typename_hy">Armenian</epp:phrase>
 
-  <epp:phrase id="languages_typename_ia">Interlingua</epp:phrase>  
-  <epp:phrase id="languages_typename_id">Indonesian</epp:phrase>  
-  <epp:phrase id="languages_typename_ie">Interlingue</epp:phrase>  
-  <epp:phrase id="languages_typename_ik">Inupiak</epp:phrase>  
-  <epp:phrase id="languages_typename_is">Icelandic</epp:phrase>  
-  <epp:phrase id="languages_typename_it">Italiano</epp:phrase>  
-  <epp:phrase id="languages_typename_iu">Inuktitut</epp:phrase>  
+  <epp:phrase id="languages_typename_ia">Interlingua</epp:phrase>
+  <epp:phrase id="languages_typename_id">Indonesian</epp:phrase>
+  <epp:phrase id="languages_typename_ie">Interlingue</epp:phrase>
+  <epp:phrase id="languages_typename_ik">Inupiak</epp:phrase>
+  <epp:phrase id="languages_typename_is">Icelandic</epp:phrase>
+  <epp:phrase id="languages_typename_it">Italiano</epp:phrase>
+  <epp:phrase id="languages_typename_iu">Inuktitut</epp:phrase>
 
-  <epp:phrase id="languages_typename_ja">Japanese</epp:phrase>  
-  <epp:phrase id="languages_typename_jw">Javanese</epp:phrase>  
+  <epp:phrase id="languages_typename_ja">Japanese</epp:phrase>
+  <epp:phrase id="languages_typename_jw">Javanese</epp:phrase>
 
-  <epp:phrase id="languages_typename_ka">Georgian</epp:phrase>  
-  <epp:phrase id="languages_typename_kk">Kazakh</epp:phrase>  
-  <epp:phrase id="languages_typename_kl">Greenlandic</epp:phrase>  
-  <epp:phrase id="languages_typename_km">Cambodian</epp:phrase>  
-  <epp:phrase id="languages_typename_kn">Kannada</epp:phrase>  
-  <epp:phrase id="languages_typename_ko">Korean</epp:phrase>  
-  <epp:phrase id="languages_typename_ks">Kashmiri</epp:phrase>  
-  <epp:phrase id="languages_typename_ku">Kurdish</epp:phrase>  
-  <epp:phrase id="languages_typename_ky">Kirghiz</epp:phrase>  
+  <epp:phrase id="languages_typename_ka">Georgian</epp:phrase>
+  <epp:phrase id="languages_typename_kk">Kazakh</epp:phrase>
+  <epp:phrase id="languages_typename_kl">Greenlandic</epp:phrase>
+  <epp:phrase id="languages_typename_km">Cambodian</epp:phrase>
+  <epp:phrase id="languages_typename_kn">Kannada</epp:phrase>
+  <epp:phrase id="languages_typename_ko">Korean</epp:phrase>
+  <epp:phrase id="languages_typename_ks">Kashmiri</epp:phrase>
+  <epp:phrase id="languages_typename_ku">Kurdish</epp:phrase>
+  <epp:phrase id="languages_typename_ky">Kirghiz</epp:phrase>
 
-  <epp:phrase id="languages_typename_la">Latin</epp:phrase>  
-  <epp:phrase id="languages_typename_ln">Lingala</epp:phrase>  
-  <epp:phrase id="languages_typename_lo">Laothian</epp:phrase>  
-  <epp:phrase id="languages_typename_lt">Lithuanian</epp:phrase>  
-  <epp:phrase id="languages_typename_lv">Latvian, Lettish</epp:phrase>  
+  <epp:phrase id="languages_typename_la">Latin</epp:phrase>
+  <epp:phrase id="languages_typename_ln">Lingala</epp:phrase>
+  <epp:phrase id="languages_typename_lo">Laothian</epp:phrase>
+  <epp:phrase id="languages_typename_lt">Lithuanian</epp:phrase>
+  <epp:phrase id="languages_typename_lv">Latvian, Lettish</epp:phrase>
 
-  <epp:phrase id="languages_typename_mg">Malagasy</epp:phrase>  
-  <epp:phrase id="languages_typename_mi">Maori</epp:phrase>  
-  <epp:phrase id="languages_typename_mk">Macedonian</epp:phrase>  
-  <epp:phrase id="languages_typename_ml">Malayalam</epp:phrase>  
-  <epp:phrase id="languages_typename_mn">Mongolian</epp:phrase>  
-  <epp:phrase id="languages_typename_mo">Moldavian</epp:phrase>  
-  <epp:phrase id="languages_typename_mr">Marathi</epp:phrase>  
-  <epp:phrase id="languages_typename_ms">Malay</epp:phrase>  
-  <epp:phrase id="languages_typename_mt">Maltese</epp:phrase>  
-  <epp:phrase id="languages_typename_my">Burmese</epp:phrase>  
+  <epp:phrase id="languages_typename_mg">Malagasy</epp:phrase>
+  <epp:phrase id="languages_typename_mi">Maori</epp:phrase>
+  <epp:phrase id="languages_typename_mk">Macedonian</epp:phrase>
+  <epp:phrase id="languages_typename_ml">Malayalam</epp:phrase>
+  <epp:phrase id="languages_typename_mn">Mongolian</epp:phrase>
+  <epp:phrase id="languages_typename_mo">Moldavian</epp:phrase>
+  <epp:phrase id="languages_typename_mr">Marathi</epp:phrase>
+  <epp:phrase id="languages_typename_ms">Malay</epp:phrase>
+  <epp:phrase id="languages_typename_mt">Maltese</epp:phrase>
+  <epp:phrase id="languages_typename_my">Burmese</epp:phrase>
 
-  <epp:phrase id="languages_typename_na">Nauru</epp:phrase>  
-  <epp:phrase id="languages_typename_ne">Nepali</epp:phrase>  
-  <epp:phrase id="languages_typename_nl">Dutch</epp:phrase>  
-  <epp:phrase id="languages_typename_no">Norwegian</epp:phrase> 
+  <epp:phrase id="languages_typename_na">Nauru</epp:phrase>
+  <epp:phrase id="languages_typename_ne">Nepali</epp:phrase>
+  <epp:phrase id="languages_typename_nl">Dutch</epp:phrase>
+  <epp:phrase id="languages_typename_no">Norwegian</epp:phrase>
 
-  <epp:phrase id="languages_typename_oc">Occitan</epp:phrase>  
-  <epp:phrase id="languages_typename_om">(Afan) Oromo</epp:phrase>  
-  <epp:phrase id="languages_typename_or">Oriya</epp:phrase>  
+  <epp:phrase id="languages_typename_oc">Occitan</epp:phrase>
+  <epp:phrase id="languages_typename_om">(Afan) Oromo</epp:phrase>
+  <epp:phrase id="languages_typename_or">Oriya</epp:phrase>
 
-  <epp:phrase id="languages_typename_pa">Punjabi</epp:phrase>  
-  <epp:phrase id="languages_typename_pl">Polish</epp:phrase> 
-  <epp:phrase id="languages_typename_ps">Pashto, Pushto</epp:phrase>  
-  <epp:phrase id="languages_typename_pt">Portuguese</epp:phrase> 
+  <epp:phrase id="languages_typename_pa">Punjabi</epp:phrase>
+  <epp:phrase id="languages_typename_pl">Polish</epp:phrase>
+  <epp:phrase id="languages_typename_ps">Pashto, Pushto</epp:phrase>
+  <epp:phrase id="languages_typename_pt">Portuguese</epp:phrase>
 
-  <epp:phrase id="languages_typename_qu">Quechua</epp:phrase>  
+  <epp:phrase id="languages_typename_qu">Quechua</epp:phrase>
 
-  <epp:phrase id="languages_typename_rm">Rhaeto-Romance</epp:phrase>  
-  <epp:phrase id="languages_typename_rn">Kirundi</epp:phrase>  
-  <epp:phrase id="languages_typename_ro">Romanian</epp:phrase>  
+  <epp:phrase id="languages_typename_rm">Rhaeto-Romance</epp:phrase>
+  <epp:phrase id="languages_typename_rn">Kirundi</epp:phrase>
+  <epp:phrase id="languages_typename_ro">Romanian</epp:phrase>
   <epp:phrase id="languages_typename_ru">Russian</epp:phrase>
-  <epp:phrase id="languages_typename_rw">Kinyarwanda</epp:phrase>  
+  <epp:phrase id="languages_typename_rw">Kinyarwanda</epp:phrase>
 
-  <epp:phrase id="languages_typename_sa">Sanskrit</epp:phrase>  
-  <epp:phrase id="languages_typename_sd">Sindhi</epp:phrase>  
-  <epp:phrase id="languages_typename_sg">Sangho</epp:phrase>  
-  <epp:phrase id="languages_typename_sh">Serbo-Croatian</epp:phrase>  
-  <epp:phrase id="languages_typename_si">Sinhalese</epp:phrase>  
-  <epp:phrase id="languages_typename_sk">Slovak</epp:phrase>  
-  <epp:phrase id="languages_typename_sl">Slovenian</epp:phrase>  
-  <epp:phrase id="languages_typename_sm">Samoan</epp:phrase>  
-  <epp:phrase id="languages_typename_sn">Shona</epp:phrase>  
-  <epp:phrase id="languages_typename_so">Somali</epp:phrase>  
-  <epp:phrase id="languages_typename_sq">Albanian</epp:phrase>  
-  <epp:phrase id="languages_typename_sr">Serbian</epp:phrase>  
-  <epp:phrase id="languages_typename_ss">Siswati</epp:phrase>  
-  <epp:phrase id="languages_typename_st">Sesotho</epp:phrase>  
-  <epp:phrase id="languages_typename_su">Sundanese</epp:phrase>  
-  <epp:phrase id="languages_typename_sv">Swedish</epp:phrase>  
-  <epp:phrase id="languages_typename_sw">Swahili</epp:phrase>  
+  <epp:phrase id="languages_typename_sa">Sanskrit</epp:phrase>
+  <epp:phrase id="languages_typename_sd">Sindhi</epp:phrase>
+  <epp:phrase id="languages_typename_sg">Sangho</epp:phrase>
+  <epp:phrase id="languages_typename_sh">Serbo-Croatian</epp:phrase>
+  <epp:phrase id="languages_typename_si">Sinhalese</epp:phrase>
+  <epp:phrase id="languages_typename_sk">Slovak</epp:phrase>
+  <epp:phrase id="languages_typename_sl">Slovenian</epp:phrase>
+  <epp:phrase id="languages_typename_sm">Samoan</epp:phrase>
+  <epp:phrase id="languages_typename_sn">Shona</epp:phrase>
+  <epp:phrase id="languages_typename_so">Somali</epp:phrase>
+  <epp:phrase id="languages_typename_sq">Albanian</epp:phrase>
+  <epp:phrase id="languages_typename_sr">Serbian</epp:phrase>
+  <epp:phrase id="languages_typename_ss">Siswati</epp:phrase>
+  <epp:phrase id="languages_typename_st">Sesotho</epp:phrase>
+  <epp:phrase id="languages_typename_su">Sundanese</epp:phrase>
+  <epp:phrase id="languages_typename_sv">Swedish</epp:phrase>
+  <epp:phrase id="languages_typename_sw">Swahili</epp:phrase>
 
-  <epp:phrase id="languages_typename_ta">Tamil</epp:phrase>  
-  <epp:phrase id="languages_typename_te">Telugu</epp:phrase>  
-  <epp:phrase id="languages_typename_tg">Tajik</epp:phrase>  
-  <epp:phrase id="languages_typename_th">Thai</epp:phrase>  
-  <epp:phrase id="languages_typename_ti">Tigrinya</epp:phrase>  
-  <epp:phrase id="languages_typename_tk">Turkmen</epp:phrase>  
-  <epp:phrase id="languages_typename_tl">Tagalog</epp:phrase>  
-  <epp:phrase id="languages_typename_tn">Setswana</epp:phrase>  
-  <epp:phrase id="languages_typename_to">Tonga</epp:phrase>  
-  <epp:phrase id="languages_typename_tr">Turkish</epp:phrase>  
-  <epp:phrase id="languages_typename_ts">Tsonga</epp:phrase>  
-  <epp:phrase id="languages_typename_tt">Tatar</epp:phrase>  
-  <epp:phrase id="languages_typename_tw">Twi</epp:phrase>  
+  <epp:phrase id="languages_typename_ta">Tamil</epp:phrase>
+  <epp:phrase id="languages_typename_te">Telugu</epp:phrase>
+  <epp:phrase id="languages_typename_tg">Tajik</epp:phrase>
+  <epp:phrase id="languages_typename_th">Thai</epp:phrase>
+  <epp:phrase id="languages_typename_ti">Tigrinya</epp:phrase>
+  <epp:phrase id="languages_typename_tk">Turkmen</epp:phrase>
+  <epp:phrase id="languages_typename_tl">Tagalog</epp:phrase>
+  <epp:phrase id="languages_typename_tn">Setswana</epp:phrase>
+  <epp:phrase id="languages_typename_to">Tonga</epp:phrase>
+  <epp:phrase id="languages_typename_tr">Turkish</epp:phrase>
+  <epp:phrase id="languages_typename_ts">Tsonga</epp:phrase>
+  <epp:phrase id="languages_typename_tt">Tatar</epp:phrase>
+  <epp:phrase id="languages_typename_tw">Twi</epp:phrase>
 
-  <epp:phrase id="languages_typename_ug">Uighur</epp:phrase>  
-  <epp:phrase id="languages_typename_uk">Ukrainian</epp:phrase>  
-  <epp:phrase id="languages_typename_ur">Urdu</epp:phrase>  
-  <epp:phrase id="languages_typename_uz">Uzbek</epp:phrase>  
+  <epp:phrase id="languages_typename_ug">Uighur</epp:phrase>
+  <epp:phrase id="languages_typename_uk">Ukrainian</epp:phrase>
+  <epp:phrase id="languages_typename_ur">Urdu</epp:phrase>
+  <epp:phrase id="languages_typename_uz">Uzbek</epp:phrase>
 
-  <epp:phrase id="languages_typename_vi">Vietnamese</epp:phrase>  
-  <epp:phrase id="languages_typename_vo">Volapuk</epp:phrase>  
+  <epp:phrase id="languages_typename_vi">Vietnamese</epp:phrase>
+  <epp:phrase id="languages_typename_vo">Volapuk</epp:phrase>
 
-  <epp:phrase id="languages_typename_wo">Wolof</epp:phrase>  
+  <epp:phrase id="languages_typename_wo">Wolof</epp:phrase>
 
-  <epp:phrase id="languages_typename_xh">Xhosa</epp:phrase>  
+  <epp:phrase id="languages_typename_xh">Xhosa</epp:phrase>
 
-  <epp:phrase id="languages_typename_yi">Yiddish</epp:phrase>  
-  <epp:phrase id="languages_typename_yo">Yoruba</epp:phrase>  
+  <epp:phrase id="languages_typename_yi">Yiddish</epp:phrase>
+  <epp:phrase id="languages_typename_yo">Yoruba</epp:phrase>
 
-  <epp:phrase id="languages_typename_za">Zhuang</epp:phrase>  
-  <epp:phrase id="languages_typename_zh">Chinese</epp:phrase>  
-  <epp:phrase id="languages_typename_zu">Zulu</epp:phrase>  
+  <epp:phrase id="languages_typename_za">Zhuang</epp:phrase>
+  <epp:phrase id="languages_typename_zh">Chinese</epp:phrase>
+  <epp:phrase id="languages_typename_zu">Zulu</epp:phrase>
 
 
   <epp:phrase id="licenses_typename_cc_by_nd">Creative Commons: Attribution-No Derivative Works 3.0</epp:phrase>
@@ -3338,7 +3338,7 @@ PY = 2006 and OG = (Cambridge)<br />
   <epp:phrase id="licenses_description_cc_gnu_gpl"><a href="http://creativecommons.org/licenses/GPL/2.0/">Creative Commons GNU GPL (Software)</a></epp:phrase>
   <epp:phrase id="licenses_description_cc_gnu_lgpl"><a href="http://creativecommons.org/licenses/LGPL/2.1/">Creative Commons GNU LGPL (Software)</a></epp:phrase>
 
-   
+
 
     <epp:phrase id="saved_search_fieldname_id">Search ID</epp:phrase>
     <epp:phrase id="saved_search_fieldname_name">Name of search</epp:phrase>
@@ -3734,7 +3734,7 @@ PY = 2006 and OG = (Cambridge)<br />
     <epp:phrase id="metapage_title_subjects">Subjects</epp:phrase>
     <epp:phrase id="metapage_title_notes">Extras</epp:phrase>
     <epp:phrase id="metapage_title_local">Custom</epp:phrase>
-    
+
     <epp:phrase id="archive:workflow:stage:type:title">Type</epp:phrase>
     <epp:phrase id="archive:workflow:stage:files:title">Upload</epp:phrase>
     <epp:phrase id="archive:workflow:stage:core:title">Details</epp:phrase>
@@ -3790,7 +3790,7 @@ PY = 2006 and OG = (Cambridge)<br />
 	<epp:phrase id="Plugin/Screen/Workflow:event_queue:core_stage:title" ref="metapage_title_core" />
 	<epp:phrase id="Plugin/Screen/Workflow:event_queue:commit_stage:title" ref="Plugin/Screen/Workflow/Commit:title" />
 
-	<epp:phrase id="Plugin/Screen/EPrint/UploadMethod/File:title" ref="Plugin/InputForm/Component/Upload:from_file" />
+	<epp:phrase id="Plugin/Screen/EPrint/UploadMethod/File:title" ref="Plugin/InputForm/Component/Upload:from_file">Subir Archivo</epp:phrase>
 	<epp:phrase id="Plugin/Screen/EPrint/UploadMethod/File:unsupported_format">No method available to extract data from uploaded file.</epp:phrase>
 	<epp:phrase id="Plugin/Screen/EPrint/UploadMethod/File:confirm_bulk_upload">Are you sure you want to create <epc:pin name="n"/> new documents?</epp:phrase>
 
@@ -3935,7 +3935,7 @@ To create a blank EPM entire a new id in the input and click <epc:phrase ref="Pl
 	<epp:phrase id="Plugin/Screen/Admin/UpdateDatabase:error:field">Database update of field <em><epc:pin name="dataset" />.<epc:pin name="field" /></em> failed.</epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/UpdateDatabase:updated">Added/updated the database:<dl><dt>Datasets</dt><dd><epc:pin name="datasets"/></dd><dt>Fields</dt><dd><epc:pin name="fields"/></dd></dl></epp:phrase>
 	<epp:phrase id="Plugin/Screen/Admin/UpdateDatabase:migrated">Migrated singular values to multiple for <em><epc:pin name="dataset" />.<epc:pin name="field" /></em>.</epp:phrase>
-	
+
 	<epp:phrase id="cgi/lookup/name:authored"><small> (author of <epc:pin name="count"/> item(s) in this repository)</small></epp:phrase>
 
 <!-- document formats (see also "document" named set) -->
