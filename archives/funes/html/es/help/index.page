@@ -58,12 +58,12 @@
 <p>Si usted no tiene una idea concreta de lo que está buscando,
 puede hacer una exploración por término clave, autor, fecha, enfoque y nivel educativo. La
 exploración por término clave le presenta la
-estructura de los términos clave de Mi Acervo Digital EPrints, para aquellos
+estructura de los términos clave de Funes, para aquellos
 términos clave que han sido utilizados para etiquetar al menos
 un documento.</p>
 <p>Una vez seleccionada la
-exploración, Mi Acervo Digital EPrints le presenta una lista de posibles valores de los
-que puede escoger. Al escoger un valor, Mi Acervo Digital EPrints le presenta la lista de
+exploración, Funes le presenta una lista de posibles valores de los
+que puede escoger. Al escoger un valor, Funes le presenta la lista de
 los documentos que satisfacen ese valor.</p>
 <p>Para tener mayor información sobre un registro y descargar sus archivos, pulse sobre el título del documento.</p>
 <p>En la página de información sobre un registro, usted
@@ -73,7 +73,7 @@ registros etiquetados con ese término clave.</p>
 <a name="Searching"></a> 
 <h2 style="font-weight: normal;"><span style="color: rgb(153, 153, 153);">Búsquedas </span> </h2>
 
-<p>Además de la búsqueda general que usted puede hacer introduciendo texto en el campo que aparece en la parte superior derecha de todas las páginas, Mi Acervo Digital EPrints tiene dos niveles de búsqueda: simple y
+<p>Además de la búsqueda general que usted puede hacer introduciendo texto en el campo que aparece en la parte superior derecha de todas las páginas, Funes tiene dos niveles de búsqueda: simple y
 avanzada. Estas búsquedas se diferencian en que la
 búsqueda avanzada permite utilizar diversos campos con
 más detalle. Para hacer una búsqueda simple, introduzca
@@ -183,7 +183,7 @@ keywords. </p>
 
 
 
-<p>Para que usted pueda depositar documentos en Mi Acervo Digital EPrints es necesario que usted se registre en el sistema. Para ello, debe llenar la información que se le solicita en el siguiente formulario (<a href="%7B$config%7Bperl_url%7D%7D/users/record">http://157.253.25.235/cgi</a>). El sistema le enviará un mensaje de correo electrónico con las instrucciones para que usted confirme su identificación. Usted también puede utilizar este formulario para cambiar sus datos, una vez se haya registrado. </p>
+<p>Para que usted pueda depositar documentos en Funes es necesario que usted se registre en el sistema. Para ello, debe llenar la información que se le solicita en el siguiente formulario (<a href="%7B$config%7Bperl_url%7D%7D/users/record">http://157.253.25.235/cgi</a>). El sistema le enviará un mensaje de correo electrónico con las instrucciones para que usted confirme su identificación. Usted también puede utilizar este formulario para cambiar sus datos, una vez se haya registrado. </p>
 
 
 <a name="Depositing"></a> 
@@ -346,7 +346,7 @@ submitted by someone else. </p>-->
 
 <p>Una vez que haya escogido el archivo, usted debe pulsar el botón "Cargar" a la derecha del nombre del archivo. Esta acción inicia el proceso de carga del archivo. Este proceso puede tomar algún tiempo, dependiendo del tamaño del archivo. Usted debe esperar a que termine, antes de continuar.</p>
 
-<p>Una vez que el archivo se ha cargado, aparecen varios campos obligatorios que se llenan automáticamente. Los campos obligatorios se identifican por una estrella roja a la izquierda del nombre del campo. Tenga en cuenta que usted puede pulsar el botón que contiene un signo de interrogación para obtener ayuda específica a la información que se requiere para el campo correspondiente. En particular, debe asegurarse que el archivo es visible a cualquier persona, dado que Mi Acervo Digital EPrints sólo acepta este tipo de registros. 
+<p>Una vez que el archivo se ha cargado, aparecen varios campos obligatorios que se llenan automáticamente. Los campos obligatorios se identifican por una estrella roja a la izquierda del nombre del campo. Tenga en cuenta que usted puede pulsar el botón que contiene un signo de interrogación para obtener ayuda específica a la información que se requiere para el campo correspondiente. En particular, debe asegurarse que el archivo es visible a cualquier persona, dado que Funes sólo acepta este tipo de registros. 
 </p>
 
 <p>El campo "Licencia" es muy importante. Se llena automáticamente con la licencia de Creative Commons conocida como "Reconocimiento sin Derivar" que indica que quien use su documento debe hacer explícito un reconocimiento al mismo y no puede cambiar o transformar su contenido.</p>
@@ -516,7 +516,7 @@ submitted by someone else. </p>-->
 <p>En esta página, usted finaliza el proceso. Si toda la información está completa, usted debe leer las condiciones de registro en relación con los derechos de autor del documento y sus metadatos. Después pulsar el botón "Depositar Registro" para terminar el registro. </p>
 
 
-<p>Una vez depositado, su registro será revisado por el editor. El editor podrá publicarlo en Mi Acervo Digital EPrints o comunicarse con usted en caso de que encuentre problemas con el registro.</p>
+<p>Una vez depositado, su registro será revisado por el editor. El editor podrá publicarlo en Funes o comunicarse con usted en caso de que encuentre problemas con el registro.</p>
 
 
 

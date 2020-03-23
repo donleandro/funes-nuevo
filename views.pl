@@ -76,6 +76,7 @@ $c->{browse_views} = [
 			"date;res=year,reverse",
 			"divisions",
 			"type",
+			"valoration;reverse",
 			"DEFAULT"
 		],
         },

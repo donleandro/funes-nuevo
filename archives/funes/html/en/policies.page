@@ -10,7 +10,7 @@
 </td></tr></tbody></table></div></div>
 
 <form method="post" action="http://www.opendoar.org/tools/policytool.php">
-<textarea style="display: none" name="rName">Mi Acervo Digital EPrints</textarea>
+<textarea style="display: none" name="rName">Funes</textarea>
 <input type="hidden" name="la" value="en" />
 <input type="hidden" name="rUrl" value="http://157.253.25.235/" />
 <input type="hidden" name="rOaiBaseUrl" value="http://157.253.25.235/cgi/oai2" />

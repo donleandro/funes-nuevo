@@ -1,0 +1,16 @@
+archives/funes/documents/*
+archives/asocolme/*
+archives/seiem_funes/*
+archives/funes/html/es/seiem/*
+archives/funes/html/en/seiem/*
+archives/funes/html/es/view/*
+archives/funes/html/es/view_thumbs/*
+archives/funes/html/en/view/*
+archives/funes/html/en/view_thumbs/*
+archives/funes/var/xapian/*
+*.DB
+archives/funes/html/es/archive/*
+archives/funes/html/en/archive/*
+archives/funes/html/es/compartida/*
+archives/funes/html/en/compartida/*
+.mysql_history

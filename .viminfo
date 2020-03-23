@@ -1,0 +1,270 @@
+# Vim 7.4 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último Patrón de búsqueda:
+~Msle0~/\<smtp\>
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:wq!
+:q!
+:wq
+:q
+:w
+:s
+:o
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+? \<smtp\>
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""1	LINE	0
+				"valoration;reverse",
+"-	CHAR	0
+	o
+
+# Marcas en el archivo:
+'0  11  65  ~/archives/funes/cfg/lang/es/phrases/views.xml.epmnew
+'1  79  3  ~/archives/funes/cfg/cfg.d/views.pl
+'2  1  0  ~/archives/funes/cfg/lang/en/phrases/archive_name.xml
+'3  3  27  ~/archives/funes/cfg/cfg.d/10_core.pl
+'4  1  0  ~/archives/funes/cfg/cfg.d/adminemail.pl
+'5  1621  59  ~/perl_lib/EPrints/DataObj/Document.pm
+'6  645  30  ~/perl_lib/EPrints/Utils.pm
+'7  55  0  /tmp/sneep-0.3.2/database/create_tables.sql
+'8  1  0  /tmp/sneep-0.3.2/cfg/lang/en/phrases/sneep.xml
+'9  262  0  /tmp/sneep-0.3.2/install
+
+# Lista de saltos (el más reciente va primero):
+-'  11  65  ~/archives/funes/cfg/lang/es/phrases/views.xml.epmnew
+-'  1  0  ~/archives/funes/cfg/lang/es/phrases/views.xml.epmnew
+-'  79  3  ~/archives/funes/cfg/cfg.d/views.pl
+-'  1  0  ~/archives/funes/cfg/cfg.d/views.pl
+-'  1  0  ~/archives/funes/cfg/lang/en/phrases/archive_name.xml
+-'  3  27  ~/archives/funes/cfg/cfg.d/10_core.pl
+-'  1  0  ~/archives/funes/cfg/cfg.d/10_core.pl
+-'  1  0  ~/archives/funes/cfg/cfg.d/adminemail.pl
+-'  1621  59  ~/perl_lib/EPrints/DataObj/Document.pm
+-'  1  0  ~/perl_lib/EPrints/DataObj/Document.pm
+-'  645  30  ~/perl_lib/EPrints/Utils.pm
+-'  1  0  ~/perl_lib/EPrints/Utils.pm
+-'  55  0  /tmp/sneep-0.3.2/database/create_tables.sql
+-'  1  0  /tmp/sneep-0.3.2/database/create_tables.sql
+-'  1  0  /tmp/sneep-0.3.2/cfg/lang/en/phrases/sneep.xml
+-'  262  0  /tmp/sneep-0.3.2/install
+-'  1  0  /tmp/sneep-0.3.2/install
+-'  1  0  /tmp/sneep-0.3.2/INSTALL
+-'  27  0  /tmp/sneep-0.3.2/INSTALL
+-'  1  0  /tmp/sneep-0.3.2/README
+-'  86  0  ~/archives/funes/cfg/lang/en/templates/default.xml
+-'  1  0  ~/archives/funes/cfg/lang/en/templates/default.xml
+-'  148  0  ~/archives/funes/cfg/lang/es/templates/default.xml
+-'  1  0  ~/archives/funes/cfg/lang/es/templates/default.xml
+-'  133  93  ~/archives/funes/cfg/lang/es/templates/default.xml
+-'  1  0  ~/archives/funes/cfg/lang/es/templates/default
+-'  219  0  ~/perl_lib/EPrints/Email.pm
+-'  1  0  ~/perl_lib/EPrints/Email.pm
+-'  197  0  ~/perl_lib/EPrints/Email.pm
+-'  192  0  ~/perl_lib/EPrints/Email.pm
+-'  191  0  ~/perl_lib/EPrints/Email.pm
+-'  189  0  ~/perl_lib/EPrints/Email.pm
+-'  160  0  ~/perl_lib/EPrints/Email.pm
+-'  1  0  ~/perl_lib/EPrints/Email
+-'  188  41  ~/perl_lib/EPrints/Email.pm
+-'  206  0  ~/perl_lib/EPrints/Email.pm
+-'  209  0  ~/perl_lib/EPrints/Email.pm
+-'  1  0  ~/lib/defaultcfg/cfg.d/email.pl
+-'  1  0  ~/archives/funes/cfg/cfg.d/email.pl
+-'  23  0  ~/archives/funes/html/es/index.page
+-'  1  0  ~/archives/funes/html/es/index.page
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default.xml
+-'  40  7  ~/archives/prueba/cfg/lang/es/templates/default.xml
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  112  0  ~/archives/prueba/cfg/lang/es/templates/default.xml
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default.xml
+-'  40  7  ~/archives/prueba/cfg/lang/es/templates/default.xml
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  112  0  ~/archives/prueba/cfg/lang/es/templates/default.xml
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  ~/archives/prueba/cfg/lang/es/templates/default
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+-'  1  0  /home/funes/index.page
+-'  1  0  /home/funes/index.page
+-'  44  0  ~/archives/prueba/html/es/index.page
+-'  1  0  ~/archives/prueba/html/es/index.page
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/archives/funes/cfg/lang/es/phrases/views.xml.epmnew
+	"	11	65
+	^	11	66
+	.	11	66
+	+	11	66
+
+> ~/archives/funes/cfg/cfg.d/views.pl
+	"	79	3
+	.	79	0
+	+	79	0
+
+> ~/archives/funes/cfg/lang/en/phrases/archive_name.xml
+	"	1	0
+
+> ~/archives/funes/cfg/cfg.d/10_core.pl
+	"	3	27
+	^	3	28
+	.	3	27
+	+	3	27
+
+> ~/archives/funes/cfg/cfg.d/adminemail.pl
+	"	1	0
+
+> ~/perl_lib/EPrints/DataObj/Document.pm
+	"	1621	59
+	^	1621	60
+	.	1621	59
+	+	1621	59
+
+> ~/perl_lib/EPrints/Utils.pm
+	"	645	30
+	^	645	31
+	.	645	31
+	+	645	5
+	+	646	4
+	+	645	31
+
+> /tmp/sneep-0.3.2/database/create_tables.sql
+	"	55	0
+
+> /tmp/sneep-0.3.2/cfg/lang/en/phrases/sneep.xml
+	"	1	0
+
+> /tmp/sneep-0.3.2/install
+	"	262	0
+
+> /tmp/sneep-0.3.2/INSTALL
+	"	1	0
+
+> /tmp/sneep-0.3.2/README
+	"	1	0
+
+> ~/archives/funes/cfg/lang/en/templates/default.xml
+	"	86	0
+
+> ~/archives/funes/cfg/lang/es/templates/default.xml
+	"	148	0
+	^	133	94
+	.	133	94
+	+	133	94
+
+> ~/archives/funes/cfg/lang/es/templates/default
+	"	1	0
+
+> ~/perl_lib/EPrints/Email.pm
+	"	219	0
+	^	197	0
+	.	197	0
+	+	187	57
+	+	167	26
+	+	184	26
+	+	192	6
+	+	187	77
+	+	183	0
+	+	179	0
+	+	179	44
+	+	180	4
+	+	181	3
+	+	182	3
+	+	183	3
+	+	179	53
+	+	180	48
+	+	181	32
+	+	182	33
+	+	183	39
+	+	184	1
+	+	179	8
+	+	196	26
+	+	197	0
+
+> ~/perl_lib/EPrints/Email
+	"	1	0
+
+> ~/lib/defaultcfg/cfg.d/email.pl
+	"	1	0
+
+> ~/archives/funes/cfg/cfg.d/email.pl
+	"	1	0
+
+> ~/archives/funes/html/es/index.page
+	"	23	0
+
+> ~/archives/prueba/cfg/lang/es/templates/default.xml
+	"	1	0
+	^	2	2
+	.	1	0
+	+	108	0
+	+	1	0
+	+	2	1
+	+	1	0
+
+> ~/archives/prueba/cfg/lang/es/templates/default
+	"	1	0
+
+> ~/archives/prueba/html/es/index.page
+	"	44	0
+
+> /home/funes/index.page
+	"	1	0
